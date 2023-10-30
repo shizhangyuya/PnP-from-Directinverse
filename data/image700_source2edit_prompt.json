@@ -1,0 +1,4902 @@
+{
+    "000000000000": {
+        "image_path": "0_random_140/000000000000.jpg",
+        "source_prompt": "a slanted mountain bicycle on the road in front of a building",
+        "genre_class": 11,
+        "artist_class": 20,
+        "style_class": 25
+    },
+    "000000000001": {
+        "image_path": "0_random_140/000000000001.jpg",
+        "source_prompt": "a round cake with orange frosting on a wooden plate",
+        "genre_class": 2,
+        "artist_class": 10,
+        "style_class": 24
+    },
+    "000000000002": {
+        "image_path": "0_random_140/000000000002.jpg",
+        "source_prompt": "a cat sitting on a wooden chair",
+        "genre_class": 6,
+        "artist_class": 16,
+        "style_class": 15
+    },
+    "000000000003": {
+        "image_path": "0_random_140/000000000003.jpg",
+        "source_prompt": "blue light, a black and white cat is playing with a flower",
+        "genre_class": 12,
+        "artist_class": 17,
+        "style_class": 11
+    },
+    "000000000004": {
+        "image_path": "0_random_140/000000000004.jpg",
+        "source_prompt": "a cat sitting next to a mirror",
+        "genre_class": 5,
+        "artist_class": 7,
+        "style_class": 1
+    },
+    "000000000005": {
+        "image_path": "0_random_140/000000000005.jpg",
+        "source_prompt": "an orange cat sitting on top of a fence",
+        "genre_class": 20,
+        "artist_class": 4,
+        "style_class": 3
+    },
+    "000000000006": {
+        "image_path": "0_random_140/000000000006.jpg",
+        "source_prompt": "a cup of coffee with drawing of tulip putted on the wooden table",
+        "genre_class": 15,
+        "artist_class": 7,
+        "style_class": 7
+    },
+    "000000000007": {
+        "image_path": "0_random_140/000000000007.jpg",
+        "source_prompt": "a german shepherd dog stands on the grass with mouth closed",
+        "genre_class": 9,
+        "artist_class": 9,
+        "style_class": 22
+    },
+    "000000000008": {
+        "image_path": "0_random_140/000000000008.jpg",
+        "source_prompt": "a golden retriever holding a flower sitting on the ground in front of fence",
+        "genre_class": 18,
+        "artist_class": 13,
+        "style_class": 14
+    },
+    "000000000009": {
+        "image_path": "0_random_140/000000000009.jpg",
+        "source_prompt": "a dog is laying down on a white background",
+        "genre_class": 4,
+        "artist_class": 4,
+        "style_class": 14
+    },
+    "000000000010": {
+        "image_path": "0_random_140/000000000010.jpg",
+        "source_prompt": "photo of a goat and a cat standing on rocks near the ocean",
+        "genre_class": 11,
+        "artist_class": 2,
+        "style_class": 10
+    },
+    "000000000011": {
+        "image_path": "0_random_140/000000000011.jpg",
+        "source_prompt": "a colorful bird standing on a branch",
+        "genre_class": 6,
+        "artist_class": 14,
+        "style_class": 6
+    },
+    "000000000012": {
+        "image_path": "0_random_140/000000000012.jpg",
+        "source_prompt": "meat balls on white plate",
+        "genre_class": 2,
+        "artist_class": 14,
+        "style_class": 0
+    },
+    "000000000013": {
+        "image_path": "0_random_140/000000000013.jpg",
+        "source_prompt": "three white dumplings on brown bowl",
+        "genre_class": 14,
+        "artist_class": 21,
+        "style_class": 3
+    },
+    "000000000014": {
+        "image_path": "0_random_140/000000000014.jpg",
+        "source_prompt": "a man with his hands hanging down standing by a house",
+        "genre_class": 13,
+        "artist_class": 14,
+        "style_class": 1
+    },
+    "000000000015": {
+        "image_path": "0_random_140/000000000015.jpg",
+        "source_prompt": "white plate with fruits on it",
+        "genre_class": 19,
+        "artist_class": 17,
+        "style_class": 8
+    },
+    "000000000016": {
+        "image_path": "0_random_140/000000000016.jpg",
+        "source_prompt": "a plate with steak on it",
+        "genre_class": 19,
+        "artist_class": 1,
+        "style_class": 18
+    },
+    "000000000017": {
+        "image_path": "0_random_140/000000000017.jpg",
+        "source_prompt": "photo of a statue in front view",
+        "genre_class": 4,
+        "artist_class": 20,
+        "style_class": 11
+    },
+    "000000000018": {
+        "image_path": "0_random_140/000000000018.jpg",
+        "source_prompt": "the statue of liberty holding a torch",
+        "genre_class": 17,
+        "artist_class": 7,
+        "style_class": 4
+    },
+    "000000000019": {
+        "image_path": "0_random_140/000000000019.jpg",
+        "source_prompt": "white tiger on brown ground",
+        "genre_class": 4,
+        "artist_class": 17,
+        "style_class": 2
+    },
+    "000000000020": {
+        "image_path": "0_random_140/000000000020.jpg",
+        "source_prompt": "two birds sitting on a branch",
+        "genre_class": 12,
+        "artist_class": 8,
+        "style_class": 21
+    },
+    "000000000021": {
+        "image_path": "0_random_140/000000000021.jpg",
+        "source_prompt": "two parrots sitting on a stick, city street background",
+        "genre_class": 1,
+        "artist_class": 13,
+        "style_class": 26
+    },
+    "000000000022": {
+        "image_path": "0_random_140/000000000022.jpg",
+        "source_prompt": "an orange van with surfboards on top",
+        "genre_class": 9,
+        "artist_class": 8,
+        "style_class": 14
+    },
+    "000000000023": {
+        "image_path": "0_random_140/000000000023.jpg",
+        "source_prompt": "a gray horse in the field",
+        "genre_class": 17,
+        "artist_class": 8,
+        "style_class": 23
+    },
+    "000000000024": {
+        "image_path": "0_random_140/000000000024.jpg",
+        "source_prompt": "a white horse running in the sunset",
+        "genre_class": 4,
+        "artist_class": 17,
+        "style_class": 13
+    },
+    "000000000025": {
+        "image_path": "0_random_140/000000000025.jpg",
+        "source_prompt": "a woman with blue hair wearing a shirt",
+        "genre_class": 20,
+        "artist_class": 18,
+        "style_class": 19
+    },
+    "000000000026": {
+        "image_path": "0_random_140/000000000026.jpg",
+        "source_prompt": "a yellow bird with a red beak sitting on a branch",
+        "genre_class": 15,
+        "artist_class": 8,
+        "style_class": 12
+    },
+    "000000000027": {
+        "image_path": "0_random_140/000000000027.jpg",
+        "source_prompt": "a opened eyes cat sitting on wooden floor",
+        "genre_class": 19,
+        "artist_class": 7,
+        "style_class": 12
+    },
+    "000000000028": {
+        "image_path": "0_random_140/000000000028.jpg",
+        "source_prompt": "white flowers on a tree branch with blue sky background",
+        "genre_class": 10,
+        "artist_class": 0,
+        "style_class": 22
+    },
+    "000000000029": {
+        "image_path": "0_random_140/000000000029.jpg",
+        "source_prompt": "a kitten walking through the grass",
+        "genre_class": 3,
+        "artist_class": 11,
+        "style_class": 14
+    },
+    "000000000030": {
+        "image_path": "0_random_140/000000000030.jpg",
+        "source_prompt": "a stream in a lush green forest with rocks",
+        "genre_class": 2,
+        "artist_class": 18,
+        "style_class": 8
+    },
+    "000000000031": {
+        "image_path": "0_random_140/000000000031.jpg",
+        "source_prompt": "a red rose in the dark",
+        "genre_class": 2,
+        "artist_class": 14,
+        "style_class": 26
+    },
+    "000000000032": {
+        "image_path": "0_random_140/000000000032.jpg",
+        "source_prompt": "a group of pink flowers hanging from a tree",
+        "genre_class": 1,
+        "artist_class": 2,
+        "style_class": 2
+    },
+    "000000000033": {
+        "image_path": "0_random_140/000000000033.jpg",
+        "source_prompt": "a cartoon of a boy walking his dog in autumn",
+        "genre_class": 13,
+        "artist_class": 13,
+        "style_class": 17
+    },
+    "000000000034": {
+        "image_path": "0_random_140/000000000034.jpg",
+        "source_prompt": "a mother duck and her babies are standing near the water",
+        "genre_class": 1,
+        "artist_class": 13,
+        "style_class": 16
+    },
+    "000000000035": {
+        "image_path": "0_random_140/000000000035.jpg",
+        "source_prompt": "photograph - window of the world by jimmy kirk",
+        "genre_class": 2,
+        "artist_class": 19,
+        "style_class": 5
+    },
+    "000000000036": {
+        "image_path": "0_random_140/000000000036.jpg",
+        "source_prompt": "smoke",
+        "genre_class": 20,
+        "artist_class": 1,
+        "style_class": 6
+    },
+    "000000000037": {
+        "image_path": "0_random_140/000000000037.jpg",
+        "source_prompt": "mountain landscape with flowers and withered grass",
+        "genre_class": 15,
+        "artist_class": 0,
+        "style_class": 25
+    },
+    "000000000038": {
+        "image_path": "0_random_140/000000000038.jpg",
+        "source_prompt": "a little girl with green eyes and flowers in a blue dress",
+        "genre_class": 16,
+        "artist_class": 8,
+        "style_class": 25
+    },
+    "000000000039": {
+        "image_path": "0_random_140/000000000039.jpg",
+        "source_prompt": "two ducks in the dirt",
+        "genre_class": 16,
+        "artist_class": 15,
+        "style_class": 13
+    },
+    "000000000040": {
+        "image_path": "0_random_140/000000000040.jpg",
+        "source_prompt": "a cat sitting with beads collar",
+        "genre_class": 9,
+        "artist_class": 11,
+        "style_class": 23
+    },
+    "000000000041": {
+        "image_path": "0_random_140/000000000041.jpg",
+        "source_prompt": "the arctic sky",
+        "genre_class": 4,
+        "artist_class": 19,
+        "style_class": 5
+    },
+    "000000000042": {
+        "image_path": "0_random_140/000000000042.jpg",
+        "source_prompt": "a black wolf is standing on rocks in a dark forest",
+        "genre_class": 19,
+        "artist_class": 2,
+        "style_class": 2
+    },
+    "000000000043": {
+        "image_path": "0_random_140/000000000043.jpg",
+        "source_prompt": "a large red cargo ship in the ocean at sunset",
+        "genre_class": 17,
+        "artist_class": 18,
+        "style_class": 9
+    },
+    "000000000044": {
+        "image_path": "0_random_140/000000000044.jpg",
+        "source_prompt": "a cat sitting in the grass",
+        "genre_class": 18,
+        "artist_class": 5,
+        "style_class": 14
+    },
+    "000000000045": {
+        "image_path": "0_random_140/000000000045.jpg",
+        "source_prompt": "the christmas illustration of a santa's laughing face",
+        "genre_class": 19,
+        "artist_class": 16,
+        "style_class": 20
+    },
+    "000000000046": {
+        "image_path": "0_random_140/000000000046.jpg",
+        "source_prompt": "painting of clouds in the sky",
+        "genre_class": 19,
+        "artist_class": 4,
+        "style_class": 13
+    },
+    "000000000047": {
+        "image_path": "0_random_140/000000000047.jpg",
+        "source_prompt": "rusty car by jill kaufman",
+        "genre_class": 8,
+        "artist_class": 2,
+        "style_class": 1
+    },
+    "000000000048": {
+        "image_path": "0_random_140/000000000048.jpg",
+        "source_prompt": "sunset over a field with clouds and a bright sky",
+        "genre_class": 11,
+        "artist_class": 11,
+        "style_class": 6
+    },
+    "000000000049": {
+        "image_path": "0_random_140/000000000049.jpg",
+        "source_prompt": "black chair in a conference room",
+        "genre_class": 15,
+        "artist_class": 9,
+        "style_class": 13
+    },
+    "000000000050": {
+        "image_path": "0_random_140/000000000050.jpg",
+        "source_prompt": "a bird standing on clods",
+        "genre_class": 3,
+        "artist_class": 18,
+        "style_class": 22
+    },
+    "000000000051": {
+        "image_path": "0_random_140/000000000051.jpg",
+        "source_prompt": "a painting of pink and white flowers in a blue vase",
+        "genre_class": 7,
+        "artist_class": 21,
+        "style_class": 10
+    },
+    "000000000052": {
+        "image_path": "0_random_140/000000000052.jpg",
+        "source_prompt": "a logo of bird shape in a black background",
+        "genre_class": 13,
+        "artist_class": 17,
+        "style_class": 25
+    },
+    "000000000053": {
+        "image_path": "0_random_140/000000000053.jpg",
+        "source_prompt": "a fluffy dog with a blue leash sitting in the grass",
+        "genre_class": 19,
+        "artist_class": 16,
+        "style_class": 8
+    },
+    "000000000054": {
+        "image_path": "0_random_140/000000000054.jpg",
+        "source_prompt": "a camera and a notebook on a bed",
+        "genre_class": 17,
+        "artist_class": 10,
+        "style_class": 11
+    },
+    "000000000055": {
+        "image_path": "0_random_140/000000000055.jpg",
+        "source_prompt": "a black dog is looking at the camera in the snow",
+        "genre_class": 10,
+        "artist_class": 19,
+        "style_class": 26
+    },
+    "000000000056": {
+        "image_path": "0_random_140/000000000056.jpg",
+        "source_prompt": "a meerkat puppy wrapped in a blue towel",
+        "genre_class": 11,
+        "artist_class": 16,
+        "style_class": 15
+    },
+    "000000000057": {
+        "image_path": "0_random_140/000000000057.jpg",
+        "source_prompt": "an owl sitting on a branch",
+        "genre_class": 8,
+        "artist_class": 0,
+        "style_class": 25
+    },
+    "000000000058": {
+        "image_path": "0_random_140/000000000058.jpg",
+        "source_prompt": "purple tulips in vase",
+        "genre_class": 20,
+        "artist_class": 2,
+        "style_class": 26
+    },
+    "000000000059": {
+        "image_path": "0_random_140/000000000059.jpg",
+        "source_prompt": "a cartoon goat",
+        "genre_class": 8,
+        "artist_class": 22,
+        "style_class": 17
+    },
+    "000000000060": {
+        "image_path": "0_random_140/000000000060.jpg",
+        "source_prompt": "a yellow apple sitting on top of a wooden table",
+        "genre_class": 10,
+        "artist_class": 16,
+        "style_class": 20
+    },
+    "000000000061": {
+        "image_path": "0_random_140/000000000061.jpg",
+        "source_prompt": "a mid autumn road lined with trees and leaves",
+        "genre_class": 16,
+        "artist_class": 0,
+        "style_class": 22
+    },
+    "000000000062": {
+        "image_path": "0_random_140/000000000062.jpg",
+        "source_prompt": "a rabbit is sitting in a pile of colorful eggs",
+        "genre_class": 14,
+        "artist_class": 9,
+        "style_class": 26
+    },
+    "000000000063": {
+        "image_path": "0_random_140/000000000063.jpg",
+        "source_prompt": "a vase with some blooming flowers in it",
+        "genre_class": 1,
+        "artist_class": 11,
+        "style_class": 4
+    },
+    "000000000064": {
+        "image_path": "0_random_140/000000000064.jpg",
+        "source_prompt": "a woman in front of a glowing yellow light",
+        "genre_class": 15,
+        "artist_class": 19,
+        "style_class": 21
+    },
+    "000000000065": {
+        "image_path": "0_random_140/000000000065.jpg",
+        "source_prompt": "a bird is sitting on a branch with moss",
+        "genre_class": 5,
+        "artist_class": 2,
+        "style_class": 16
+    },
+    "000000000066": {
+        "image_path": "0_random_140/000000000066.jpg",
+        "source_prompt": "a dalmatian dog laying on the ground",
+        "genre_class": 12,
+        "artist_class": 13,
+        "style_class": 0
+    },
+    "000000000067": {
+        "image_path": "0_random_140/000000000067.jpg",
+        "source_prompt": "a woman in a jacket standing in the rain",
+        "genre_class": 1,
+        "artist_class": 15,
+        "style_class": 8
+    },
+    "000000000068": {
+        "image_path": "0_random_140/000000000068.jpg",
+        "source_prompt": "photo of horses running in the woods",
+        "genre_class": 4,
+        "artist_class": 0,
+        "style_class": 4
+    },
+    "000000000069": {
+        "image_path": "0_random_140/000000000069.jpg",
+        "source_prompt": "sea and house",
+        "genre_class": 18,
+        "artist_class": 14,
+        "style_class": 3
+    },
+    "000000000070": {
+        "image_path": "0_random_140/000000000070.jpg",
+        "source_prompt": "the city of dresden, germany, europe",
+        "genre_class": 17,
+        "artist_class": 0,
+        "style_class": 24
+    },
+    "000000000071": {
+        "image_path": "0_random_140/000000000071.jpg",
+        "source_prompt": "an apple with two faces on it in a white background",
+        "genre_class": 8,
+        "artist_class": 10,
+        "style_class": 21
+    },
+    "000000000072": {
+        "image_path": "0_random_140/000000000072.jpg",
+        "source_prompt": "colorful cups",
+        "genre_class": 2,
+        "artist_class": 3,
+        "style_class": 11
+    },
+    "000000000073": {
+        "image_path": "0_random_140/000000000073.jpg",
+        "source_prompt": "a spring field with trees and a blue sky",
+        "genre_class": 2,
+        "artist_class": 6,
+        "style_class": 10
+    },
+    "000000000074": {
+        "image_path": "0_random_140/000000000074.jpg",
+        "source_prompt": "a mountain is covered in clouds and snow",
+        "genre_class": 20,
+        "artist_class": 16,
+        "style_class": 11
+    },
+    "000000000075": {
+        "image_path": "0_random_140/000000000075.jpg",
+        "source_prompt": "a woman with flowers around her face",
+        "genre_class": 17,
+        "artist_class": 2,
+        "style_class": 15
+    },
+    "000000000076": {
+        "image_path": "0_random_140/000000000076.jpg",
+        "source_prompt": "a painting of a cup with a smoke coming out of it",
+        "genre_class": 9,
+        "artist_class": 21,
+        "style_class": 8
+    },
+    "000000000077": {
+        "image_path": "0_random_140/000000000077.jpg",
+        "source_prompt": "a painting of a cabin in the snow with mountains in the background",
+        "genre_class": 6,
+        "artist_class": 22,
+        "style_class": 12
+    },
+    "000000000078": {
+        "image_path": "0_random_140/000000000078.jpg",
+        "source_prompt": "ocean with clouds in the sky",
+        "genre_class": 18,
+        "artist_class": 19,
+        "style_class": 24
+    },
+    "000000000079": {
+        "image_path": "0_random_140/000000000079.jpg",
+        "source_prompt": "a man walking in a town with mountains in the background",
+        "genre_class": 11,
+        "artist_class": 8,
+        "style_class": 0
+    },
+    "000000000080": {
+        "image_path": "0_random_140/000000000080.jpg",
+        "source_prompt": "a cat is shown in a low polygonal style",
+        "genre_class": 18,
+        "artist_class": 20,
+        "style_class": 11
+    },
+    "000000000081": {
+        "image_path": "0_random_140/000000000081.jpg",
+        "source_prompt": "mushrooms on a branch in the forest",
+        "genre_class": 5,
+        "artist_class": 1,
+        "style_class": 24
+    },
+    "000000000082": {
+        "image_path": "0_random_140/000000000082.jpg",
+        "source_prompt": "a cute dog holding a red heart",
+        "genre_class": 20,
+        "artist_class": 5,
+        "style_class": 21
+    },
+    "000000000083": {
+        "image_path": "0_random_140/000000000083.jpg",
+        "source_prompt": "a water droplet hangs from a string of lights",
+        "genre_class": 2,
+        "artist_class": 4,
+        "style_class": 26
+    },
+    "000000000084": {
+        "image_path": "0_random_140/000000000084.jpg",
+        "source_prompt": "two red and white toy gnomes are sitting on a snow covered surface",
+        "genre_class": 11,
+        "artist_class": 20,
+        "style_class": 15
+    },
+    "000000000085": {
+        "image_path": "0_random_140/000000000085.jpg",
+        "source_prompt": "wolf howling at the moon with a outline of a wolf",
+        "genre_class": 19,
+        "artist_class": 9,
+        "style_class": 5
+    },
+    "000000000086": {
+        "image_path": "0_random_140/000000000086.jpg",
+        "source_prompt": "the almond tree is blooming in the spring",
+        "genre_class": 5,
+        "artist_class": 0,
+        "style_class": 9
+    },
+    "000000000087": {
+        "image_path": "0_random_140/000000000087.jpg",
+        "source_prompt": "a jockey rides a horse on a grassy field",
+        "genre_class": 1,
+        "artist_class": 8,
+        "style_class": 19
+    },
+    "000000000088": {
+        "image_path": "0_random_140/000000000088.jpg",
+        "source_prompt": "a plate with rice, lemon slices and fish",
+        "genre_class": 1,
+        "artist_class": 16,
+        "style_class": 10
+    },
+    "000000000089": {
+        "image_path": "0_random_140/000000000089.jpg",
+        "source_prompt": "two red berries on a tree branch with a blue sky in the background",
+        "genre_class": 9,
+        "artist_class": 21,
+        "style_class": 20
+    },
+    "000000000090": {
+        "image_path": "0_random_140/000000000090.jpg",
+        "source_prompt": "a drawing of a woman with a towel on her head",
+        "genre_class": 3,
+        "artist_class": 19,
+        "style_class": 7
+    },
+    "000000000091": {
+        "image_path": "0_random_140/000000000091.jpg",
+        "source_prompt": "a girl sitting at a table with pizza and drinks",
+        "genre_class": 7,
+        "artist_class": 12,
+        "style_class": 23
+    },
+    "000000000092": {
+        "image_path": "0_random_140/000000000092.jpg",
+        "source_prompt": "lilas and book on wooden surface",
+        "genre_class": 19,
+        "artist_class": 10,
+        "style_class": 23
+    },
+    "000000000093": {
+        "image_path": "0_random_140/000000000093.jpg",
+        "source_prompt": "a collie dog is sitting on a bed",
+        "genre_class": 5,
+        "artist_class": 1,
+        "style_class": 25
+    },
+    "000000000094": {
+        "image_path": "0_random_140/000000000094.jpg",
+        "source_prompt": "a cat is sitting on a red blanket",
+        "genre_class": 7,
+        "artist_class": 3,
+        "style_class": 11
+    },
+    "000000000095": {
+        "image_path": "0_random_140/000000000095.jpg",
+        "source_prompt": "a painting of a fairy with green wings holding a glowing jar",
+        "genre_class": 20,
+        "artist_class": 3,
+        "style_class": 5
+    },
+    "000000000096": {
+        "image_path": "0_random_140/000000000096.jpg",
+        "source_prompt": "a white and black photo of bride and groom embrace in the woods",
+        "genre_class": 17,
+        "artist_class": 8,
+        "style_class": 16
+    },
+    "000000000097": {
+        "image_path": "0_random_140/000000000097.jpg",
+        "source_prompt": "a vase of colorful flowers on a wooden table",
+        "genre_class": 0,
+        "artist_class": 1,
+        "style_class": 22
+    },
+    "000000000098": {
+        "image_path": "0_random_140/000000000098.jpg",
+        "source_prompt": "a light bulb hanging from a wire with sky in the background",
+        "genre_class": 14,
+        "artist_class": 5,
+        "style_class": 3
+    },
+    "000000000099": {
+        "image_path": "0_random_140/000000000099.jpg",
+        "source_prompt": "a painting of a woman holding a pink flower",
+        "genre_class": 20,
+        "artist_class": 15,
+        "style_class": 21
+    },
+    "000000000100": {
+        "image_path": "0_random_140/000000000100.jpg",
+        "source_prompt": "a woman in black holding an umbrella walks through a field",
+        "genre_class": 16,
+        "artist_class": 17,
+        "style_class": 14
+    },
+    "000000000101": {
+        "image_path": "0_random_140/000000000101.jpg",
+        "source_prompt": "poppies",
+        "genre_class": 1,
+        "artist_class": 15,
+        "style_class": 7
+    },
+    "000000000102": {
+        "image_path": "0_random_140/000000000102.jpg",
+        "source_prompt": "a rose on the rail",
+        "genre_class": 17,
+        "artist_class": 12,
+        "style_class": 12
+    },
+    "000000000103": {
+        "image_path": "0_random_140/000000000103.jpg",
+        "source_prompt": "an abstract painting of waves and water",
+        "genre_class": 9,
+        "artist_class": 14,
+        "style_class": 17
+    },
+    "000000000104": {
+        "image_path": "0_random_140/000000000104.jpg",
+        "source_prompt": "a woman with flowers in her hair",
+        "genre_class": 12,
+        "artist_class": 3,
+        "style_class": 24
+    },
+    "000000000105": {
+        "image_path": "0_random_140/000000000105.jpg",
+        "source_prompt": "cat with yellow eyes",
+        "genre_class": 7,
+        "artist_class": 14,
+        "style_class": 8
+    },
+    "000000000106": {
+        "image_path": "0_random_140/000000000106.jpg",
+        "source_prompt": "a red mushroom with white spots on it is sitting on the ground",
+        "genre_class": 0,
+        "artist_class": 8,
+        "style_class": 17
+    },
+    "000000000107": {
+        "image_path": "0_random_140/000000000107.jpg",
+        "source_prompt": "a bird on the branch",
+        "genre_class": 3,
+        "artist_class": 6,
+        "style_class": 1
+    },
+    "000000000108": {
+        "image_path": "0_random_140/000000000108.jpg",
+        "source_prompt": "a woman sitting in a living room",
+        "genre_class": 4,
+        "artist_class": 3,
+        "style_class": 19
+    },
+    "000000000109": {
+        "image_path": "0_random_140/000000000109.jpg",
+        "source_prompt": "a farm with a thatched roof and trees in the background",
+        "genre_class": 5,
+        "artist_class": 20,
+        "style_class": 11
+    },
+    "000000000110": {
+        "image_path": "0_random_140/000000000110.jpg",
+        "source_prompt": "a young woman is holding a dog",
+        "genre_class": 0,
+        "artist_class": 18,
+        "style_class": 24
+    },
+    "000000000111": {
+        "image_path": "0_random_140/000000000111.jpg",
+        "source_prompt": "a cat with green eyes sitting on the ground",
+        "genre_class": 19,
+        "artist_class": 12,
+        "style_class": 6
+    },
+    "000000000112": {
+        "image_path": "0_random_140/000000000112.jpg",
+        "source_prompt": "a group of rubber ducks are lined up in a canal",
+        "genre_class": 10,
+        "artist_class": 19,
+        "style_class": 16
+    },
+    "000000000113": {
+        "image_path": "0_random_140/000000000113.jpg",
+        "source_prompt": "dogs running in the grass",
+        "genre_class": 20,
+        "artist_class": 0,
+        "style_class": 1
+    },
+    "000000000114": {
+        "image_path": "0_random_140/000000000114.jpg",
+        "source_prompt": "a photo of a man and woman sitting on the ground",
+        "genre_class": 14,
+        "artist_class": 12,
+        "style_class": 22
+    },
+    "000000000115": {
+        "image_path": "0_random_140/000000000115.jpg",
+        "source_prompt": "two ducks standing next to each other",
+        "genre_class": 1,
+        "artist_class": 21,
+        "style_class": 5
+    },
+    "000000000116": {
+        "image_path": "0_random_140/000000000116.jpg",
+        "source_prompt": "easter eggs in a teacup",
+        "genre_class": 18,
+        "artist_class": 18,
+        "style_class": 3
+    },
+    "000000000117": {
+        "image_path": "0_random_140/000000000117.jpg",
+        "source_prompt": "a pink flower with yellow center in the middle",
+        "genre_class": 15,
+        "artist_class": 16,
+        "style_class": 13
+    },
+    "000000000118": {
+        "image_path": "0_random_140/000000000118.jpg",
+        "source_prompt": "a small bird is sitting on a branch in a field",
+        "genre_class": 19,
+        "artist_class": 9,
+        "style_class": 19
+    },
+    "000000000119": {
+        "image_path": "0_random_140/000000000119.jpg",
+        "source_prompt": "a woman in red sitting on a chair with castle in the background",
+        "genre_class": 14,
+        "artist_class": 7,
+        "style_class": 1
+    },
+    "000000000120": {
+        "image_path": "0_random_140/000000000120.jpg",
+        "source_prompt": "woman with brown hair",
+        "genre_class": 20,
+        "artist_class": 16,
+        "style_class": 20
+    },
+    "000000000121": {
+        "image_path": "0_random_140/000000000121.jpg",
+        "source_prompt": "watercolor of leaves on a branch",
+        "genre_class": 16,
+        "artist_class": 9,
+        "style_class": 0
+    },
+    "000000000122": {
+        "image_path": "0_random_140/000000000122.jpg",
+        "source_prompt": "a view of the mountains covered in snow",
+        "genre_class": 20,
+        "artist_class": 16,
+        "style_class": 8
+    },
+    "000000000123": {
+        "image_path": "0_random_140/000000000123.jpg",
+        "source_prompt": "gold buddha statue in the temple",
+        "genre_class": 5,
+        "artist_class": 7,
+        "style_class": 16
+    },
+    "000000000124": {
+        "image_path": "0_random_140/000000000124.jpg",
+        "source_prompt": "the galaxy over the durdle door",
+        "genre_class": 1,
+        "artist_class": 0,
+        "style_class": 1
+    },
+    "000000000125": {
+        "image_path": "0_random_140/000000000125.jpg",
+        "source_prompt": "a close up of a purple flower on a black background",
+        "genre_class": 13,
+        "artist_class": 12,
+        "style_class": 3
+    },
+    "000000000126": {
+        "image_path": "0_random_140/000000000126.jpg",
+        "source_prompt": "a kitchen",
+        "genre_class": 10,
+        "artist_class": 21,
+        "style_class": 12
+    },
+    "000000000127": {
+        "image_path": "0_random_140/000000000127.jpg",
+        "source_prompt": "a boat is docked on a lake in the heavy fog",
+        "genre_class": 14,
+        "artist_class": 4,
+        "style_class": 14
+    },
+    "000000000128": {
+        "image_path": "0_random_140/000000000128.jpg",
+        "source_prompt": "cartoon painting of a fox sleeping with flowers with a gray background",
+        "genre_class": 1,
+        "artist_class": 3,
+        "style_class": 9
+    },
+    "000000000129": {
+        "image_path": "0_random_140/000000000129.jpg",
+        "source_prompt": "a woman with gold makeup",
+        "genre_class": 8,
+        "artist_class": 0,
+        "style_class": 8
+    },
+    "000000000130": {
+        "image_path": "0_random_140/000000000130.jpg",
+        "source_prompt": "a toy figure of naruto standing on a table",
+        "genre_class": 19,
+        "artist_class": 16,
+        "style_class": 11
+    },
+    "000000000131": {
+        "image_path": "0_random_140/000000000131.jpg",
+        "source_prompt": "a swan swimming in a pond with its head out the water",
+        "genre_class": 13,
+        "artist_class": 12,
+        "style_class": 25
+    },
+    "000000000132": {
+        "image_path": "0_random_140/000000000132.jpg",
+        "source_prompt": "a little girl wearing sunglasses and a gray shirt leaning against a wall",
+        "genre_class": 0,
+        "artist_class": 14,
+        "style_class": 2
+    },
+    "000000000133": {
+        "image_path": "0_random_140/000000000133.jpg",
+        "source_prompt": "a lion in the sky with a blue background",
+        "genre_class": 2,
+        "artist_class": 14,
+        "style_class": 16
+    },
+    "000000000134": {
+        "image_path": "0_random_140/000000000134.jpg",
+        "source_prompt": "a black and white bird flying in the blue sky",
+        "genre_class": 15,
+        "artist_class": 11,
+        "style_class": 18
+    },
+    "000000000135": {
+        "image_path": "0_random_140/000000000135.jpg",
+        "source_prompt": "the two people are standing on rocks with a fish",
+        "genre_class": 2,
+        "artist_class": 17,
+        "style_class": 26
+    },
+    "000000000136": {
+        "image_path": "0_random_140/000000000136.jpg",
+        "source_prompt": "a yellow bird sitting on a branch",
+        "genre_class": 13,
+        "artist_class": 13,
+        "style_class": 1
+    },
+    "000000000137": {
+        "image_path": "0_random_140/000000000137.jpg",
+        "source_prompt": "a golden pagoda in the snow",
+        "genre_class": 19,
+        "artist_class": 3,
+        "style_class": 10
+    },
+    "000000000138": {
+        "image_path": "0_random_140/000000000138.jpg",
+        "source_prompt": "a cat",
+        "genre_class": 6,
+        "artist_class": 20,
+        "style_class": 11
+    },
+    "000000000139": {
+        "image_path": "0_random_140/000000000139.jpg",
+        "source_prompt": "a duck standing on a rock near water",
+        "genre_class": 12,
+        "artist_class": 6,
+        "style_class": 12
+    },
+    "111000000000": {
+        "image_path": "1_change_object_80/1_artificial/1_animal/111000000000.jpg",
+        "source_prompt": "fishes in the ocean",
+        "genre_class": 14,
+        "artist_class": 21,
+        "style_class": 16
+    },
+    "111000000001": {
+        "image_path": "1_change_object_80/1_artificial/1_animal/111000000001.jpg",
+        "source_prompt": "a cat wearing a pink hat",
+        "genre_class": 18,
+        "artist_class": 1,
+        "style_class": 8
+    },
+    "111000000002": {
+        "image_path": "1_change_object_80/1_artificial/1_animal/111000000002.jpg",
+        "source_prompt": "a cute little duck with big eyes",
+        "genre_class": 9,
+        "artist_class": 6,
+        "style_class": 5
+    },
+    "111000000003": {
+        "image_path": "1_change_object_80/1_artificial/1_animal/111000000003.jpg",
+        "source_prompt": "a cute little bunny with big eyes",
+        "genre_class": 8,
+        "artist_class": 8,
+        "style_class": 18
+    },
+    "111000000004": {
+        "image_path": "1_change_object_80/1_artificial/1_animal/111000000004.jpg",
+        "source_prompt": "a cartoon painting of a cute owl with a heart on its body",
+        "genre_class": 0,
+        "artist_class": 14,
+        "style_class": 7
+    },
+    "111000000005": {
+        "image_path": "1_change_object_80/1_artificial/1_animal/111000000005.jpg",
+        "source_prompt": "a girl and her dog in a field",
+        "genre_class": 8,
+        "artist_class": 10,
+        "style_class": 4
+    },
+    "111000000006": {
+        "image_path": "1_change_object_80/1_artificial/1_animal/111000000006.jpg",
+        "source_prompt": "cat on the roof at night",
+        "genre_class": 7,
+        "artist_class": 2,
+        "style_class": 13
+    },
+    "111000000007": {
+        "image_path": "1_change_object_80/1_artificial/1_animal/111000000007.jpg",
+        "source_prompt": "an illustration of a cat sitting on top of a rock",
+        "genre_class": 16,
+        "artist_class": 22,
+        "style_class": 18
+    },
+    "111000000008": {
+        "image_path": "1_change_object_80/1_artificial/1_animal/111000000008.jpg",
+        "source_prompt": "a monkey wearing colorful goggles and a colorful scarf",
+        "genre_class": 14,
+        "artist_class": 21,
+        "style_class": 3
+    },
+    "111000000009": {
+        "image_path": "1_change_object_80/1_artificial/1_animal/111000000009.jpg",
+        "source_prompt": "a painting of a rat with red eyes",
+        "genre_class": 5,
+        "artist_class": 9,
+        "style_class": 16
+    },
+    "112000000000": {
+        "image_path": "1_change_object_80/1_artificial/2_human/112000000000.jpg",
+        "source_prompt": "a painting of a woman in green dress",
+        "genre_class": 10,
+        "artist_class": 6,
+        "style_class": 12
+    },
+    "112000000001": {
+        "image_path": "1_change_object_80/1_artificial/2_human/112000000001.jpg",
+        "source_prompt": "a beautiful woman with garland on head",
+        "genre_class": 3,
+        "artist_class": 3,
+        "style_class": 6
+    },
+    "112000000002": {
+        "image_path": "1_change_object_80/1_artificial/2_human/112000000002.jpg",
+        "source_prompt": "cartoon boy driving a car",
+        "genre_class": 11,
+        "artist_class": 14,
+        "style_class": 0
+    },
+    "112000000003": {
+        "image_path": "1_change_object_80/1_artificial/2_human/112000000003.jpg",
+        "source_prompt": "a girl with black hair and a white shirt is holding a phone",
+        "genre_class": 0,
+        "artist_class": 4,
+        "style_class": 12
+    },
+    "112000000004": {
+        "image_path": "1_change_object_80/1_artificial/2_human/112000000004.jpg",
+        "source_prompt": "a cartoon girl sitting on a backpack",
+        "genre_class": 5,
+        "artist_class": 18,
+        "style_class": 26
+    },
+    "112000000005": {
+        "image_path": "1_change_object_80/1_artificial/2_human/112000000005.jpg",
+        "source_prompt": "a woman standing under street light in the snow",
+        "genre_class": 6,
+        "artist_class": 5,
+        "style_class": 4
+    },
+    "112000000006": {
+        "image_path": "1_change_object_80/1_artificial/2_human/112000000006.jpg",
+        "source_prompt": "a cartoon man sitting at a desk with laptop",
+        "genre_class": 1,
+        "artist_class": 16,
+        "style_class": 19
+    },
+    "112000000007": {
+        "image_path": "1_change_object_80/1_artificial/2_human/112000000007.jpg",
+        "source_prompt": "a woman with a mask and flowers in her hair",
+        "genre_class": 6,
+        "artist_class": 17,
+        "style_class": 24
+    },
+    "112000000008": {
+        "image_path": "1_change_object_80/1_artificial/2_human/112000000008.jpg",
+        "source_prompt": "a painting of two women walking on the beach",
+        "genre_class": 12,
+        "artist_class": 12,
+        "style_class": 18
+    },
+    "112000000009": {
+        "image_path": "1_change_object_80/1_artificial/2_human/112000000009.jpg",
+        "source_prompt": "an angel with wings and a golden light",
+        "genre_class": 7,
+        "artist_class": 21,
+        "style_class": 17
+    },
+    "113000000000": {
+        "image_path": "1_change_object_80/1_artificial/3_indoor/113000000000.jpg",
+        "source_prompt": "a gold plated bowl filled with fruit",
+        "genre_class": 3,
+        "artist_class": 8,
+        "style_class": 4
+    },
+    "113000000001": {
+        "image_path": "1_change_object_80/1_artificial/3_indoor/113000000001.jpg",
+        "source_prompt": "a pepper on the table",
+        "genre_class": 8,
+        "artist_class": 19,
+        "style_class": 7
+    },
+    "113000000002": {
+        "image_path": "1_change_object_80/1_artificial/3_indoor/113000000002.jpg",
+        "source_prompt": "a vase sitting on a table near a window",
+        "genre_class": 13,
+        "artist_class": 22,
+        "style_class": 24
+    },
+    "113000000003": {
+        "image_path": "1_change_object_80/1_artificial/3_indoor/113000000003.jpg",
+        "source_prompt": "a cake with a pink and blue icing",
+        "genre_class": 15,
+        "artist_class": 11,
+        "style_class": 25
+    },
+    "113000000004": {
+        "image_path": "1_change_object_80/1_artificial/3_indoor/113000000004.jpg",
+        "source_prompt": "a cat and fish in a fish bowl",
+        "genre_class": 11,
+        "artist_class": 16,
+        "style_class": 12
+    },
+    "113000000005": {
+        "image_path": "1_change_object_80/1_artificial/3_indoor/113000000005.jpg",
+        "source_prompt": "a chair and lamp",
+        "genre_class": 5,
+        "artist_class": 16,
+        "style_class": 16
+    },
+    "113000000006": {
+        "image_path": "1_change_object_80/1_artificial/3_indoor/113000000006.jpg",
+        "source_prompt": "a woman's face is framed in a large photo on a wall",
+        "genre_class": 7,
+        "artist_class": 18,
+        "style_class": 1
+    },
+    "113000000007": {
+        "image_path": "1_change_object_80/1_artificial/3_indoor/113000000007.jpg",
+        "source_prompt": "a gold potted plant on a wooden table",
+        "genre_class": 7,
+        "artist_class": 10,
+        "style_class": 12
+    },
+    "113000000008": {
+        "image_path": "1_change_object_80/1_artificial/3_indoor/113000000008.jpg",
+        "source_prompt": "a teacup and saucer with a spoon and a fork",
+        "genre_class": 16,
+        "artist_class": 15,
+        "style_class": 9
+    },
+    "113000000009": {
+        "image_path": "1_change_object_80/1_artificial/3_indoor/113000000009.jpg",
+        "source_prompt": "a vase with sunflowers and pears on a table",
+        "genre_class": 7,
+        "artist_class": 10,
+        "style_class": 12
+    },
+    "114000000000": {
+        "image_path": "1_change_object_80/1_artificial/4_outdoor/114000000000.jpg",
+        "source_prompt": "a cup of coffee and a moon over the ocean",
+        "genre_class": 17,
+        "artist_class": 13,
+        "style_class": 21
+    },
+    "114000000001": {
+        "image_path": "1_change_object_80/1_artificial/4_outdoor/114000000001.jpg",
+        "source_prompt": "a cartoon bear playing golf on a green field",
+        "genre_class": 19,
+        "artist_class": 17,
+        "style_class": 17
+    },
+    "114000000002": {
+        "image_path": "1_change_object_80/1_artificial/4_outdoor/114000000002.jpg",
+        "source_prompt": "a painting of a castle in the middle of a lake",
+        "genre_class": 2,
+        "artist_class": 9,
+        "style_class": 12
+    },
+    "114000000003": {
+        "image_path": "1_change_object_80/1_artificial/4_outdoor/114000000003.jpg",
+        "source_prompt": "a colorful car is parked on the street",
+        "genre_class": 3,
+        "artist_class": 13,
+        "style_class": 11
+    },
+    "114000000004": {
+        "image_path": "1_change_object_80/1_artificial/4_outdoor/114000000004.jpg",
+        "source_prompt": "a blue pyramid with a reflection of mountains in the water",
+        "genre_class": 18,
+        "artist_class": 15,
+        "style_class": 16
+    },
+    "114000000005": {
+        "image_path": "1_change_object_80/1_artificial/4_outdoor/114000000005.jpg",
+        "source_prompt": "a house in the woods",
+        "genre_class": 20,
+        "artist_class": 17,
+        "style_class": 15
+    },
+    "114000000006": {
+        "image_path": "1_change_object_80/1_artificial/4_outdoor/114000000006.jpg",
+        "source_prompt": "a small cabin on an island in the middle of lake",
+        "genre_class": 4,
+        "artist_class": 11,
+        "style_class": 9
+    },
+    "114000000007": {
+        "image_path": "1_change_object_80/1_artificial/4_outdoor/114000000007.jpg",
+        "source_prompt": "a woman in a dress standing in front of a spaceship",
+        "genre_class": 15,
+        "artist_class": 11,
+        "style_class": 26
+    },
+    "114000000008": {
+        "image_path": "1_change_object_80/1_artificial/4_outdoor/114000000008.jpg",
+        "source_prompt": "a futuristic city with cars and people walking in the street",
+        "genre_class": 13,
+        "artist_class": 20,
+        "style_class": 21
+    },
+    "114000000009": {
+        "image_path": "1_change_object_80/1_artificial/4_outdoor/114000000009.jpg",
+        "source_prompt": "the jungle with a beautiful waterfall",
+        "genre_class": 19,
+        "artist_class": 21,
+        "style_class": 15
+    },
+    "121000000000": {
+        "image_path": "1_change_object_80/2_natural/1_animal/121000000000.jpg",
+        "source_prompt": "an orange cat play with a black and white cat in the grass",
+        "genre_class": 11,
+        "artist_class": 14,
+        "style_class": 14
+    },
+    "121000000001": {
+        "image_path": "1_change_object_80/2_natural/1_animal/121000000001.jpg",
+        "source_prompt": "a cat sitting next to a mirror",
+        "genre_class": 20,
+        "artist_class": 0,
+        "style_class": 26
+    },
+    "121000000002": {
+        "image_path": "1_change_object_80/2_natural/1_animal/121000000002.jpg",
+        "source_prompt": "a horse in a grass field",
+        "genre_class": 6,
+        "artist_class": 8,
+        "style_class": 17
+    },
+    "121000000003": {
+        "image_path": "1_change_object_80/2_natural/1_animal/121000000003.jpg",
+        "source_prompt": "a white bulldog is walking on the grass",
+        "genre_class": 3,
+        "artist_class": 15,
+        "style_class": 13
+    },
+    "121000000004": {
+        "image_path": "1_change_object_80/2_natural/1_animal/121000000004.jpg",
+        "source_prompt": "a blue and white bird sits on a branch",
+        "genre_class": 14,
+        "artist_class": 22,
+        "style_class": 10
+    },
+    "121000000005": {
+        "image_path": "1_change_object_80/2_natural/1_animal/121000000005.jpg",
+        "source_prompt": "a squirrel is sitting on top of a wooden fence",
+        "genre_class": 15,
+        "artist_class": 15,
+        "style_class": 13
+    },
+    "121000000006": {
+        "image_path": "1_change_object_80/2_natural/1_animal/121000000006.jpg",
+        "source_prompt": "a dog sitting on the beach with a body of water in the background",
+        "genre_class": 10,
+        "artist_class": 0,
+        "style_class": 0
+    },
+    "121000000007": {
+        "image_path": "1_change_object_80/2_natural/1_animal/121000000007.jpg",
+        "source_prompt": "a fluffy cat with yellow eyes sitting on a wooden floor",
+        "genre_class": 18,
+        "artist_class": 16,
+        "style_class": 7
+    },
+    "121000000008": {
+        "image_path": "1_change_object_80/2_natural/1_animal/121000000008.jpg",
+        "source_prompt": "a butterfly on a leaf in the garden",
+        "genre_class": 20,
+        "artist_class": 5,
+        "style_class": 6
+    },
+    "121000000009": {
+        "image_path": "1_change_object_80/2_natural/1_animal/121000000009.jpg",
+        "source_prompt": "a bird is standing on top of a rock",
+        "genre_class": 12,
+        "artist_class": 15,
+        "style_class": 10
+    },
+    "122000000000": {
+        "image_path": "1_change_object_80/2_natural/2_human/122000000000.jpg",
+        "source_prompt": "a photo of couples dancing",
+        "genre_class": 8,
+        "artist_class": 3,
+        "style_class": 24
+    },
+    "122000000001": {
+        "image_path": "1_change_object_80/2_natural/2_human/122000000001.jpg",
+        "source_prompt": "spiderman on the roof",
+        "genre_class": 2,
+        "artist_class": 17,
+        "style_class": 1
+    },
+    "122000000002": {
+        "image_path": "1_change_object_80/2_natural/2_human/122000000002.jpg",
+        "source_prompt": "a woman in a coat holding a camera",
+        "genre_class": 1,
+        "artist_class": 18,
+        "style_class": 15
+    },
+    "122000000003": {
+        "image_path": "1_change_object_80/2_natural/2_human/122000000003.jpg",
+        "source_prompt": "a woman sitting in the grass with a book",
+        "genre_class": 11,
+        "artist_class": 0,
+        "style_class": 24
+    },
+    "122000000004": {
+        "image_path": "1_change_object_80/2_natural/2_human/122000000004.jpg",
+        "source_prompt": "a woman in black dress leaning against a car",
+        "genre_class": 13,
+        "artist_class": 21,
+        "style_class": 11
+    },
+    "122000000005": {
+        "image_path": "1_change_object_80/2_natural/2_human/122000000005.jpg",
+        "source_prompt": "a woman sitting on a bench using her cell phone",
+        "genre_class": 18,
+        "artist_class": 1,
+        "style_class": 18
+    },
+    "122000000006": {
+        "image_path": "1_change_object_80/2_natural/2_human/122000000006.jpg",
+        "source_prompt": "an old man playing an electric guitar on a street",
+        "genre_class": 20,
+        "artist_class": 21,
+        "style_class": 2
+    },
+    "122000000007": {
+        "image_path": "1_change_object_80/2_natural/2_human/122000000007.jpg",
+        "source_prompt": "a woman sitting in a folding chair near a waterfall",
+        "genre_class": 3,
+        "artist_class": 1,
+        "style_class": 21
+    },
+    "122000000008": {
+        "image_path": "1_change_object_80/2_natural/2_human/122000000008.jpg",
+        "source_prompt": "a woman and a horse",
+        "genre_class": 20,
+        "artist_class": 1,
+        "style_class": 4
+    },
+    "122000000009": {
+        "image_path": "1_change_object_80/2_natural/2_human/122000000009.jpg",
+        "source_prompt": "a woman sitting at a bar with a glass of wine, with a lamp on the table",
+        "genre_class": 7,
+        "artist_class": 0,
+        "style_class": 0
+    },
+    "123000000000": {
+        "image_path": "1_change_object_80/2_natural/3_indoor/123000000000.jpg",
+        "source_prompt": "a table with green napkin, food and drinks putting on it",
+        "genre_class": 16,
+        "artist_class": 0,
+        "style_class": 10
+    },
+    "123000000001": {
+        "image_path": "1_change_object_80/2_natural/3_indoor/123000000001.jpg",
+        "source_prompt": "a chair in a room",
+        "genre_class": 19,
+        "artist_class": 13,
+        "style_class": 25
+    },
+    "123000000002": {
+        "image_path": "1_change_object_80/2_natural/3_indoor/123000000002.jpg",
+        "source_prompt": "a book on the table",
+        "genre_class": 3,
+        "artist_class": 6,
+        "style_class": 5
+    },
+    "123000000003": {
+        "image_path": "1_change_object_80/2_natural/3_indoor/123000000003.jpg",
+        "source_prompt": "a bath tub with towels and a towel rack",
+        "genre_class": 9,
+        "artist_class": 2,
+        "style_class": 26
+    },
+    "123000000004": {
+        "image_path": "1_change_object_80/2_natural/3_indoor/123000000004.jpg",
+        "source_prompt": "a blue glass pendant on a black cord",
+        "genre_class": 1,
+        "artist_class": 18,
+        "style_class": 5
+    },
+    "123000000005": {
+        "image_path": "1_change_object_80/2_natural/3_indoor/123000000005.jpg",
+        "source_prompt": "bread on a wooden table with tomatoes and a napkin",
+        "genre_class": 5,
+        "artist_class": 4,
+        "style_class": 9
+    },
+    "123000000006": {
+        "image_path": "1_change_object_80/2_natural/3_indoor/123000000006.jpg",
+        "source_prompt": "bamboo bonsai plant and notebook on white table",
+        "genre_class": 10,
+        "artist_class": 1,
+        "style_class": 23
+    },
+    "123000000007": {
+        "image_path": "1_change_object_80/2_natural/3_indoor/123000000007.jpg",
+        "source_prompt": "a living room with white sofa and a brick wall",
+        "genre_class": 18,
+        "artist_class": 3,
+        "style_class": 14
+    },
+    "123000000008": {
+        "image_path": "1_change_object_80/2_natural/3_indoor/123000000008.jpg",
+        "source_prompt": "a white table with four chairs and flowers",
+        "genre_class": 11,
+        "artist_class": 22,
+        "style_class": 11
+    },
+    "123000000009": {
+        "image_path": "1_change_object_80/2_natural/3_indoor/123000000009.jpg",
+        "source_prompt": "a basket of books and a cup",
+        "genre_class": 14,
+        "artist_class": 19,
+        "style_class": 8
+    },
+    "124000000000": {
+        "image_path": "1_change_object_80/2_natural/4_outdoor/124000000000.jpg",
+        "source_prompt": "cars driving on a highway at sunset",
+        "genre_class": 13,
+        "artist_class": 22,
+        "style_class": 4
+    },
+    "124000000001": {
+        "image_path": "1_change_object_80/2_natural/4_outdoor/124000000001.jpg",
+        "source_prompt": "a man in a boat is silhouetted against the sunset",
+        "genre_class": 8,
+        "artist_class": 18,
+        "style_class": 1
+    },
+    "124000000002": {
+        "image_path": "1_change_object_80/2_natural/4_outdoor/124000000002.jpg",
+        "source_prompt": "a white windmill in a blue sky",
+        "genre_class": 11,
+        "artist_class": 22,
+        "style_class": 22
+    },
+    "124000000003": {
+        "image_path": "1_change_object_80/2_natural/4_outdoor/124000000003.jpg",
+        "source_prompt": "a tiger swimming in a pond of green algae",
+        "genre_class": 2,
+        "artist_class": 9,
+        "style_class": 16
+    },
+    "124000000004": {
+        "image_path": "1_change_object_80/2_natural/4_outdoor/124000000004.jpg",
+        "source_prompt": "a white brick wall and a potted plant",
+        "genre_class": 4,
+        "artist_class": 18,
+        "style_class": 22
+    },
+    "124000000005": {
+        "image_path": "1_change_object_80/2_natural/4_outdoor/124000000005.jpg",
+        "source_prompt": "the sun over an old farmhouse",
+        "genre_class": 15,
+        "artist_class": 2,
+        "style_class": 25
+    },
+    "124000000006": {
+        "image_path": "1_change_object_80/2_natural/4_outdoor/124000000006.jpg",
+        "source_prompt": "a woman jumps over rocks at sunset",
+        "genre_class": 6,
+        "artist_class": 2,
+        "style_class": 20
+    },
+    "124000000007": {
+        "image_path": "1_change_object_80/2_natural/4_outdoor/124000000007.jpg",
+        "source_prompt": "rocks sitting on top of each other",
+        "genre_class": 17,
+        "artist_class": 7,
+        "style_class": 4
+    },
+    "124000000008": {
+        "image_path": "1_change_object_80/2_natural/4_outdoor/124000000008.jpg",
+        "source_prompt": "a red star is sitting in the snow",
+        "genre_class": 6,
+        "artist_class": 16,
+        "style_class": 24
+    },
+    "124000000009": {
+        "image_path": "1_change_object_80/2_natural/4_outdoor/124000000009.jpg",
+        "source_prompt": "a glass of red drink on the beach",
+        "genre_class": 3,
+        "artist_class": 5,
+        "style_class": 3
+    },
+    "211000000000": {
+        "image_path": "2_add_object_80/1_artificial/1_animal/211000000000.jpg",
+        "source_prompt": "a dog wearing space suit",
+        "genre_class": 16,
+        "artist_class": 9,
+        "style_class": 14
+    },
+    "211000000001": {
+        "image_path": "2_add_object_80/1_artificial/1_animal/211000000001.jpg",
+        "source_prompt": "a cat",
+        "genre_class": 19,
+        "artist_class": 17,
+        "style_class": 20
+    },
+    "211000000002": {
+        "image_path": "2_add_object_80/1_artificial/1_animal/211000000002.jpg",
+        "source_prompt": "a bee illustration on a paper",
+        "genre_class": 17,
+        "artist_class": 3,
+        "style_class": 5
+    },
+    "211000000003": {
+        "image_path": "2_add_object_80/1_artificial/1_animal/211000000003.jpg",
+        "source_prompt": "a small dog dressed in armor",
+        "genre_class": 7,
+        "artist_class": 13,
+        "style_class": 23
+    },
+    "211000000004": {
+        "image_path": "2_add_object_80/1_artificial/1_animal/211000000004.jpg",
+        "source_prompt": "a pink zebra painted on a wall",
+        "genre_class": 9,
+        "artist_class": 19,
+        "style_class": 22
+    },
+    "211000000005": {
+        "image_path": "2_add_object_80/1_artificial/1_animal/211000000005.jpg",
+        "source_prompt": "a rabbit sitting in front of colorful eggs",
+        "genre_class": 3,
+        "artist_class": 13,
+        "style_class": 4
+    },
+    "211000000006": {
+        "image_path": "2_add_object_80/1_artificial/1_animal/211000000006.jpg",
+        "source_prompt": "a sheep with pink and blue hair standing on a colorful background",
+        "genre_class": 7,
+        "artist_class": 4,
+        "style_class": 14
+    },
+    "211000000007": {
+        "image_path": "2_add_object_80/1_artificial/1_animal/211000000007.jpg",
+        "source_prompt": "a digital art of charcoal grey little squirrel sitting on top of books",
+        "genre_class": 2,
+        "artist_class": 10,
+        "style_class": 4
+    },
+    "211000000008": {
+        "image_path": "2_add_object_80/1_artificial/1_animal/211000000008.jpg",
+        "source_prompt": "a cartoon painting of rabbit sitting on the ground in a field",
+        "genre_class": 20,
+        "artist_class": 0,
+        "style_class": 16
+    },
+    "211000000009": {
+        "image_path": "2_add_object_80/1_artificial/1_animal/211000000009.jpg",
+        "source_prompt": "a man in a red suit holding a rabbit",
+        "genre_class": 10,
+        "artist_class": 21,
+        "style_class": 1
+    },
+    "212000000000": {
+        "image_path": "2_add_object_80/1_artificial/2_human/212000000000.jpg",
+        "source_prompt": "mozart portrait",
+        "genre_class": 1,
+        "artist_class": 16,
+        "style_class": 16
+    },
+    "212000000001": {
+        "image_path": "2_add_object_80/1_artificial/2_human/212000000001.jpg",
+        "source_prompt": "a man with blue eyes and black hair",
+        "genre_class": 8,
+        "artist_class": 11,
+        "style_class": 5
+    },
+    "212000000002": {
+        "image_path": "2_add_object_80/1_artificial/2_human/212000000002.jpg",
+        "source_prompt": "a pink cartoon girl surrounded by flowers",
+        "genre_class": 6,
+        "artist_class": 14,
+        "style_class": 25
+    },
+    "212000000003": {
+        "image_path": "2_add_object_80/1_artificial/2_human/212000000003.jpg",
+        "source_prompt": "an Asian woman with blue thick-lashed eyes and black hair",
+        "genre_class": 8,
+        "artist_class": 9,
+        "style_class": 17
+    },
+    "212000000004": {
+        "image_path": "2_add_object_80/1_artificial/2_human/212000000004.jpg",
+        "source_prompt": "a female character in a blue outfit",
+        "genre_class": 19,
+        "artist_class": 6,
+        "style_class": 15
+    },
+    "212000000005": {
+        "image_path": "2_add_object_80/1_artificial/2_human/212000000005.jpg",
+        "source_prompt": "a woman with dark hair",
+        "genre_class": 1,
+        "artist_class": 0,
+        "style_class": 24
+    },
+    "212000000006": {
+        "image_path": "2_add_object_80/1_artificial/2_human/212000000006.jpg",
+        "source_prompt": "a digital art of a brown hair woman",
+        "genre_class": 7,
+        "artist_class": 12,
+        "style_class": 14
+    },
+    "212000000007": {
+        "image_path": "2_add_object_80/1_artificial/2_human/212000000007.jpg",
+        "source_prompt": "a digital art of a woman in a dress surrounded by dark roses",
+        "genre_class": 0,
+        "artist_class": 7,
+        "style_class": 15
+    },
+    "212000000008": {
+        "image_path": "2_add_object_80/1_artificial/2_human/212000000008.jpg",
+        "source_prompt": "a cartoon man",
+        "genre_class": 11,
+        "artist_class": 20,
+        "style_class": 25
+    },
+    "212000000009": {
+        "image_path": "2_add_object_80/1_artificial/2_human/212000000009.jpg",
+        "source_prompt": "a black skin man with a tree head and branches on his face",
+        "genre_class": 18,
+        "artist_class": 21,
+        "style_class": 13
+    },
+    "213000000000": {
+        "image_path": "2_add_object_80/1_artificial/3_indoor/213000000000.jpg",
+        "source_prompt": "two red flowers on a pink background",
+        "genre_class": 7,
+        "artist_class": 20,
+        "style_class": 2
+    },
+    "213000000001": {
+        "image_path": "2_add_object_80/1_artificial/3_indoor/213000000001.jpg",
+        "source_prompt": "a cup of coffee and a notebook on a checkered tablecloth",
+        "genre_class": 0,
+        "artist_class": 16,
+        "style_class": 6
+    },
+    "213000000002": {
+        "image_path": "2_add_object_80/1_artificial/3_indoor/213000000002.jpg",
+        "source_prompt": "paper art",
+        "genre_class": 1,
+        "artist_class": 12,
+        "style_class": 13
+    },
+    "213000000003": {
+        "image_path": "2_add_object_80/1_artificial/3_indoor/213000000003.jpg",
+        "source_prompt": "notebook, pencil, glasses, camera on a map",
+        "genre_class": 9,
+        "artist_class": 10,
+        "style_class": 9
+    },
+    "213000000004": {
+        "image_path": "2_add_object_80/1_artificial/3_indoor/213000000004.jpg",
+        "source_prompt": "a desk with a globe, ink, candles",
+        "genre_class": 11,
+        "artist_class": 20,
+        "style_class": 17
+    },
+    "213000000005": {
+        "image_path": "2_add_object_80/1_artificial/3_indoor/213000000005.jpg",
+        "source_prompt": "a large brown teddy bear sitting on a white couch",
+        "genre_class": 6,
+        "artist_class": 8,
+        "style_class": 6
+    },
+    "213000000006": {
+        "image_path": "2_add_object_80/1_artificial/3_indoor/213000000006.jpg",
+        "source_prompt": "a bottle of champagne and a hat on a wooden table",
+        "genre_class": 16,
+        "artist_class": 9,
+        "style_class": 12
+    },
+    "213000000007": {
+        "image_path": "2_add_object_80/1_artificial/3_indoor/213000000007.jpg",
+        "source_prompt": "a person using a laptop on a table",
+        "genre_class": 5,
+        "artist_class": 9,
+        "style_class": 1
+    },
+    "213000000008": {
+        "image_path": "2_add_object_80/1_artificial/3_indoor/213000000008.jpg",
+        "source_prompt": "a table with flowers on it",
+        "genre_class": 6,
+        "artist_class": 10,
+        "style_class": 21
+    },
+    "213000000009": {
+        "image_path": "2_add_object_80/1_artificial/3_indoor/213000000009.jpg",
+        "source_prompt": "a teapot with smoke coming out of it",
+        "genre_class": 13,
+        "artist_class": 20,
+        "style_class": 9
+    },
+    "214000000000": {
+        "image_path": "2_add_object_80/1_artificial/4_outdoor/214000000000.jpg",
+        "source_prompt": "a painting of a waterfall in the mountains",
+        "genre_class": 8,
+        "artist_class": 18,
+        "style_class": 12
+    },
+    "214000000001": {
+        "image_path": "2_add_object_80/1_artificial/4_outdoor/214000000001.jpg",
+        "source_prompt": "a round painting of a forest with flowers, trees",
+        "genre_class": 13,
+        "artist_class": 16,
+        "style_class": 22
+    },
+    "214000000002": {
+        "image_path": "2_add_object_80/1_artificial/4_outdoor/214000000002.jpg",
+        "source_prompt": "a family playing with their dog at sunset",
+        "genre_class": 18,
+        "artist_class": 13,
+        "style_class": 25
+    },
+    "214000000003": {
+        "image_path": "2_add_object_80/1_artificial/4_outdoor/214000000003.jpg",
+        "source_prompt": "a wathet large statue of a man as huge as a mountain",
+        "genre_class": 6,
+        "artist_class": 3,
+        "style_class": 3
+    },
+    "214000000004": {
+        "image_path": "2_add_object_80/1_artificial/4_outdoor/214000000004.jpg",
+        "source_prompt": "a painting of two people walking down a path in a field",
+        "genre_class": 14,
+        "artist_class": 2,
+        "style_class": 23
+    },
+    "214000000005": {
+        "image_path": "2_add_object_80/1_artificial/4_outdoor/214000000005.jpg",
+        "source_prompt": "the witcher 3, fantasy art",
+        "genre_class": 8,
+        "artist_class": 17,
+        "style_class": 9
+    },
+    "214000000006": {
+        "image_path": "2_add_object_80/1_artificial/4_outdoor/214000000006.jpg",
+        "source_prompt": "elephant in the forest",
+        "genre_class": 8,
+        "artist_class": 14,
+        "style_class": 5
+    },
+    "214000000007": {
+        "image_path": "2_add_object_80/1_artificial/4_outdoor/214000000007.jpg",
+        "source_prompt": "a small island with a tree",
+        "genre_class": 16,
+        "artist_class": 3,
+        "style_class": 4
+    },
+    "214000000008": {
+        "image_path": "2_add_object_80/1_artificial/4_outdoor/214000000008.jpg",
+        "source_prompt": "a man standing on a rock looking at the sky",
+        "genre_class": 5,
+        "artist_class": 14,
+        "style_class": 9
+    },
+    "214000000009": {
+        "image_path": "2_add_object_80/1_artificial/4_outdoor/214000000009.jpg",
+        "source_prompt": "a man standing on top of a mountain with purple background",
+        "genre_class": 11,
+        "artist_class": 8,
+        "style_class": 1
+    },
+    "221000000000": {
+        "image_path": "2_add_object_80/2_natural/1_animal/221000000000.jpg",
+        "source_prompt": "a dog looking at the camera",
+        "genre_class": 12,
+        "artist_class": 11,
+        "style_class": 23
+    },
+    "221000000001": {
+        "image_path": "2_add_object_80/2_natural/1_animal/221000000001.jpg",
+        "source_prompt": "a white dog and a brown dog on the withered grass",
+        "genre_class": 15,
+        "artist_class": 18,
+        "style_class": 10
+    },
+    "221000000002": {
+        "image_path": "2_add_object_80/2_natural/1_animal/221000000002.jpg",
+        "source_prompt": "a cat standing on fence",
+        "genre_class": 9,
+        "artist_class": 17,
+        "style_class": 8
+    },
+    "221000000003": {
+        "image_path": "2_add_object_80/2_natural/1_animal/221000000003.jpg",
+        "source_prompt": "a small brown bird sitting on top of a pine tree",
+        "genre_class": 2,
+        "artist_class": 3,
+        "style_class": 15
+    },
+    "221000000004": {
+        "image_path": "2_add_object_80/2_natural/1_animal/221000000004.jpg",
+        "source_prompt": "a cat staring in the grass",
+        "genre_class": 12,
+        "artist_class": 21,
+        "style_class": 17
+    },
+    "221000000005": {
+        "image_path": "2_add_object_80/2_natural/1_animal/221000000005.jpg",
+        "source_prompt": "a duck flaps its wings while swimming in the water",
+        "genre_class": 13,
+        "artist_class": 6,
+        "style_class": 20
+    },
+    "221000000006": {
+        "image_path": "2_add_object_80/2_natural/1_animal/221000000006.jpg",
+        "source_prompt": "a koala is sitting on a tree",
+        "genre_class": 15,
+        "artist_class": 14,
+        "style_class": 17
+    },
+    "221000000007": {
+        "image_path": "2_add_object_80/2_natural/1_animal/221000000007.jpg",
+        "source_prompt": "a photo of a grey swan swimming",
+        "genre_class": 6,
+        "artist_class": 0,
+        "style_class": 7
+    },
+    "221000000008": {
+        "image_path": "2_add_object_80/2_natural/1_animal/221000000008.jpg",
+        "source_prompt": "a squirrel sitting on top of a wooden platform",
+        "genre_class": 3,
+        "artist_class": 4,
+        "style_class": 24
+    },
+    "221000000009": {
+        "image_path": "2_add_object_80/2_natural/1_animal/221000000009.jpg",
+        "source_prompt": "moose in the forest",
+        "genre_class": 19,
+        "artist_class": 19,
+        "style_class": 23
+    },
+    "222000000000": {
+        "image_path": "2_add_object_80/2_natural/2_human/222000000000.jpg",
+        "source_prompt": "MonaLisa with mysterious smile",
+        "genre_class": 14,
+        "artist_class": 13,
+        "style_class": 15
+    },
+    "222000000001": {
+        "image_path": "2_add_object_80/2_natural/2_human/222000000001.jpg",
+        "source_prompt": "a woman in a coat is dancing",
+        "genre_class": 14,
+        "artist_class": 3,
+        "style_class": 26
+    },
+    "222000000002": {
+        "image_path": "2_add_object_80/2_natural/2_human/222000000002.jpg",
+        "source_prompt": "a man in a suit and watch standing",
+        "genre_class": 9,
+        "artist_class": 7,
+        "style_class": 1
+    },
+    "222000000003": {
+        "image_path": "2_add_object_80/2_natural/2_human/222000000003.jpg",
+        "source_prompt": "a woman in sunglasses sitting on a bench",
+        "genre_class": 4,
+        "artist_class": 3,
+        "style_class": 0
+    },
+    "222000000004": {
+        "image_path": "2_add_object_80/2_natural/2_human/222000000004.jpg",
+        "source_prompt": "a woman in a white dress holding a straw hat",
+        "genre_class": 14,
+        "artist_class": 21,
+        "style_class": 13
+    },
+    "222000000005": {
+        "image_path": "2_add_object_80/2_natural/2_human/222000000005.jpg",
+        "source_prompt": "man standing on top of a hill with black hair",
+        "genre_class": 19,
+        "artist_class": 18,
+        "style_class": 18
+    },
+    "222000000006": {
+        "image_path": "2_add_object_80/2_natural/2_human/222000000006.jpg",
+        "source_prompt": "a woman in a brown jacket and jeans",
+        "genre_class": 5,
+        "artist_class": 22,
+        "style_class": 19
+    },
+    "222000000007": {
+        "image_path": "2_add_object_80/2_natural/2_human/222000000007.jpg",
+        "source_prompt": "a woman in dress and stockings leaning against a wall",
+        "genre_class": 19,
+        "artist_class": 3,
+        "style_class": 16
+    },
+    "222000000008": {
+        "image_path": "2_add_object_80/2_natural/2_human/222000000008.jpg",
+        "source_prompt": "a woman with her hands on her face",
+        "genre_class": 20,
+        "artist_class": 10,
+        "style_class": 25
+    },
+    "222000000009": {
+        "image_path": "2_add_object_80/2_natural/2_human/222000000009.jpg",
+        "source_prompt": "portrait of a farmer in black and white",
+        "genre_class": 16,
+        "artist_class": 6,
+        "style_class": 11
+    },
+    "223000000000": {
+        "image_path": "2_add_object_80/2_natural/3_indoor/223000000000.jpg",
+        "source_prompt": "a man reading books in front of a wall",
+        "genre_class": 16,
+        "artist_class": 6,
+        "style_class": 15
+    },
+    "223000000001": {
+        "image_path": "2_add_object_80/2_natural/3_indoor/223000000001.jpg",
+        "source_prompt": "a figurine on a white table",
+        "genre_class": 5,
+        "artist_class": 0,
+        "style_class": 10
+    },
+    "223000000002": {
+        "image_path": "2_add_object_80/2_natural/3_indoor/223000000002.jpg",
+        "source_prompt": "blueberries",
+        "genre_class": 16,
+        "artist_class": 10,
+        "style_class": 2
+    },
+    "223000000003": {
+        "image_path": "2_add_object_80/2_natural/3_indoor/223000000003.jpg",
+        "source_prompt": "a white vase with purple tulips on a pink background",
+        "genre_class": 19,
+        "artist_class": 7,
+        "style_class": 20
+    },
+    "223000000004": {
+        "image_path": "2_add_object_80/2_natural/3_indoor/223000000004.jpg",
+        "source_prompt": "two wooden chess pieces on a white background",
+        "genre_class": 20,
+        "artist_class": 2,
+        "style_class": 22
+    },
+    "223000000005": {
+        "image_path": "2_add_object_80/2_natural/3_indoor/223000000005.jpg",
+        "source_prompt": "orange and daisy",
+        "genre_class": 1,
+        "artist_class": 8,
+        "style_class": 26
+    },
+    "223000000006": {
+        "image_path": "2_add_object_80/2_natural/3_indoor/223000000006.jpg",
+        "source_prompt": "a notebook, plants, pen, and phone on a desk",
+        "genre_class": 3,
+        "artist_class": 21,
+        "style_class": 4
+    },
+    "223000000007": {
+        "image_path": "2_add_object_80/2_natural/3_indoor/223000000007.jpg",
+        "source_prompt": "a red apple sitting on top of a wooden table",
+        "genre_class": 1,
+        "artist_class": 14,
+        "style_class": 4
+    },
+    "223000000008": {
+        "image_path": "2_add_object_80/2_natural/3_indoor/223000000008.jpg",
+        "source_prompt": "a bowl of strawberries and blueberries on a striped tablecloth",
+        "genre_class": 10,
+        "artist_class": 4,
+        "style_class": 3
+    },
+    "223000000009": {
+        "image_path": "2_add_object_80/2_natural/3_indoor/223000000009.jpg",
+        "source_prompt": "a conference room",
+        "genre_class": 7,
+        "artist_class": 22,
+        "style_class": 15
+    },
+    "224000000000": {
+        "image_path": "2_add_object_80/2_natural/4_outdoor/224000000000.jpg",
+        "source_prompt": "a dry tree in the wild",
+        "genre_class": 19,
+        "artist_class": 4,
+        "style_class": 11
+    },
+    "224000000001": {
+        "image_path": "2_add_object_80/2_natural/4_outdoor/224000000001.jpg",
+        "source_prompt": "a leopard walking on unsurfaced road",
+        "genre_class": 18,
+        "artist_class": 15,
+        "style_class": 10
+    },
+    "224000000002": {
+        "image_path": "2_add_object_80/2_natural/4_outdoor/224000000002.jpg",
+        "source_prompt": "a dog lying on the grass",
+        "genre_class": 4,
+        "artist_class": 14,
+        "style_class": 1
+    },
+    "224000000003": {
+        "image_path": "2_add_object_80/2_natural/4_outdoor/224000000003.jpg",
+        "source_prompt": "a man sitting in the grass",
+        "genre_class": 9,
+        "artist_class": 21,
+        "style_class": 15
+    },
+    "224000000004": {
+        "image_path": "2_add_object_80/2_natural/4_outdoor/224000000004.jpg",
+        "source_prompt": "a beautiful garden",
+        "genre_class": 20,
+        "artist_class": 17,
+        "style_class": 6
+    },
+    "224000000005": {
+        "image_path": "2_add_object_80/2_natural/4_outdoor/224000000005.jpg",
+        "source_prompt": "Two tents in the desert",
+        "genre_class": 0,
+        "artist_class": 7,
+        "style_class": 4
+    },
+    "224000000006": {
+        "image_path": "2_add_object_80/2_natural/4_outdoor/224000000006.jpg",
+        "source_prompt": "a beach with waves and a blue sky",
+        "genre_class": 14,
+        "artist_class": 8,
+        "style_class": 20
+    },
+    "224000000007": {
+        "image_path": "2_add_object_80/2_natural/4_outdoor/224000000007.jpg",
+        "source_prompt": "clouds in the sky",
+        "genre_class": 5,
+        "artist_class": 3,
+        "style_class": 6
+    },
+    "224000000008": {
+        "image_path": "2_add_object_80/2_natural/4_outdoor/224000000008.jpg",
+        "source_prompt": "the bridge is lit up at night with fog",
+        "genre_class": 18,
+        "artist_class": 0,
+        "style_class": 19
+    },
+    "224000000009": {
+        "image_path": "2_add_object_80/2_natural/4_outdoor/224000000009.jpg",
+        "source_prompt": "a dark grassy hillside with snow covered mountains in the background",
+        "genre_class": 12,
+        "artist_class": 20,
+        "style_class": 24
+    },
+    "311000000000": {
+        "image_path": "3_delete_object_80/1_artificial/1_animal/311000000000.jpg",
+        "source_prompt": "a wathet bird sitting on a branch of yellow flowers",
+        "genre_class": 20,
+        "artist_class": 9,
+        "style_class": 19
+    },
+    "311000000001": {
+        "image_path": "3_delete_object_80/1_artificial/1_animal/311000000001.jpg",
+        "source_prompt": "a cat wearing headphones on a gray background",
+        "genre_class": 0,
+        "artist_class": 10,
+        "style_class": 5
+    },
+    "311000000002": {
+        "image_path": "3_delete_object_80/1_artificial/1_animal/311000000002.jpg",
+        "source_prompt": "a lion in a suit sitting at a table with a laptop",
+        "genre_class": 4,
+        "artist_class": 15,
+        "style_class": 13
+    },
+    "311000000003": {
+        "image_path": "3_delete_object_80/1_artificial/1_animal/311000000003.jpg",
+        "source_prompt": "a brownish grey knitted bunny with three painted eggs",
+        "genre_class": 1,
+        "artist_class": 4,
+        "style_class": 20
+    },
+    "311000000004": {
+        "image_path": "3_delete_object_80/1_artificial/1_animal/311000000004.jpg",
+        "source_prompt": "cartoon of a gray polar bear is standing on an iceberg with a plane flying overhead",
+        "genre_class": 5,
+        "artist_class": 1,
+        "style_class": 12
+    },
+    "311000000005": {
+        "image_path": "3_delete_object_80/1_artificial/1_animal/311000000005.jpg",
+        "source_prompt": "a cute cartoon cat with a chef hat and a pie",
+        "genre_class": 12,
+        "artist_class": 1,
+        "style_class": 8
+    },
+    "311000000006": {
+        "image_path": "3_delete_object_80/1_artificial/1_animal/311000000006.jpg",
+        "source_prompt": "a Ukiyo-e of seagull flying over the ocean waves with sun rise",
+        "genre_class": 5,
+        "artist_class": 1,
+        "style_class": 15
+    },
+    "311000000007": {
+        "image_path": "3_delete_object_80/1_artificial/1_animal/311000000007.jpg",
+        "source_prompt": "a rabbit sitting on a hill with trees",
+        "genre_class": 8,
+        "artist_class": 12,
+        "style_class": 3
+    },
+    "311000000008": {
+        "image_path": "3_delete_object_80/1_artificial/1_animal/311000000008.jpg",
+        "source_prompt": "a puppy is sitting in a field of dandelions",
+        "genre_class": 20,
+        "artist_class": 0,
+        "style_class": 18
+    },
+    "311000000009": {
+        "image_path": "3_delete_object_80/1_artificial/1_animal/311000000009.jpg",
+        "source_prompt": "two white bears holding a rose",
+        "genre_class": 15,
+        "artist_class": 3,
+        "style_class": 23
+    },
+    "312000000000": {
+        "image_path": "3_delete_object_80/1_artificial/2_human/312000000000.jpg",
+        "source_prompt": "a girl in red dress standing in a field surrounded by balloons",
+        "genre_class": 16,
+        "artist_class": 9,
+        "style_class": 10
+    },
+    "312000000001": {
+        "image_path": "3_delete_object_80/1_artificial/2_human/312000000001.jpg",
+        "source_prompt": "a girl with a backpack and a red coat is standing in front of castles",
+        "genre_class": 20,
+        "artist_class": 20,
+        "style_class": 12
+    },
+    "312000000002": {
+        "image_path": "3_delete_object_80/1_artificial/2_human/312000000002.jpg",
+        "source_prompt": "a cartoon character with a backpack",
+        "genre_class": 5,
+        "artist_class": 19,
+        "style_class": 8
+    },
+    "312000000003": {
+        "image_path": "3_delete_object_80/1_artificial/2_human/312000000003.jpg",
+        "source_prompt": "a cartoon woman in a red cloak walking through the woods with bat",
+        "genre_class": 5,
+        "artist_class": 16,
+        "style_class": 3
+    },
+    "312000000004": {
+        "image_path": "3_delete_object_80/1_artificial/2_human/312000000004.jpg",
+        "source_prompt": "a cartoon girl sitting by a campfire",
+        "genre_class": 0,
+        "artist_class": 7,
+        "style_class": 2
+    },
+    "312000000005": {
+        "image_path": "3_delete_object_80/1_artificial/2_human/312000000005.jpg",
+        "source_prompt": "a cartoon of woman is painting a pumpkin with a cat",
+        "genre_class": 18,
+        "artist_class": 15,
+        "style_class": 7
+    },
+    "312000000006": {
+        "image_path": "3_delete_object_80/1_artificial/2_human/312000000006.jpg",
+        "source_prompt": "a angel with wings standing on the beach at sunset",
+        "genre_class": 12,
+        "artist_class": 0,
+        "style_class": 22
+    },
+    "312000000007": {
+        "image_path": "3_delete_object_80/1_artificial/2_human/312000000007.jpg",
+        "source_prompt": "a cartoon boy standing on the edge of a cliff with his arms outstretched with sun in the background",
+        "genre_class": 1,
+        "artist_class": 1,
+        "style_class": 11
+    },
+    "312000000008": {
+        "image_path": "3_delete_object_80/1_artificial/2_human/312000000008.jpg",
+        "source_prompt": "a young woman in sunglasses driving an old car",
+        "genre_class": 8,
+        "artist_class": 12,
+        "style_class": 5
+    },
+    "312000000009": {
+        "image_path": "3_delete_object_80/1_artificial/2_human/312000000009.jpg",
+        "source_prompt": "a digital art boy with glasses and tie sitting on a laptop",
+        "genre_class": 8,
+        "artist_class": 9,
+        "style_class": 26
+    },
+    "313000000000": {
+        "image_path": "3_delete_object_80/1_artificial/3_indoor/313000000000.jpg",
+        "source_prompt": "a cartoon illustration of two plants with faces",
+        "genre_class": 8,
+        "artist_class": 3,
+        "style_class": 22
+    },
+    "313000000001": {
+        "image_path": "3_delete_object_80/1_artificial/3_indoor/313000000001.jpg",
+        "source_prompt": "a woman is standing on a ladder and fishing in a bulb in gray dark blue background",
+        "genre_class": 5,
+        "artist_class": 21,
+        "style_class": 23
+    },
+    "313000000002": {
+        "image_path": "3_delete_object_80/1_artificial/3_indoor/313000000002.jpg",
+        "source_prompt": "a birthday cupcake with a lit candle on top",
+        "genre_class": 2,
+        "artist_class": 19,
+        "style_class": 4
+    },
+    "313000000003": {
+        "image_path": "3_delete_object_80/1_artificial/3_indoor/313000000003.jpg",
+        "source_prompt": "a row of colorful chairs and tables outside a restaurant",
+        "genre_class": 20,
+        "artist_class": 9,
+        "style_class": 23
+    },
+    "313000000004": {
+        "image_path": "3_delete_object_80/1_artificial/3_indoor/313000000004.jpg",
+        "source_prompt": "a cat and a plant",
+        "genre_class": 5,
+        "artist_class": 18,
+        "style_class": 6
+    },
+    "313000000005": {
+        "image_path": "3_delete_object_80/1_artificial/3_indoor/313000000005.jpg",
+        "source_prompt": "a blue living room with a blue couch and a blue painting",
+        "genre_class": 12,
+        "artist_class": 19,
+        "style_class": 15
+    },
+    "313000000006": {
+        "image_path": "3_delete_object_80/1_artificial/3_indoor/313000000006.jpg",
+        "source_prompt": "a painting of an orange chair and a lamp in a living room",
+        "genre_class": 14,
+        "artist_class": 6,
+        "style_class": 23
+    },
+    "313000000007": {
+        "image_path": "3_delete_object_80/1_artificial/3_indoor/313000000007.jpg",
+        "source_prompt": "a bird in a cage with a flower on top",
+        "genre_class": 9,
+        "artist_class": 16,
+        "style_class": 1
+    },
+    "313000000008": {
+        "image_path": "3_delete_object_80/1_artificial/3_indoor/313000000008.jpg",
+        "source_prompt": "a smoothie with fruits including strawberries, blueberries and kiwi",
+        "genre_class": 12,
+        "artist_class": 18,
+        "style_class": 14
+    },
+    "313000000009": {
+        "image_path": "3_delete_object_80/1_artificial/3_indoor/313000000009.jpg",
+        "source_prompt": "a teddy bear sitting on a box with a rose",
+        "genre_class": 15,
+        "artist_class": 18,
+        "style_class": 8
+    },
+    "314000000000": {
+        "image_path": "3_delete_object_80/1_artificial/4_outdoor/314000000000.jpg",
+        "source_prompt": "a house with lightning and rain on it",
+        "genre_class": 6,
+        "artist_class": 8,
+        "style_class": 10
+    },
+    "314000000001": {
+        "image_path": "3_delete_object_80/1_artificial/4_outdoor/314000000001.jpg",
+        "source_prompt": "a girl standing on the withered grass with a red tree",
+        "genre_class": 8,
+        "artist_class": 21,
+        "style_class": 8
+    },
+    "314000000002": {
+        "image_path": "3_delete_object_80/1_artificial/4_outdoor/314000000002.jpg",
+        "source_prompt": "an astronaut standing on the water with the moon in the background",
+        "genre_class": 15,
+        "artist_class": 22,
+        "style_class": 25
+    },
+    "314000000003": {
+        "image_path": "3_delete_object_80/1_artificial/4_outdoor/314000000003.jpg",
+        "source_prompt": "two people walking in the rain with umbrellas",
+        "genre_class": 7,
+        "artist_class": 5,
+        "style_class": 20
+    },
+    "314000000004": {
+        "image_path": "3_delete_object_80/1_artificial/4_outdoor/314000000004.jpg",
+        "source_prompt": "a castle in the night with a beautiful sunset",
+        "genre_class": 7,
+        "artist_class": 1,
+        "style_class": 4
+    },
+    "314000000005": {
+        "image_path": "3_delete_object_80/1_artificial/4_outdoor/314000000005.jpg",
+        "source_prompt": "a painting of a house by the water",
+        "genre_class": 20,
+        "artist_class": 11,
+        "style_class": 21
+    },
+    "314000000006": {
+        "image_path": "3_delete_object_80/1_artificial/4_outdoor/314000000006.jpg",
+        "source_prompt": "a lone wolf howling at the moon in the night sky",
+        "genre_class": 0,
+        "artist_class": 1,
+        "style_class": 19
+    },
+    "314000000007": {
+        "image_path": "3_delete_object_80/1_artificial/4_outdoor/314000000007.jpg",
+        "source_prompt": "a painting of a dog in the forest",
+        "genre_class": 12,
+        "artist_class": 21,
+        "style_class": 13
+    },
+    "314000000008": {
+        "image_path": "3_delete_object_80/1_artificial/4_outdoor/314000000008.jpg",
+        "source_prompt": "a big ship in a bottle on the dark ocean",
+        "genre_class": 8,
+        "artist_class": 13,
+        "style_class": 6
+    },
+    "314000000009": {
+        "image_path": "3_delete_object_80/1_artificial/4_outdoor/314000000009.jpg",
+        "source_prompt": "a poster of a bus driving down a road with mountains in the background",
+        "genre_class": 13,
+        "artist_class": 6,
+        "style_class": 20
+    },
+    "321000000000": {
+        "image_path": "3_delete_object_80/2_natural/1_animal/321000000000.jpg",
+        "source_prompt": "a bee flies over a flowering tree branch",
+        "genre_class": 14,
+        "artist_class": 22,
+        "style_class": 8
+    },
+    "321000000001": {
+        "image_path": "3_delete_object_80/2_natural/1_animal/321000000001.jpg",
+        "source_prompt": "a butterfly and flowers",
+        "genre_class": 10,
+        "artist_class": 14,
+        "style_class": 7
+    },
+    "321000000002": {
+        "image_path": "3_delete_object_80/2_natural/1_animal/321000000002.jpg",
+        "source_prompt": "a cheetah walking across a grassy field",
+        "genre_class": 13,
+        "artist_class": 10,
+        "style_class": 9
+    },
+    "321000000003": {
+        "image_path": "3_delete_object_80/2_natural/1_animal/321000000003.jpg",
+        "source_prompt": "a kitten playing with balls",
+        "genre_class": 12,
+        "artist_class": 11,
+        "style_class": 12
+    },
+    "321000000004": {
+        "image_path": "3_delete_object_80/2_natural/1_animal/321000000004.jpg",
+        "source_prompt": "an older man sitting on a bench with a dog",
+        "genre_class": 19,
+        "artist_class": 7,
+        "style_class": 6
+    },
+    "321000000005": {
+        "image_path": "3_delete_object_80/2_natural/1_animal/321000000005.jpg",
+        "source_prompt": "an elephant walking on the beach with a dark sky",
+        "genre_class": 2,
+        "artist_class": 5,
+        "style_class": 8
+    },
+    "321000000006": {
+        "image_path": "3_delete_object_80/2_natural/1_animal/321000000006.jpg",
+        "source_prompt": "a seal pup on the beach",
+        "genre_class": 8,
+        "artist_class": 4,
+        "style_class": 10
+    },
+    "321000000007": {
+        "image_path": "3_delete_object_80/2_natural/1_animal/321000000007.jpg",
+        "source_prompt": "a husky dog running on a path in the woods",
+        "genre_class": 13,
+        "artist_class": 12,
+        "style_class": 6
+    },
+    "321000000008": {
+        "image_path": "3_delete_object_80/2_natural/1_animal/321000000008.jpg",
+        "source_prompt": "a girl and a dog sitting in the forest",
+        "genre_class": 5,
+        "artist_class": 21,
+        "style_class": 13
+    },
+    "321000000009": {
+        "image_path": "3_delete_object_80/2_natural/1_animal/321000000009.jpg",
+        "source_prompt": "a mouse and a leaf on the ground",
+        "genre_class": 11,
+        "artist_class": 20,
+        "style_class": 15
+    },
+    "322000000000": {
+        "image_path": "3_delete_object_80/2_natural/2_human/322000000000.jpg",
+        "source_prompt": "a woman in a trench coat sitting at a table with a cell phone",
+        "genre_class": 2,
+        "artist_class": 13,
+        "style_class": 15
+    },
+    "322000000001": {
+        "image_path": "3_delete_object_80/2_natural/2_human/322000000001.jpg",
+        "source_prompt": "a beautiful young woman in a blue dress holding pink flowers",
+        "genre_class": 15,
+        "artist_class": 14,
+        "style_class": 15
+    },
+    "322000000002": {
+        "image_path": "3_delete_object_80/2_natural/2_human/322000000002.jpg",
+        "source_prompt": "a woman in a purple dress sitting on a swing holding a coconut",
+        "genre_class": 2,
+        "artist_class": 15,
+        "style_class": 8
+    },
+    "322000000003": {
+        "image_path": "3_delete_object_80/2_natural/2_human/322000000003.jpg",
+        "source_prompt": "a woman with flowers on head in a pink dress and red skirt is walking on the beach",
+        "genre_class": 5,
+        "artist_class": 8,
+        "style_class": 5
+    },
+    "322000000004": {
+        "image_path": "3_delete_object_80/2_natural/2_human/322000000004.jpg",
+        "source_prompt": "a woman with glasses sitting on a stone wall",
+        "genre_class": 16,
+        "artist_class": 21,
+        "style_class": 5
+    },
+    "322000000005": {
+        "image_path": "3_delete_object_80/2_natural/2_human/322000000005.jpg",
+        "source_prompt": "a woman in sunglasses sitting at a table with a bottles of water",
+        "genre_class": 14,
+        "artist_class": 10,
+        "style_class": 23
+    },
+    "322000000006": {
+        "image_path": "3_delete_object_80/2_natural/2_human/322000000006.jpg",
+        "source_prompt": "a woman holding a rainbow flag",
+        "genre_class": 17,
+        "artist_class": 7,
+        "style_class": 15
+    },
+    "322000000007": {
+        "image_path": "3_delete_object_80/2_natural/2_human/322000000007.jpg",
+        "source_prompt": "a woman in a wedding dress sitting on a chair with lamp and flowers on the table",
+        "genre_class": 5,
+        "artist_class": 12,
+        "style_class": 5
+    },
+    "322000000008": {
+        "image_path": "3_delete_object_80/2_natural/2_human/322000000008.jpg",
+        "source_prompt": "a woman with a backpack playing an acoustic guitar on the grass",
+        "genre_class": 5,
+        "artist_class": 16,
+        "style_class": 26
+    },
+    "322000000009": {
+        "image_path": "3_delete_object_80/2_natural/2_human/322000000009.jpg",
+        "source_prompt": "a woman in a traditional chinese dress holding flowers",
+        "genre_class": 2,
+        "artist_class": 0,
+        "style_class": 0
+    },
+    "323000000000": {
+        "image_path": "3_delete_object_80/2_natural/3_indoor/323000000000.jpg",
+        "source_prompt": "a cup of coffee on a table with coffee beans and a coffee grinder",
+        "genre_class": 11,
+        "artist_class": 19,
+        "style_class": 24
+    },
+    "323000000001": {
+        "image_path": "3_delete_object_80/2_natural/3_indoor/323000000001.jpg",
+        "source_prompt": "raspberry macarons with mint leaves",
+        "genre_class": 20,
+        "artist_class": 22,
+        "style_class": 13
+    },
+    "323000000002": {
+        "image_path": "3_delete_object_80/2_natural/3_indoor/323000000002.jpg",
+        "source_prompt": "olive oil being poured into a bowl with olive on table",
+        "genre_class": 15,
+        "artist_class": 13,
+        "style_class": 2
+    },
+    "323000000003": {
+        "image_path": "3_delete_object_80/2_natural/3_indoor/323000000003.jpg",
+        "source_prompt": "a pear sitting on a wooden table",
+        "genre_class": 16,
+        "artist_class": 7,
+        "style_class": 16
+    },
+    "323000000004": {
+        "image_path": "3_delete_object_80/2_natural/3_indoor/323000000004.jpg",
+        "source_prompt": "a hand holding a stopwatch with the words 2023 and a graph in the background",
+        "genre_class": 10,
+        "artist_class": 12,
+        "style_class": 21
+    },
+    "323000000005": {
+        "image_path": "3_delete_object_80/2_natural/3_indoor/323000000005.jpg",
+        "source_prompt": "four eggs with drawings on them are in a nest",
+        "genre_class": 8,
+        "artist_class": 7,
+        "style_class": 23
+    },
+    "323000000006": {
+        "image_path": "3_delete_object_80/2_natural/3_indoor/323000000006.jpg",
+        "source_prompt": "two purple flowers are on a sheet of music",
+        "genre_class": 7,
+        "artist_class": 21,
+        "style_class": 22
+    },
+    "323000000007": {
+        "image_path": "3_delete_object_80/2_natural/3_indoor/323000000007.jpg",
+        "source_prompt": "a plate of chicken and broccoli on a black table",
+        "genre_class": 12,
+        "artist_class": 5,
+        "style_class": 3
+    },
+    "323000000008": {
+        "image_path": "3_delete_object_80/2_natural/3_indoor/323000000008.jpg",
+        "source_prompt": "two cups of coffee with a leaf design on the top, coffee beans",
+        "genre_class": 2,
+        "artist_class": 16,
+        "style_class": 8
+    },
+    "323000000009": {
+        "image_path": "3_delete_object_80/2_natural/3_indoor/323000000009.jpg",
+        "source_prompt": "a basket of books and a cup on the table",
+        "genre_class": 1,
+        "artist_class": 9,
+        "style_class": 20
+    },
+    "324000000000": {
+        "image_path": "3_delete_object_80/2_natural/4_outdoor/324000000000.jpg",
+        "source_prompt": "a single pink lotus flower is growing in the middle of a large green leaf",
+        "genre_class": 20,
+        "artist_class": 13,
+        "style_class": 15
+    },
+    "324000000001": {
+        "image_path": "3_delete_object_80/2_natural/4_outdoor/324000000001.jpg",
+        "source_prompt": "a large brown sand area with clouds on the sky",
+        "genre_class": 5,
+        "artist_class": 3,
+        "style_class": 13
+    },
+    "324000000002": {
+        "image_path": "3_delete_object_80/2_natural/4_outdoor/324000000002.jpg",
+        "source_prompt": "a paraglider is flying over a mountain with snow capped peaks",
+        "genre_class": 0,
+        "artist_class": 1,
+        "style_class": 26
+    },
+    "324000000003": {
+        "image_path": "3_delete_object_80/2_natural/4_outdoor/324000000003.jpg",
+        "source_prompt": "a small mushroom is sitting on top of a pine branch",
+        "genre_class": 11,
+        "artist_class": 18,
+        "style_class": 21
+    },
+    "324000000004": {
+        "image_path": "3_delete_object_80/2_natural/4_outdoor/324000000004.jpg",
+        "source_prompt": "rainbow over the ocean",
+        "genre_class": 12,
+        "artist_class": 5,
+        "style_class": 17
+    },
+    "324000000005": {
+        "image_path": "3_delete_object_80/2_natural/4_outdoor/324000000005.jpg",
+        "source_prompt": "a lone tree is reflected in the water at night with a bright moon",
+        "genre_class": 14,
+        "artist_class": 1,
+        "style_class": 20
+    },
+    "324000000006": {
+        "image_path": "3_delete_object_80/2_natural/4_outdoor/324000000006.jpg",
+        "source_prompt": "seagull sits on a wooden dock at sunset",
+        "genre_class": 6,
+        "artist_class": 13,
+        "style_class": 3
+    },
+    "324000000007": {
+        "image_path": "3_delete_object_80/2_natural/4_outdoor/324000000007.jpg",
+        "source_prompt": "a barn sits in the snow next to trees with gray sky",
+        "genre_class": 13,
+        "artist_class": 20,
+        "style_class": 3
+    },
+    "324000000008": {
+        "image_path": "3_delete_object_80/2_natural/4_outdoor/324000000008.jpg",
+        "source_prompt": "two boats are docked on the shore of a lake",
+        "genre_class": 10,
+        "artist_class": 16,
+        "style_class": 26
+    },
+    "324000000009": {
+        "image_path": "3_delete_object_80/2_natural/4_outdoor/324000000009.jpg",
+        "source_prompt": "a church in the countryside with a fence and trees",
+        "genre_class": 5,
+        "artist_class": 5,
+        "style_class": 12
+    },
+    "411000000000": {
+        "image_path": "4_change_attribute_content_40/1_artificial/1_animal/411000000000.jpg",
+        "source_prompt": "a cartoon painting of a fox with big eyes in a car",
+        "genre_class": 11,
+        "artist_class": 4,
+        "style_class": 19
+    },
+    "411000000001": {
+        "image_path": "4_change_attribute_content_40/1_artificial/1_animal/411000000001.jpg",
+        "source_prompt": "a colorful parrot with its wings spread out",
+        "genre_class": 12,
+        "artist_class": 0,
+        "style_class": 11
+    },
+    "411000000002": {
+        "image_path": "4_change_attribute_content_40/1_artificial/1_animal/411000000002.jpg",
+        "source_prompt": "a cartoon rabbit with a blue scarf",
+        "genre_class": 9,
+        "artist_class": 14,
+        "style_class": 3
+    },
+    "411000000003": {
+        "image_path": "4_change_attribute_content_40/1_artificial/1_animal/411000000003.jpg",
+        "source_prompt": "a beautiful white furry wolf",
+        "genre_class": 9,
+        "artist_class": 14,
+        "style_class": 18
+    },
+    "411000000004": {
+        "image_path": "4_change_attribute_content_40/1_artificial/1_animal/411000000004.jpg",
+        "source_prompt": "painting of a shepherd dog sitting in a laundry room next to a washing machine",
+        "genre_class": 18,
+        "artist_class": 12,
+        "style_class": 4
+    },
+    "412000000000": {
+        "image_path": "4_change_attribute_content_40/1_artificial/2_human/412000000000.jpg",
+        "source_prompt": "a woman with long hair sitting in the sand at sunset",
+        "genre_class": 1,
+        "artist_class": 20,
+        "style_class": 4
+    },
+    "412000000001": {
+        "image_path": "4_change_attribute_content_40/1_artificial/2_human/412000000001.jpg",
+        "source_prompt": "a painting of a woman with colorful paint on her face",
+        "genre_class": 7,
+        "artist_class": 7,
+        "style_class": 23
+    },
+    "412000000002": {
+        "image_path": "4_change_attribute_content_40/1_artificial/2_human/412000000002.jpg",
+        "source_prompt": "a digital art woman with curly hair standing in front of buildings",
+        "genre_class": 14,
+        "artist_class": 9,
+        "style_class": 10
+    },
+    "412000000003": {
+        "image_path": "4_change_attribute_content_40/1_artificial/2_human/412000000003.jpg",
+        "source_prompt": "a silhouette image of a man walking up a staircase in the clouds",
+        "genre_class": 4,
+        "artist_class": 2,
+        "style_class": 11
+    },
+    "412000000004": {
+        "image_path": "4_change_attribute_content_40/1_artificial/2_human/412000000004.jpg",
+        "source_prompt": "a detailed oil painting of a calm beautiful woman with stars in her hair",
+        "genre_class": 19,
+        "artist_class": 7,
+        "style_class": 12
+    },
+    "413000000000": {
+        "image_path": "4_change_attribute_content_40/1_artificial/3_indoor/413000000000.jpg",
+        "source_prompt": "chocolate chip cookies and milk in a glass",
+        "genre_class": 10,
+        "artist_class": 7,
+        "style_class": 23
+    },
+    "413000000001": {
+        "image_path": "4_change_attribute_content_40/1_artificial/3_indoor/413000000001.jpg",
+        "source_prompt": "a drawing of a long plant in a pot with fleshcolor background",
+        "genre_class": 11,
+        "artist_class": 19,
+        "style_class": 6
+    },
+    "413000000002": {
+        "image_path": "4_change_attribute_content_40/1_artificial/3_indoor/413000000002.jpg",
+        "source_prompt": "couple in a blanket on the couch with a burning fire",
+        "genre_class": 0,
+        "artist_class": 4,
+        "style_class": 17
+    },
+    "413000000003": {
+        "image_path": "4_change_attribute_content_40/1_artificial/3_indoor/413000000003.jpg",
+        "source_prompt": "christmas cookies in a box and a cup of tea",
+        "genre_class": 7,
+        "artist_class": 2,
+        "style_class": 22
+    },
+    "413000000004": {
+        "image_path": "4_change_attribute_content_40/1_artificial/3_indoor/413000000004.jpg",
+        "source_prompt": "a prehistoric old piano surrounded by plants",
+        "genre_class": 5,
+        "artist_class": 20,
+        "style_class": 11
+    },
+    "414000000000": {
+        "image_path": "4_change_attribute_content_40/1_artificial/4_outdoor/414000000000.jpg",
+        "source_prompt": "a cave with trees and sparkling river in the background",
+        "genre_class": 9,
+        "artist_class": 4,
+        "style_class": 20
+    },
+    "414000000001": {
+        "image_path": "4_change_attribute_content_40/1_artificial/4_outdoor/414000000001.jpg",
+        "source_prompt": "poppies in the clear night sky",
+        "genre_class": 16,
+        "artist_class": 0,
+        "style_class": 7
+    },
+    "414000000002": {
+        "image_path": "4_change_attribute_content_40/1_artificial/4_outdoor/414000000002.jpg",
+        "source_prompt": "an asteroid is flying through space with blue and green reticular lights",
+        "genre_class": 12,
+        "artist_class": 0,
+        "style_class": 13
+    },
+    "414000000003": {
+        "image_path": "4_change_attribute_content_40/1_artificial/4_outdoor/414000000003.jpg",
+        "source_prompt": "the village at night",
+        "genre_class": 1,
+        "artist_class": 17,
+        "style_class": 0
+    },
+    "414000000004": {
+        "image_path": "4_change_attribute_content_40/1_artificial/4_outdoor/414000000004.jpg",
+        "source_prompt": "a painting of huge mushrooms",
+        "genre_class": 13,
+        "artist_class": 17,
+        "style_class": 3
+    },
+    "421000000000": {
+        "image_path": "4_change_attribute_content_40/2_natural/1_animal/421000000000.jpg",
+        "source_prompt": "a white dog lying on grass",
+        "genre_class": 2,
+        "artist_class": 8,
+        "style_class": 8
+    },
+    "421000000001": {
+        "image_path": "4_change_attribute_content_40/2_natural/1_animal/421000000001.jpg",
+        "source_prompt": "a panda bear close his mouth",
+        "genre_class": 16,
+        "artist_class": 0,
+        "style_class": 1
+    },
+    "421000000002": {
+        "image_path": "4_change_attribute_content_40/2_natural/1_animal/421000000002.jpg",
+        "source_prompt": "a white horse running in the dirt",
+        "genre_class": 17,
+        "artist_class": 9,
+        "style_class": 11
+    },
+    "421000000003": {
+        "image_path": "4_change_attribute_content_40/2_natural/1_animal/421000000003.jpg",
+        "source_prompt": "a long haired cat looking up at something",
+        "genre_class": 14,
+        "artist_class": 2,
+        "style_class": 11
+    },
+    "421000000004": {
+        "image_path": "4_change_attribute_content_40/2_natural/1_animal/421000000004.jpg",
+        "source_prompt": "a close up of a rabbit with brown and white markings",
+        "genre_class": 13,
+        "artist_class": 10,
+        "style_class": 24
+    },
+    "422000000000": {
+        "image_path": "4_change_attribute_content_40/2_natural/2_human/422000000000.jpg",
+        "source_prompt": "a man wearing a tie",
+        "genre_class": 13,
+        "artist_class": 13,
+        "style_class": 24
+    },
+    "422000000001": {
+        "image_path": "4_change_attribute_content_40/2_natural/2_human/422000000001.jpg",
+        "source_prompt": "a woman with long curly hair",
+        "genre_class": 2,
+        "artist_class": 7,
+        "style_class": 24
+    },
+    "422000000002": {
+        "image_path": "4_change_attribute_content_40/2_natural/2_human/422000000002.jpg",
+        "source_prompt": "a woman in white holding flowers with eyes looking down",
+        "genre_class": 1,
+        "artist_class": 11,
+        "style_class": 22
+    },
+    "422000000003": {
+        "image_path": "4_change_attribute_content_40/2_natural/2_human/422000000003.jpg",
+        "source_prompt": "a young boy is playing with water in the street, laughing happily",
+        "genre_class": 10,
+        "artist_class": 13,
+        "style_class": 1
+    },
+    "422000000004": {
+        "image_path": "4_change_attribute_content_40/2_natural/2_human/422000000004.jpg",
+        "source_prompt": "a serious man",
+        "genre_class": 12,
+        "artist_class": 7,
+        "style_class": 13
+    },
+    "423000000000": {
+        "image_path": "4_change_attribute_content_40/2_natural/3_indoor/423000000000.jpg",
+        "source_prompt": "a plaid carpet",
+        "genre_class": 18,
+        "artist_class": 3,
+        "style_class": 26
+    },
+    "423000000001": {
+        "image_path": "4_change_attribute_content_40/2_natural/3_indoor/423000000001.jpg",
+        "source_prompt": "a person holding a mug of hot chocolate and reading a book",
+        "genre_class": 18,
+        "artist_class": 10,
+        "style_class": 6
+    },
+    "423000000002": {
+        "image_path": "4_change_attribute_content_40/2_natural/3_indoor/423000000002.jpg",
+        "source_prompt": "a round shape cake with orange frosting on a wooden plate",
+        "genre_class": 19,
+        "artist_class": 13,
+        "style_class": 22
+    },
+    "423000000003": {
+        "image_path": "4_change_attribute_content_40/2_natural/3_indoor/423000000003.jpg",
+        "source_prompt": "a clean bedroom with a bed, chair and window",
+        "genre_class": 11,
+        "artist_class": 2,
+        "style_class": 7
+    },
+    "423000000004": {
+        "image_path": "4_change_attribute_content_40/2_natural/3_indoor/423000000004.jpg",
+        "source_prompt": "a empty table and chairs in front of a window",
+        "genre_class": 6,
+        "artist_class": 8,
+        "style_class": 4
+    },
+    "424000000000": {
+        "image_path": "4_change_attribute_content_40/2_natural/4_outdoor/424000000000.jpg",
+        "source_prompt": "the dimly illuminated earth",
+        "genre_class": 4,
+        "artist_class": 13,
+        "style_class": 16
+    },
+    "424000000001": {
+        "image_path": "4_change_attribute_content_40/2_natural/4_outdoor/424000000001.jpg",
+        "source_prompt": "peaceful sea",
+        "genre_class": 8,
+        "artist_class": 3,
+        "style_class": 18
+    },
+    "424000000002": {
+        "image_path": "4_change_attribute_content_40/2_natural/4_outdoor/424000000002.jpg",
+        "source_prompt": "a white car driving down a road with blurred buildings in the background",
+        "genre_class": 5,
+        "artist_class": 0,
+        "style_class": 4
+    },
+    "424000000003": {
+        "image_path": "4_change_attribute_content_40/2_natural/4_outdoor/424000000003.jpg",
+        "source_prompt": "the sun is setting over the ocean and waves",
+        "genre_class": 18,
+        "artist_class": 7,
+        "style_class": 13
+    },
+    "424000000004": {
+        "image_path": "4_change_attribute_content_40/2_natural/4_outdoor/424000000004.jpg",
+        "source_prompt": "blooming rose in garden",
+        "genre_class": 18,
+        "artist_class": 19,
+        "style_class": 16
+    },
+    "511000000000": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/1_animal/511000000000.jpg",
+        "source_prompt": "a cartoon dog laying down on the ground",
+        "genre_class": 9,
+        "artist_class": 9,
+        "style_class": 25
+    },
+    "511000000001": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/1_animal/511000000001.jpg",
+        "source_prompt": "a standing pixel robot dog",
+        "genre_class": 13,
+        "artist_class": 8,
+        "style_class": 22
+    },
+    "511000000002": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/1_animal/511000000002.jpg",
+        "source_prompt": "a light brown bear sitting on the ground",
+        "genre_class": 18,
+        "artist_class": 9,
+        "style_class": 17
+    },
+    "511000000003": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/1_animal/511000000003.jpg",
+        "source_prompt": "a colorful hummingbird with wings spread",
+        "genre_class": 15,
+        "artist_class": 0,
+        "style_class": 0
+    },
+    "511000000004": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/1_animal/511000000004.jpg",
+        "source_prompt": "panda bear sitting on the ground holding a heart",
+        "genre_class": 1,
+        "artist_class": 7,
+        "style_class": 25
+    },
+    "512000000000": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/2_human/512000000000.jpg",
+        "source_prompt": "a woman in a green body suit with leaves on her body lift her arms up",
+        "genre_class": 2,
+        "artist_class": 4,
+        "style_class": 3
+    },
+    "512000000001": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/2_human/512000000001.jpg",
+        "source_prompt": "a woman in a hat and dress walking down a path at sunset",
+        "genre_class": 14,
+        "artist_class": 22,
+        "style_class": 25
+    },
+    "512000000002": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/2_human/512000000002.jpg",
+        "source_prompt": "a woman is hugging a horse",
+        "genre_class": 9,
+        "artist_class": 18,
+        "style_class": 13
+    },
+    "512000000003": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/2_human/512000000003.jpg",
+        "source_prompt": "a girl walking away the camera in a road with trees in the background",
+        "genre_class": 3,
+        "artist_class": 19,
+        "style_class": 24
+    },
+    "512000000004": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/2_human/512000000004.jpg",
+        "source_prompt": "graduation girl hands up with confetti in background",
+        "genre_class": 4,
+        "artist_class": 11,
+        "style_class": 8
+    },
+    "513000000000": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/3_indoor/513000000000.jpg",
+        "source_prompt": "a chair positioned facing a table in a room illuminated by a window",
+        "genre_class": 11,
+        "artist_class": 14,
+        "style_class": 2
+    },
+    "513000000001": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/3_indoor/513000000001.jpg",
+        "source_prompt": "a glass jar with a lid closed",
+        "genre_class": 19,
+        "artist_class": 12,
+        "style_class": 19
+    },
+    "513000000002": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/3_indoor/513000000002.jpg",
+        "source_prompt": "a bathroom with a wooden wall and a toilet and a painting",
+        "genre_class": 1,
+        "artist_class": 14,
+        "style_class": 14
+    },
+    "513000000003": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/3_indoor/513000000003.jpg",
+        "source_prompt": "coffee cups arranged around on a table that looks like 9 o'clock",
+        "genre_class": 2,
+        "artist_class": 17,
+        "style_class": 13
+    },
+    "513000000004": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/3_indoor/513000000004.jpg",
+        "source_prompt": "an office desk with a computer, a phone, and a pair of high-heeled shoes",
+        "genre_class": 6,
+        "artist_class": 13,
+        "style_class": 3
+    },
+    "514000000000": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/4_outdoor/514000000000.jpg",
+        "source_prompt": "a pirate ship is in the middle of a stormy ocean",
+        "genre_class": 9,
+        "artist_class": 17,
+        "style_class": 4
+    },
+    "514000000001": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/4_outdoor/514000000001.jpg",
+        "source_prompt": "a full moon over the beach at night",
+        "genre_class": 16,
+        "artist_class": 19,
+        "style_class": 7
+    },
+    "514000000002": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/4_outdoor/514000000002.jpg",
+        "source_prompt": "anime, the garden, pink, flowers, trees, path",
+        "genre_class": 3,
+        "artist_class": 1,
+        "style_class": 3
+    },
+    "514000000003": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/4_outdoor/514000000003.jpg",
+        "source_prompt": "a small house in the night",
+        "genre_class": 10,
+        "artist_class": 9,
+        "style_class": 13
+    },
+    "514000000004": {
+        "image_path": "5_change_attribute_pose_40/1_artificial/4_outdoor/514000000004.jpg",
+        "source_prompt": "vector illustration of a lake with trees and mountains",
+        "genre_class": 12,
+        "artist_class": 11,
+        "style_class": 21
+    },
+    "521000000000": {
+        "image_path": "5_change_attribute_pose_40/2_natural/1_animal/521000000000.jpg",
+        "source_prompt": "a dog standing on the grass looking at left side",
+        "genre_class": 5,
+        "artist_class": 4,
+        "style_class": 4
+    },
+    "521000000001": {
+        "image_path": "5_change_attribute_pose_40/2_natural/1_animal/521000000001.jpg",
+        "source_prompt": "a greyhound running through the grass",
+        "genre_class": 20,
+        "artist_class": 3,
+        "style_class": 25
+    },
+    "521000000002": {
+        "image_path": "5_change_attribute_pose_40/2_natural/1_animal/521000000002.jpg",
+        "source_prompt": "fallow deer with head turning back",
+        "genre_class": 16,
+        "artist_class": 13,
+        "style_class": 6
+    },
+    "521000000003": {
+        "image_path": "5_change_attribute_pose_40/2_natural/1_animal/521000000003.jpg",
+        "source_prompt": "a fox is walking in the snow",
+        "genre_class": 13,
+        "artist_class": 0,
+        "style_class": 9
+    },
+    "521000000004": {
+        "image_path": "5_change_attribute_pose_40/2_natural/1_animal/521000000004.jpg",
+        "source_prompt": "a pigeon is sitting on the ground in the sand",
+        "genre_class": 11,
+        "artist_class": 7,
+        "style_class": 21
+    },
+    "522000000000": {
+        "image_path": "5_change_attribute_pose_40/2_natural/2_human/522000000000.jpg",
+        "source_prompt": "a man with black shirt and hands down",
+        "genre_class": 0,
+        "artist_class": 20,
+        "style_class": 7
+    },
+    "522000000001": {
+        "image_path": "5_change_attribute_pose_40/2_natural/2_human/522000000001.jpg",
+        "source_prompt": "a young girl in traditional clothing making bread",
+        "genre_class": 1,
+        "artist_class": 14,
+        "style_class": 7
+    },
+    "522000000002": {
+        "image_path": "5_change_attribute_pose_40/2_natural/2_human/522000000002.jpg",
+        "source_prompt": "a young boy standing in the dirt with a jacket on",
+        "genre_class": 14,
+        "artist_class": 0,
+        "style_class": 1
+    },
+    "522000000003": {
+        "image_path": "5_change_attribute_pose_40/2_natural/2_human/522000000003.jpg",
+        "source_prompt": "a woman in a purple dress posing on a gazebo",
+        "genre_class": 1,
+        "artist_class": 22,
+        "style_class": 21
+    },
+    "522000000004": {
+        "image_path": "5_change_attribute_pose_40/2_natural/2_human/522000000004.jpg",
+        "source_prompt": "a woman in shorts and a fleshcolor shirt standing in an old building",
+        "genre_class": 17,
+        "artist_class": 0,
+        "style_class": 23
+    },
+    "523000000000": {
+        "image_path": "5_change_attribute_pose_40/2_natural/3_indoor/523000000000.jpg",
+        "source_prompt": "a margarita with lime and salt on a wooden tray",
+        "genre_class": 5,
+        "artist_class": 3,
+        "style_class": 4
+    },
+    "523000000001": {
+        "image_path": "5_change_attribute_pose_40/2_natural/3_indoor/523000000001.jpg",
+        "source_prompt": "a red pepper on a towel",
+        "genre_class": 1,
+        "artist_class": 1,
+        "style_class": 4
+    },
+    "523000000002": {
+        "image_path": "5_change_attribute_pose_40/2_natural/3_indoor/523000000002.jpg",
+        "source_prompt": "a margarita in a glass with lime slices putted in the right",
+        "genre_class": 18,
+        "artist_class": 19,
+        "style_class": 9
+    },
+    "523000000003": {
+        "image_path": "5_change_attribute_pose_40/2_natural/3_indoor/523000000003.jpg",
+        "source_prompt": "a square wooden crate filled with radishes and greens",
+        "genre_class": 5,
+        "artist_class": 20,
+        "style_class": 19
+    },
+    "523000000004": {
+        "image_path": "5_change_attribute_pose_40/2_natural/3_indoor/523000000004.jpg",
+        "source_prompt": "an upright old camera on a wooden table",
+        "genre_class": 18,
+        "artist_class": 8,
+        "style_class": 8
+    },
+    "524000000000": {
+        "image_path": "5_change_attribute_pose_40/2_natural/4_outdoor/524000000000.jpg",
+        "source_prompt": "a ragged edge cave with a view",
+        "genre_class": 0,
+        "artist_class": 4,
+        "style_class": 17
+    },
+    "524000000001": {
+        "image_path": "5_change_attribute_pose_40/2_natural/4_outdoor/524000000001.jpg",
+        "source_prompt": "a lone tree stands in a field at sunrise",
+        "genre_class": 5,
+        "artist_class": 19,
+        "style_class": 22
+    },
+    "524000000002": {
+        "image_path": "5_change_attribute_pose_40/2_natural/4_outdoor/524000000002.jpg",
+        "source_prompt": "a group of animals in the desert with a dead tree",
+        "genre_class": 7,
+        "artist_class": 6,
+        "style_class": 6
+    },
+    "524000000003": {
+        "image_path": "5_change_attribute_pose_40/2_natural/4_outdoor/524000000003.jpg",
+        "source_prompt": "white flowers are growing in the grass",
+        "genre_class": 8,
+        "artist_class": 10,
+        "style_class": 23
+    },
+    "524000000004": {
+        "image_path": "5_change_attribute_pose_40/2_natural/4_outdoor/524000000004.jpg",
+        "source_prompt": "easter bag with easter eggs and flowers",
+        "genre_class": 2,
+        "artist_class": 9,
+        "style_class": 16
+    },
+    "611000000000": {
+        "image_path": "6_change_attribute_color_40/1_artificial/1_animal/611000000000.jpg",
+        "source_prompt": "a black raven sits on a tree stump in the rain",
+        "genre_class": 11,
+        "artist_class": 1,
+        "style_class": 7
+    },
+    "611000000001": {
+        "image_path": "6_change_attribute_color_40/1_artificial/1_animal/611000000001.jpg",
+        "source_prompt": "otter in the water with pink hearts",
+        "genre_class": 11,
+        "artist_class": 12,
+        "style_class": 15
+    },
+    "611000000002": {
+        "image_path": "6_change_attribute_color_40/1_artificial/1_animal/611000000002.jpg",
+        "source_prompt": "a brown bear is sleeping with a sign that says no sleep",
+        "genre_class": 6,
+        "artist_class": 6,
+        "style_class": 23
+    },
+    "611000000003": {
+        "image_path": "6_change_attribute_color_40/1_artificial/1_animal/611000000003.jpg",
+        "source_prompt": "a watercolor painting of a white bunny in a cup of flowers",
+        "genre_class": 8,
+        "artist_class": 0,
+        "style_class": 25
+    },
+    "611000000004": {
+        "image_path": "6_change_attribute_color_40/1_artificial/1_animal/611000000004.jpg",
+        "source_prompt": "a white mouse with a wand and a star",
+        "genre_class": 7,
+        "artist_class": 8,
+        "style_class": 7
+    },
+    "612000000000": {
+        "image_path": "6_change_attribute_color_40/1_artificial/2_human/612000000000.jpg",
+        "source_prompt": "a black and white drawing of a woman with long hair",
+        "genre_class": 1,
+        "artist_class": 14,
+        "style_class": 4
+    },
+    "612000000001": {
+        "image_path": "6_change_attribute_color_40/1_artificial/2_human/612000000001.jpg",
+        "source_prompt": "a woman wearing a red hat and a red dress",
+        "genre_class": 5,
+        "artist_class": 21,
+        "style_class": 10
+    },
+    "612000000002": {
+        "image_path": "6_change_attribute_color_40/1_artificial/2_human/612000000002.jpg",
+        "source_prompt": "a woman in a hat and black dress is standing in front of an orange circle",
+        "genre_class": 20,
+        "artist_class": 20,
+        "style_class": 14
+    },
+    "612000000003": {
+        "image_path": "6_change_attribute_color_40/1_artificial/2_human/612000000003.jpg",
+        "source_prompt": "a girl with a pink umbrella in the rain",
+        "genre_class": 12,
+        "artist_class": 20,
+        "style_class": 4
+    },
+    "612000000004": {
+        "image_path": "6_change_attribute_color_40/1_artificial/2_human/612000000004.jpg",
+        "source_prompt": "watercolor painting of a woman with red lipstick wearing flowers in her hair",
+        "genre_class": 9,
+        "artist_class": 19,
+        "style_class": 25
+    },
+    "613000000000": {
+        "image_path": "6_change_attribute_color_40/1_artificial/3_indoor/613000000000.jpg",
+        "source_prompt": "a painting of red flowers in a vase with shells",
+        "genre_class": 5,
+        "artist_class": 21,
+        "style_class": 9
+    },
+    "613000000001": {
+        "image_path": "6_change_attribute_color_40/1_artificial/3_indoor/613000000001.jpg",
+        "source_prompt": "a red curtain is hanging over a stone wall",
+        "genre_class": 10,
+        "artist_class": 1,
+        "style_class": 18
+    },
+    "613000000002": {
+        "image_path": "6_change_attribute_color_40/1_artificial/3_indoor/613000000002.jpg",
+        "source_prompt": "easter eggs, candle, basket, dark background",
+        "genre_class": 14,
+        "artist_class": 22,
+        "style_class": 20
+    },
+    "613000000003": {
+        "image_path": "6_change_attribute_color_40/1_artificial/3_indoor/613000000003.jpg",
+        "source_prompt": "a plant hanging in front of a white wall",
+        "genre_class": 15,
+        "artist_class": 19,
+        "style_class": 11
+    },
+    "613000000004": {
+        "image_path": "6_change_attribute_color_40/1_artificial/3_indoor/613000000004.jpg",
+        "source_prompt": "a painting of purple lilas in a vase",
+        "genre_class": 19,
+        "artist_class": 19,
+        "style_class": 15
+    },
+    "614000000000": {
+        "image_path": "6_change_attribute_color_40/1_artificial/4_outdoor/614000000000.jpg",
+        "source_prompt": "a white seagull flying over the ocean waves",
+        "genre_class": 15,
+        "artist_class": 4,
+        "style_class": 23
+    },
+    "614000000001": {
+        "image_path": "6_change_attribute_color_40/1_artificial/4_outdoor/614000000001.jpg",
+        "source_prompt": "red roses are in a vase with a blurred background",
+        "genre_class": 17,
+        "artist_class": 8,
+        "style_class": 0
+    },
+    "614000000002": {
+        "image_path": "6_change_attribute_color_40/1_artificial/4_outdoor/614000000002.jpg",
+        "source_prompt": "a stack of black rocks and a ball in the water",
+        "genre_class": 3,
+        "artist_class": 13,
+        "style_class": 6
+    },
+    "614000000003": {
+        "image_path": "6_change_attribute_color_40/1_artificial/4_outdoor/614000000003.jpg",
+        "source_prompt": "a park bench and red trees in a flat style",
+        "genre_class": 11,
+        "artist_class": 2,
+        "style_class": 16
+    },
+    "614000000004": {
+        "image_path": "6_change_attribute_color_40/1_artificial/4_outdoor/614000000004.jpg",
+        "source_prompt": "santa and a white christmas tree",
+        "genre_class": 3,
+        "artist_class": 3,
+        "style_class": 0
+    },
+    "621000000000": {
+        "image_path": "6_change_attribute_color_40/2_natural/1_animal/621000000000.jpg",
+        "source_prompt": "a small white lamb standing in the grass",
+        "genre_class": 9,
+        "artist_class": 0,
+        "style_class": 25
+    },
+    "621000000001": {
+        "image_path": "6_change_attribute_color_40/2_natural/1_animal/621000000001.jpg",
+        "source_prompt": "a black and white french bulldog sitting on a blanket",
+        "genre_class": 9,
+        "artist_class": 13,
+        "style_class": 5
+    },
+    "621000000002": {
+        "image_path": "6_change_attribute_color_40/2_natural/1_animal/621000000002.jpg",
+        "source_prompt": "a black bird with a yellow beak and yellow feet",
+        "genre_class": 0,
+        "artist_class": 13,
+        "style_class": 2
+    },
+    "621000000003": {
+        "image_path": "6_change_attribute_color_40/2_natural/1_animal/621000000003.jpg",
+        "source_prompt": "a green lizard is sitting on a branch",
+        "genre_class": 10,
+        "artist_class": 3,
+        "style_class": 13
+    },
+    "621000000004": {
+        "image_path": "6_change_attribute_color_40/2_natural/1_animal/621000000004.jpg",
+        "source_prompt": "a white kitten sitting on a leopard print blanket",
+        "genre_class": 4,
+        "artist_class": 21,
+        "style_class": 2
+    },
+    "622000000000": {
+        "image_path": "6_change_attribute_color_40/2_natural/2_human/622000000000.jpg",
+        "source_prompt": "A white shirt",
+        "genre_class": 5,
+        "artist_class": 22,
+        "style_class": 13
+    },
+    "622000000001": {
+        "image_path": "6_change_attribute_color_40/2_natural/2_human/622000000001.jpg",
+        "source_prompt": "a woman in a white dress sitting on a chair with flowers",
+        "genre_class": 16,
+        "artist_class": 1,
+        "style_class": 25
+    },
+    "622000000002": {
+        "image_path": "6_change_attribute_color_40/2_natural/2_human/622000000002.jpg",
+        "source_prompt": "a man in a white shirt talking on a cell phone",
+        "genre_class": 15,
+        "artist_class": 3,
+        "style_class": 4
+    },
+    "622000000003": {
+        "image_path": "6_change_attribute_color_40/2_natural/2_human/622000000003.jpg",
+        "source_prompt": "a beautiful woman wearing a black veil",
+        "genre_class": 3,
+        "artist_class": 11,
+        "style_class": 18
+    },
+    "622000000004": {
+        "image_path": "6_change_attribute_color_40/2_natural/2_human/622000000004.jpg",
+        "source_prompt": "a woman with black hair and red lipstick holding a flower",
+        "genre_class": 20,
+        "artist_class": 21,
+        "style_class": 5
+    },
+    "623000000000": {
+        "image_path": "6_change_attribute_color_40/2_natural/3_indoor/623000000000.jpg",
+        "source_prompt": "brown tea cup and a book",
+        "genre_class": 12,
+        "artist_class": 0,
+        "style_class": 2
+    },
+    "623000000001": {
+        "image_path": "6_change_attribute_color_40/2_natural/3_indoor/623000000001.jpg",
+        "source_prompt": "blue lavender in a blue and white vase",
+        "genre_class": 1,
+        "artist_class": 16,
+        "style_class": 18
+    },
+    "623000000002": {
+        "image_path": "6_change_attribute_color_40/2_natural/3_indoor/623000000002.jpg",
+        "source_prompt": "a red lipstick is being splashed with red powder",
+        "genre_class": 13,
+        "artist_class": 8,
+        "style_class": 10
+    },
+    "623000000003": {
+        "image_path": "6_change_attribute_color_40/2_natural/3_indoor/623000000003.jpg",
+        "source_prompt": "mockup of a wooden frame with a red rose on a white marble background",
+        "genre_class": 12,
+        "artist_class": 2,
+        "style_class": 0
+    },
+    "623000000004": {
+        "image_path": "6_change_attribute_color_40/2_natural/3_indoor/623000000004.jpg",
+        "source_prompt": "a bowl of green tea icecream with a spoon",
+        "genre_class": 11,
+        "artist_class": 22,
+        "style_class": 18
+    },
+    "624000000000": {
+        "image_path": "6_change_attribute_color_40/2_natural/4_outdoor/624000000000.jpg",
+        "source_prompt": "a bee was standing on the yellow sunflower",
+        "genre_class": 2,
+        "artist_class": 19,
+        "style_class": 7
+    },
+    "624000000001": {
+        "image_path": "6_change_attribute_color_40/2_natural/4_outdoor/624000000001.jpg",
+        "source_prompt": "blue butterflies and mushrooms in the forest at night",
+        "genre_class": 5,
+        "artist_class": 13,
+        "style_class": 16
+    },
+    "624000000002": {
+        "image_path": "6_change_attribute_color_40/2_natural/4_outdoor/624000000002.jpg",
+        "source_prompt": "snow covered trees in a field near a river with blue sky",
+        "genre_class": 7,
+        "artist_class": 9,
+        "style_class": 1
+    },
+    "624000000003": {
+        "image_path": "6_change_attribute_color_40/2_natural/4_outdoor/624000000003.jpg",
+        "source_prompt": "a brwon cabin in the snow near a lake",
+        "genre_class": 9,
+        "artist_class": 3,
+        "style_class": 6
+    },
+    "624000000004": {
+        "image_path": "6_change_attribute_color_40/2_natural/4_outdoor/624000000004.jpg",
+        "source_prompt": "a narrow street with yellow buildings and a bike",
+        "genre_class": 1,
+        "artist_class": 8,
+        "style_class": 26
+    },
+    "711000000000": {
+        "image_path": "7_change_attribute_material_40/1_artificial/1_animal/711000000000.jpg",
+        "source_prompt": "a drawing of a brown bear sitting down",
+        "genre_class": 7,
+        "artist_class": 15,
+        "style_class": 19
+    },
+    "711000000001": {
+        "image_path": "7_change_attribute_material_40/1_artificial/1_animal/711000000001.jpg",
+        "source_prompt": "a colorful bird sitting on a branch with a green background",
+        "genre_class": 13,
+        "artist_class": 9,
+        "style_class": 16
+    },
+    "711000000002": {
+        "image_path": "7_change_attribute_material_40/1_artificial/1_animal/711000000002.jpg",
+        "source_prompt": "a blue butterfly with sparkles on its wings",
+        "genre_class": 14,
+        "artist_class": 18,
+        "style_class": 0
+    },
+    "711000000003": {
+        "image_path": "7_change_attribute_material_40/1_artificial/1_animal/711000000003.jpg",
+        "source_prompt": "a deer with large antlers in low polygonal style",
+        "genre_class": 6,
+        "artist_class": 21,
+        "style_class": 24
+    },
+    "711000000004": {
+        "image_path": "7_change_attribute_material_40/1_artificial/1_animal/711000000004.jpg",
+        "source_prompt": "a kitten",
+        "genre_class": 3,
+        "artist_class": 21,
+        "style_class": 24
+    },
+    "712000000000": {
+        "image_path": "7_change_attribute_material_40/1_artificial/2_human/712000000000.jpg",
+        "source_prompt": "a woman in a kimono sitting on a rock",
+        "genre_class": 1,
+        "artist_class": 10,
+        "style_class": 5
+    },
+    "712000000001": {
+        "image_path": "7_change_attribute_material_40/1_artificial/2_human/712000000001.jpg",
+        "source_prompt": "a drawing of a young man with blue eyes",
+        "genre_class": 1,
+        "artist_class": 12,
+        "style_class": 15
+    },
+    "712000000002": {
+        "image_path": "7_change_attribute_material_40/1_artificial/2_human/712000000002.jpg",
+        "source_prompt": "a woman in a kimono standing in a river",
+        "genre_class": 1,
+        "artist_class": 10,
+        "style_class": 9
+    },
+    "712000000003": {
+        "image_path": "7_change_attribute_material_40/1_artificial/2_human/712000000003.jpg",
+        "source_prompt": "two boys in the water with sticks and buckets",
+        "genre_class": 3,
+        "artist_class": 14,
+        "style_class": 19
+    },
+    "712000000004": {
+        "image_path": "7_change_attribute_material_40/1_artificial/2_human/712000000004.jpg",
+        "source_prompt": "a cartoon couple standing on the beach",
+        "genre_class": 9,
+        "artist_class": 4,
+        "style_class": 25
+    },
+    "713000000000": {
+        "image_path": "7_change_attribute_material_40/1_artificial/3_indoor/713000000000.jpg",
+        "source_prompt": "a sketch of a kitchen and dining area with two chairs",
+        "genre_class": 5,
+        "artist_class": 15,
+        "style_class": 13
+    },
+    "713000000001": {
+        "image_path": "7_change_attribute_material_40/1_artificial/3_indoor/713000000001.jpg",
+        "source_prompt": "illustration of a cup and a lamp on a table by a window",
+        "genre_class": 1,
+        "artist_class": 9,
+        "style_class": 15
+    },
+    "713000000002": {
+        "image_path": "7_change_attribute_material_40/1_artificial/3_indoor/713000000002.jpg",
+        "source_prompt": "a modern living room with black sofa and a black wall",
+        "genre_class": 14,
+        "artist_class": 2,
+        "style_class": 17
+    },
+    "713000000003": {
+        "image_path": "7_change_attribute_material_40/1_artificial/3_indoor/713000000003.jpg",
+        "source_prompt": "a couch with a green curtain and a window",
+        "genre_class": 15,
+        "artist_class": 0,
+        "style_class": 24
+    },
+    "713000000004": {
+        "image_path": "7_change_attribute_material_40/1_artificial/3_indoor/713000000004.jpg",
+        "source_prompt": "a cartoon kitchen with a stove, sink and cabinets",
+        "genre_class": 12,
+        "artist_class": 21,
+        "style_class": 0
+    },
+    "714000000000": {
+        "image_path": "7_change_attribute_material_40/1_artificial/4_outdoor/714000000000.jpg",
+        "source_prompt": "a close up of a red leaf on a plant",
+        "genre_class": 17,
+        "artist_class": 14,
+        "style_class": 3
+    },
+    "714000000001": {
+        "image_path": "7_change_attribute_material_40/1_artificial/4_outdoor/714000000001.jpg",
+        "source_prompt": "a house in the fog with a path leading to it",
+        "genre_class": 13,
+        "artist_class": 0,
+        "style_class": 7
+    },
+    "714000000002": {
+        "image_path": "7_change_attribute_material_40/1_artificial/4_outdoor/714000000002.jpg",
+        "source_prompt": "a lantern in the forest with trees and lights",
+        "genre_class": 14,
+        "artist_class": 22,
+        "style_class": 15
+    },
+    "714000000003": {
+        "image_path": "7_change_attribute_material_40/1_artificial/4_outdoor/714000000003.jpg",
+        "source_prompt": "the crescent moon and stars are seen in the night sky",
+        "genre_class": 0,
+        "artist_class": 16,
+        "style_class": 12
+    },
+    "714000000004": {
+        "image_path": "7_change_attribute_material_40/1_artificial/4_outdoor/714000000004.jpg",
+        "source_prompt": "easter eggs in a basket on the grass",
+        "genre_class": 8,
+        "artist_class": 12,
+        "style_class": 15
+    },
+    "721000000000": {
+        "image_path": "7_change_attribute_material_40/2_natural/1_animal/721000000000.jpg",
+        "source_prompt": "a photo of a horse in the field",
+        "genre_class": 11,
+        "artist_class": 7,
+        "style_class": 8
+    },
+    "721000000001": {
+        "image_path": "7_change_attribute_material_40/2_natural/1_animal/721000000001.jpg",
+        "source_prompt": "a robin is perched on a branch in the snow",
+        "genre_class": 18,
+        "artist_class": 17,
+        "style_class": 21
+    },
+    "721000000002": {
+        "image_path": "7_change_attribute_material_40/2_natural/1_animal/721000000002.jpg",
+        "source_prompt": "a ladybug with black spots on its back is sitting on a leaf",
+        "genre_class": 11,
+        "artist_class": 10,
+        "style_class": 10
+    },
+    "721000000003": {
+        "image_path": "7_change_attribute_material_40/2_natural/1_animal/721000000003.jpg",
+        "source_prompt": "a yound lion",
+        "genre_class": 17,
+        "artist_class": 5,
+        "style_class": 8
+    },
+    "721000000004": {
+        "image_path": "7_change_attribute_material_40/2_natural/1_animal/721000000004.jpg",
+        "source_prompt": "a white cat with blue eyes sitting on a rock",
+        "genre_class": 5,
+        "artist_class": 6,
+        "style_class": 0
+    },
+    "722000000000": {
+        "image_path": "7_change_attribute_material_40/2_natural/2_human/722000000000.jpg",
+        "source_prompt": "a man wearing a shirt",
+        "genre_class": 11,
+        "artist_class": 12,
+        "style_class": 13
+    },
+    "722000000001": {
+        "image_path": "7_change_attribute_material_40/2_natural/2_human/722000000001.jpg",
+        "source_prompt": "a man sitting in a room",
+        "genre_class": 1,
+        "artist_class": 12,
+        "style_class": 23
+    },
+    "722000000002": {
+        "image_path": "7_change_attribute_material_40/2_natural/2_human/722000000002.jpg",
+        "source_prompt": "a woman in a black tank top and pink shorts is about to hit a tennis ball",
+        "genre_class": 1,
+        "artist_class": 4,
+        "style_class": 24
+    },
+    "722000000003": {
+        "image_path": "7_change_attribute_material_40/2_natural/2_human/722000000003.jpg",
+        "source_prompt": "a woman in a black bikini top and yoga pants is meditating",
+        "genre_class": 2,
+        "artist_class": 11,
+        "style_class": 26
+    },
+    "722000000004": {
+        "image_path": "7_change_attribute_material_40/2_natural/2_human/722000000004.jpg",
+        "source_prompt": "a woman in a red gown",
+        "genre_class": 4,
+        "artist_class": 17,
+        "style_class": 11
+    },
+    "723000000000": {
+        "image_path": "7_change_attribute_material_40/2_natural/3_indoor/723000000000.jpg",
+        "source_prompt": "a office chair",
+        "genre_class": 2,
+        "artist_class": 4,
+        "style_class": 4
+    },
+    "723000000001": {
+        "image_path": "7_change_attribute_material_40/2_natural/3_indoor/723000000001.jpg",
+        "source_prompt": "tomatoes in a bowl on a table",
+        "genre_class": 8,
+        "artist_class": 7,
+        "style_class": 11
+    },
+    "723000000002": {
+        "image_path": "7_change_attribute_material_40/2_natural/3_indoor/723000000002.jpg",
+        "source_prompt": "a coffee cup with musical notes and a christmas tree",
+        "genre_class": 3,
+        "artist_class": 16,
+        "style_class": 15
+    },
+    "723000000003": {
+        "image_path": "7_change_attribute_material_40/2_natural/3_indoor/723000000003.jpg",
+        "source_prompt": "a chocolate cake with candies on top",
+        "genre_class": 2,
+        "artist_class": 21,
+        "style_class": 9
+    },
+    "723000000004": {
+        "image_path": "7_change_attribute_material_40/2_natural/3_indoor/723000000004.jpg",
+        "source_prompt": "vintage camera, polaroid, travel, travel photography",
+        "genre_class": 6,
+        "artist_class": 10,
+        "style_class": 7
+    },
+    "724000000000": {
+        "image_path": "7_change_attribute_material_40/2_natural/4_outdoor/724000000000.jpg",
+        "source_prompt": "snowdrops in the garden",
+        "genre_class": 10,
+        "artist_class": 4,
+        "style_class": 11
+    },
+    "724000000001": {
+        "image_path": "7_change_attribute_material_40/2_natural/4_outdoor/724000000001.jpg",
+        "source_prompt": "a park with trees with pink flowers",
+        "genre_class": 5,
+        "artist_class": 9,
+        "style_class": 12
+    },
+    "724000000002": {
+        "image_path": "7_change_attribute_material_40/2_natural/4_outdoor/724000000002.jpg",
+        "source_prompt": "the 2020 honda hrx is driving down the road",
+        "genre_class": 15,
+        "artist_class": 9,
+        "style_class": 13
+    },
+    "724000000003": {
+        "image_path": "7_change_attribute_material_40/2_natural/4_outdoor/724000000003.jpg",
+        "source_prompt": "a single rose in front of an orange wall",
+        "genre_class": 3,
+        "artist_class": 17,
+        "style_class": 15
+    },
+    "724000000004": {
+        "image_path": "7_change_attribute_material_40/2_natural/4_outdoor/724000000004.jpg",
+        "source_prompt": "a plant against a wall",
+        "genre_class": 14,
+        "artist_class": 16,
+        "style_class": 24
+    },
+    "811000000000": {
+        "image_path": "8_change_background_80/1_artificial/1_animal/811000000000.jpg",
+        "source_prompt": "a little carton sheep in a white background",
+        "genre_class": 8,
+        "artist_class": 8,
+        "style_class": 16
+    },
+    "811000000001": {
+        "image_path": "8_change_background_80/1_artificial/1_animal/811000000001.jpg",
+        "source_prompt": "watercolor painting of a deer with flowers on its head standing in white background",
+        "genre_class": 19,
+        "artist_class": 0,
+        "style_class": 5
+    },
+    "811000000002": {
+        "image_path": "8_change_background_80/1_artificial/1_animal/811000000002.jpg",
+        "source_prompt": "a cartoon drawing of a rabbit on mud",
+        "genre_class": 16,
+        "artist_class": 19,
+        "style_class": 9
+    },
+    "811000000003": {
+        "image_path": "8_change_background_80/1_artificial/1_animal/811000000003.jpg",
+        "source_prompt": "a digital painting of a cat with big eyes in front of yellow background",
+        "genre_class": 5,
+        "artist_class": 13,
+        "style_class": 16
+    },
+    "811000000004": {
+        "image_path": "8_change_background_80/1_artificial/1_animal/811000000004.jpg",
+        "source_prompt": "the lion head is on a black background",
+        "genre_class": 17,
+        "artist_class": 3,
+        "style_class": 18
+    },
+    "811000000005": {
+        "image_path": "8_change_background_80/1_artificial/1_animal/811000000005.jpg",
+        "source_prompt": "an illustration of an owl sitting on a branch",
+        "genre_class": 11,
+        "artist_class": 18,
+        "style_class": 17
+    },
+    "811000000006": {
+        "image_path": "8_change_background_80/1_artificial/1_animal/811000000006.jpg",
+        "source_prompt": "a bird is standing on a green background",
+        "genre_class": 10,
+        "artist_class": 16,
+        "style_class": 24
+    },
+    "811000000007": {
+        "image_path": "8_change_background_80/1_artificial/1_animal/811000000007.jpg",
+        "source_prompt": "a colorful cat with splashes of paint on its head",
+        "genre_class": 15,
+        "artist_class": 11,
+        "style_class": 11
+    },
+    "811000000008": {
+        "image_path": "8_change_background_80/1_artificial/1_animal/811000000008.jpg",
+        "source_prompt": "a black bird sits on a branch in the snow",
+        "genre_class": 17,
+        "artist_class": 0,
+        "style_class": 17
+    },
+    "811000000009": {
+        "image_path": "8_change_background_80/1_artificial/1_animal/811000000009.jpg",
+        "source_prompt": "a cartoon dog wearing sunglasses in a yellow background",
+        "genre_class": 0,
+        "artist_class": 17,
+        "style_class": 0
+    },
+    "812000000000": {
+        "image_path": "8_change_background_80/1_artificial/2_human/812000000000.jpg",
+        "source_prompt": "a man in a white shirt standing in front of trees",
+        "genre_class": 13,
+        "artist_class": 8,
+        "style_class": 24
+    },
+    "812000000001": {
+        "image_path": "8_change_background_80/1_artificial/2_human/812000000001.jpg",
+        "source_prompt": "a painting of a woman in red dress with gray background",
+        "genre_class": 13,
+        "artist_class": 6,
+        "style_class": 6
+    },
+    "812000000002": {
+        "image_path": "8_change_background_80/1_artificial/2_human/812000000002.jpg",
+        "source_prompt": "a cartoon girl in a hat and dress",
+        "genre_class": 16,
+        "artist_class": 5,
+        "style_class": 24
+    },
+    "812000000003": {
+        "image_path": "8_change_background_80/1_artificial/2_human/812000000003.jpg",
+        "source_prompt": "a man is sitting at a desk",
+        "genre_class": 13,
+        "artist_class": 11,
+        "style_class": 24
+    },
+    "812000000004": {
+        "image_path": "8_change_background_80/1_artificial/2_human/812000000004.jpg",
+        "source_prompt": "an angel with wings standing in a field",
+        "genre_class": 2,
+        "artist_class": 20,
+        "style_class": 21
+    },
+    "812000000005": {
+        "image_path": "8_change_background_80/1_artificial/2_human/812000000005.jpg",
+        "source_prompt": "a woman in a witch costume with a hat in black forest",
+        "genre_class": 14,
+        "artist_class": 6,
+        "style_class": 16
+    },
+    "812000000006": {
+        "image_path": "8_change_background_80/1_artificial/2_human/812000000006.jpg",
+        "source_prompt": "illustration of a woman meditating in a yoga pose",
+        "genre_class": 8,
+        "artist_class": 5,
+        "style_class": 19
+    },
+    "812000000007": {
+        "image_path": "8_change_background_80/1_artificial/2_human/812000000007.jpg",
+        "source_prompt": "man walking in dark tunnel with light at end",
+        "genre_class": 8,
+        "artist_class": 0,
+        "style_class": 20
+    },
+    "812000000008": {
+        "image_path": "8_change_background_80/1_artificial/2_human/812000000008.jpg",
+        "source_prompt": "a woman in a white suit is riding a street lamp in the space",
+        "genre_class": 15,
+        "artist_class": 19,
+        "style_class": 7
+    },
+    "812000000009": {
+        "image_path": "8_change_background_80/1_artificial/2_human/812000000009.jpg",
+        "source_prompt": "a watercolor painting of a couple holding hands",
+        "genre_class": 18,
+        "artist_class": 20,
+        "style_class": 4
+    },
+    "813000000000": {
+        "image_path": "8_change_background_80/1_artificial/3_indoor/813000000000.jpg",
+        "source_prompt": "popcorn and a cup of hot chocolate in front of fireplace",
+        "genre_class": 17,
+        "artist_class": 9,
+        "style_class": 14
+    },
+    "813000000001": {
+        "image_path": "8_change_background_80/1_artificial/3_indoor/813000000001.jpg",
+        "source_prompt": "a desk with a lamp and books on it and fire in the background",
+        "genre_class": 3,
+        "artist_class": 20,
+        "style_class": 6
+    },
+    "813000000002": {
+        "image_path": "8_change_background_80/1_artificial/3_indoor/813000000002.jpg",
+        "source_prompt": "luxury bedroom interior with marble wall",
+        "genre_class": 5,
+        "artist_class": 13,
+        "style_class": 1
+    },
+    "813000000003": {
+        "image_path": "8_change_background_80/1_artificial/3_indoor/813000000003.jpg",
+        "source_prompt": "a couch with studded arms and a gold frame with a brown background",
+        "genre_class": 0,
+        "artist_class": 21,
+        "style_class": 23
+    },
+    "813000000004": {
+        "image_path": "8_change_background_80/1_artificial/3_indoor/813000000004.jpg",
+        "source_prompt": "a chair sits in front of a wall with a floral pattern",
+        "genre_class": 4,
+        "artist_class": 2,
+        "style_class": 9
+    },
+    "813000000005": {
+        "image_path": "8_change_background_80/1_artificial/3_indoor/813000000005.jpg",
+        "source_prompt": "a pot and a jar sitting on a counter in a room",
+        "genre_class": 16,
+        "artist_class": 10,
+        "style_class": 22
+    },
+    "813000000006": {
+        "image_path": "8_change_background_80/1_artificial/3_indoor/813000000006.jpg",
+        "source_prompt": "a white couch in front of a painting",
+        "genre_class": 19,
+        "artist_class": 0,
+        "style_class": 17
+    },
+    "813000000007": {
+        "image_path": "8_change_background_80/1_artificial/3_indoor/813000000007.jpg",
+        "source_prompt": "a potted plant sits on a wooden table in front of the mottled walls",
+        "genre_class": 14,
+        "artist_class": 6,
+        "style_class": 20
+    },
+    "813000000008": {
+        "image_path": "8_change_background_80/1_artificial/3_indoor/813000000008.jpg",
+        "source_prompt": "a bedroom with a window looking out onto the beach",
+        "genre_class": 0,
+        "artist_class": 2,
+        "style_class": 10
+    },
+    "813000000009": {
+        "image_path": "8_change_background_80/1_artificial/3_indoor/813000000009.jpg",
+        "source_prompt": "a small table with a bowl of fruit on it in a room",
+        "genre_class": 3,
+        "artist_class": 19,
+        "style_class": 11
+    },
+    "814000000000": {
+        "image_path": "8_change_background_80/1_artificial/4_outdoor/814000000000.jpg",
+        "source_prompt": "a ship on the the calm sea with milky way galaxy",
+        "genre_class": 8,
+        "artist_class": 14,
+        "style_class": 2
+    },
+    "814000000001": {
+        "image_path": "8_change_background_80/1_artificial/4_outdoor/814000000001.jpg",
+        "source_prompt": "a person sitting on a mountain with a starry sky above",
+        "genre_class": 12,
+        "artist_class": 2,
+        "style_class": 9
+    },
+    "814000000002": {
+        "image_path": "8_change_background_80/1_artificial/4_outdoor/814000000002.jpg",
+        "source_prompt": "sunset over mountains with a pink sky",
+        "genre_class": 8,
+        "artist_class": 16,
+        "style_class": 23
+    },
+    "814000000003": {
+        "image_path": "8_change_background_80/1_artificial/4_outdoor/814000000003.jpg",
+        "source_prompt": "a man walking in the woods at night",
+        "genre_class": 6,
+        "artist_class": 9,
+        "style_class": 14
+    },
+    "814000000004": {
+        "image_path": "8_change_background_80/1_artificial/4_outdoor/814000000004.jpg",
+        "source_prompt": "a painting of planets and stars in the sky",
+        "genre_class": 5,
+        "artist_class": 8,
+        "style_class": 5
+    },
+    "814000000005": {
+        "image_path": "8_change_background_80/1_artificial/4_outdoor/814000000005.jpg",
+        "source_prompt": "the taj mahal is a beautiful building in india",
+        "genre_class": 14,
+        "artist_class": 21,
+        "style_class": 23
+    },
+    "814000000006": {
+        "image_path": "8_change_background_80/1_artificial/4_outdoor/814000000006.jpg",
+        "source_prompt": "the great wave off kanagawa",
+        "genre_class": 9,
+        "artist_class": 11,
+        "style_class": 2
+    },
+    "814000000007": {
+        "image_path": "8_change_background_80/1_artificial/4_outdoor/814000000007.jpg",
+        "source_prompt": "a painting of sun rising above the sea level",
+        "genre_class": 10,
+        "artist_class": 19,
+        "style_class": 20
+    },
+    "814000000008": {
+        "image_path": "8_change_background_80/1_artificial/4_outdoor/814000000008.jpg",
+        "source_prompt": "a blue and green illustration of a house in a hill",
+        "genre_class": 4,
+        "artist_class": 20,
+        "style_class": 1
+    },
+    "814000000009": {
+        "image_path": "8_change_background_80/1_artificial/4_outdoor/814000000009.jpg",
+        "source_prompt": "a man and woman standing on a pier looking at the stars in the sky",
+        "genre_class": 14,
+        "artist_class": 15,
+        "style_class": 8
+    },
+    "821000000000": {
+        "image_path": "8_change_background_80/2_natural/1_animal/821000000000.jpg",
+        "source_prompt": "a barn owl with a black eye and spots in a white background",
+        "genre_class": 4,
+        "artist_class": 21,
+        "style_class": 21
+    },
+    "821000000001": {
+        "image_path": "8_change_background_80/2_natural/1_animal/821000000001.jpg",
+        "source_prompt": "a crow standing on the snow",
+        "genre_class": 20,
+        "artist_class": 14,
+        "style_class": 8
+    },
+    "821000000002": {
+        "image_path": "8_change_background_80/2_natural/1_animal/821000000002.jpg",
+        "source_prompt": "a seagull flying over the water with a blue sky",
+        "genre_class": 14,
+        "artist_class": 6,
+        "style_class": 8
+    },
+    "821000000003": {
+        "image_path": "8_change_background_80/2_natural/1_animal/821000000003.jpg",
+        "source_prompt": "a red bird sits on a branch in front of a red background",
+        "genre_class": 19,
+        "artist_class": 14,
+        "style_class": 13
+    },
+    "821000000004": {
+        "image_path": "8_change_background_80/2_natural/1_animal/821000000004.jpg",
+        "source_prompt": "a tiger is roaring with its mouth open in a mountain",
+        "genre_class": 0,
+        "artist_class": 15,
+        "style_class": 13
+    },
+    "821000000005": {
+        "image_path": "8_change_background_80/2_natural/1_animal/821000000005.jpg",
+        "source_prompt": "a fox is sitting in the snow",
+        "genre_class": 18,
+        "artist_class": 14,
+        "style_class": 8
+    },
+    "821000000006": {
+        "image_path": "8_change_background_80/2_natural/1_animal/821000000006.jpg",
+        "source_prompt": "a kingfisher is stretching its wings on a branch",
+        "genre_class": 12,
+        "artist_class": 10,
+        "style_class": 6
+    },
+    "821000000007": {
+        "image_path": "8_change_background_80/2_natural/1_animal/821000000007.jpg",
+        "source_prompt": "a duck standing on a rock by the water",
+        "genre_class": 4,
+        "artist_class": 4,
+        "style_class": 23
+    },
+    "821000000008": {
+        "image_path": "8_change_background_80/2_natural/1_animal/821000000008.jpg",
+        "source_prompt": "a brown dog with a collar on is looking at the camera on the grass",
+        "genre_class": 20,
+        "artist_class": 14,
+        "style_class": 1
+    },
+    "821000000009": {
+        "image_path": "8_change_background_80/2_natural/1_animal/821000000009.jpg",
+        "source_prompt": "an orange cat laying on the ground",
+        "genre_class": 20,
+        "artist_class": 19,
+        "style_class": 9
+    },
+    "822000000000": {
+        "image_path": "8_change_background_80/2_natural/2_human/822000000000.jpg",
+        "source_prompt": "a beautiful young woman with clean background",
+        "genre_class": 17,
+        "artist_class": 15,
+        "style_class": 17
+    },
+    "822000000001": {
+        "image_path": "8_change_background_80/2_natural/2_human/822000000001.jpg",
+        "source_prompt": "a beautiful woman with an arrow in her hand",
+        "genre_class": 13,
+        "artist_class": 13,
+        "style_class": 23
+    },
+    "822000000002": {
+        "image_path": "8_change_background_80/2_natural/2_human/822000000002.jpg",
+        "source_prompt": "a woman with her arms outstretched on top of a mountain",
+        "genre_class": 0,
+        "artist_class": 21,
+        "style_class": 14
+    },
+    "822000000003": {
+        "image_path": "8_change_background_80/2_natural/2_human/822000000003.jpg",
+        "source_prompt": "a woman in a scarf and coat walking down a cobblestone street",
+        "genre_class": 0,
+        "artist_class": 3,
+        "style_class": 0
+    },
+    "822000000004": {
+        "image_path": "8_change_background_80/2_natural/2_human/822000000004.jpg",
+        "source_prompt": "a girl in a purple dress holding a bouquet of flowers",
+        "genre_class": 9,
+        "artist_class": 13,
+        "style_class": 13
+    },
+    "822000000005": {
+        "image_path": "8_change_background_80/2_natural/2_human/822000000005.jpg",
+        "source_prompt": "a bride standing on a mountain",
+        "genre_class": 17,
+        "artist_class": 21,
+        "style_class": 16
+    },
+    "822000000006": {
+        "image_path": "8_change_background_80/2_natural/2_human/822000000006.jpg",
+        "source_prompt": "a woman in a dress holding an umbrella with trees in the background",
+        "genre_class": 12,
+        "artist_class": 15,
+        "style_class": 18
+    },
+    "822000000007": {
+        "image_path": "8_change_background_80/2_natural/2_human/822000000007.jpg",
+        "source_prompt": "a woman in a black dress and hat stands in front of a large wall",
+        "genre_class": 4,
+        "artist_class": 13,
+        "style_class": 22
+    },
+    "822000000008": {
+        "image_path": "8_change_background_80/2_natural/2_human/822000000008.jpg",
+        "source_prompt": "a woman sitting in the desert",
+        "genre_class": 9,
+        "artist_class": 15,
+        "style_class": 19
+    },
+    "822000000009": {
+        "image_path": "8_change_background_80/2_natural/2_human/822000000009.jpg",
+        "source_prompt": "a woman wearing a hat and gloves is walking on a snow covered path",
+        "genre_class": 19,
+        "artist_class": 4,
+        "style_class": 14
+    },
+    "823000000000": {
+        "image_path": "8_change_background_80/2_natural/3_indoor/823000000000.jpg",
+        "source_prompt": "grapefruit candle, glass vase and incense sticks in pink background",
+        "genre_class": 18,
+        "artist_class": 5,
+        "style_class": 8
+    },
+    "823000000001": {
+        "image_path": "8_change_background_80/2_natural/3_indoor/823000000001.jpg",
+        "source_prompt": "italian food ingredients on a wooden table",
+        "genre_class": 6,
+        "artist_class": 17,
+        "style_class": 18
+    },
+    "823000000002": {
+        "image_path": "8_change_background_80/2_natural/3_indoor/823000000002.jpg",
+        "source_prompt": "a row of red apples with one cut in half on table",
+        "genre_class": 13,
+        "artist_class": 10,
+        "style_class": 13
+    },
+    "823000000003": {
+        "image_path": "8_change_background_80/2_natural/3_indoor/823000000003.jpg",
+        "source_prompt": "a notebook, pencil, and camera on a map",
+        "genre_class": 19,
+        "artist_class": 20,
+        "style_class": 0
+    },
+    "823000000004": {
+        "image_path": "8_change_background_80/2_natural/3_indoor/823000000004.jpg",
+        "source_prompt": "two empty wine glasses sitting on a white table",
+        "genre_class": 10,
+        "artist_class": 13,
+        "style_class": 24
+    },
+    "823000000005": {
+        "image_path": "8_change_background_80/2_natural/3_indoor/823000000005.jpg",
+        "source_prompt": "pine cones, fir cones, and other decorations on a table",
+        "genre_class": 12,
+        "artist_class": 19,
+        "style_class": 26
+    },
+    "823000000006": {
+        "image_path": "8_change_background_80/2_natural/3_indoor/823000000006.jpg",
+        "source_prompt": "a wooden rocking horse in room",
+        "genre_class": 11,
+        "artist_class": 2,
+        "style_class": 19
+    },
+    "823000000007": {
+        "image_path": "8_change_background_80/2_natural/3_indoor/823000000007.jpg",
+        "source_prompt": "a chair with a book on a table",
+        "genre_class": 7,
+        "artist_class": 11,
+        "style_class": 10
+    },
+    "823000000008": {
+        "image_path": "8_change_background_80/2_natural/3_indoor/823000000008.jpg",
+        "source_prompt": "a couch with pillows sitting in front of a wall",
+        "genre_class": 0,
+        "artist_class": 11,
+        "style_class": 19
+    },
+    "823000000009": {
+        "image_path": "8_change_background_80/2_natural/3_indoor/823000000009.jpg",
+        "source_prompt": "a vase with flowers on a table",
+        "genre_class": 1,
+        "artist_class": 13,
+        "style_class": 8
+    },
+    "824000000000": {
+        "image_path": "8_change_background_80/2_natural/4_outdoor/824000000000.jpg",
+        "source_prompt": "a man sitting on a rock with trees in the background",
+        "genre_class": 7,
+        "artist_class": 1,
+        "style_class": 1
+    },
+    "824000000001": {
+        "image_path": "8_change_background_80/2_natural/4_outdoor/824000000001.jpg",
+        "source_prompt": "a chair in front of mountains",
+        "genre_class": 17,
+        "artist_class": 11,
+        "style_class": 24
+    },
+    "824000000002": {
+        "image_path": "8_change_background_80/2_natural/4_outdoor/824000000002.jpg",
+        "source_prompt": "the palace of the emperor in vienna in a sunny day",
+        "genre_class": 12,
+        "artist_class": 21,
+        "style_class": 4
+    },
+    "824000000003": {
+        "image_path": "8_change_background_80/2_natural/4_outdoor/824000000003.jpg",
+        "source_prompt": "girl sitting in the ruins by james mccormick",
+        "genre_class": 11,
+        "artist_class": 22,
+        "style_class": 3
+    },
+    "824000000004": {
+        "image_path": "8_change_background_80/2_natural/4_outdoor/824000000004.jpg",
+        "source_prompt": "an older couple walking down a narrow dirt road",
+        "genre_class": 5,
+        "artist_class": 22,
+        "style_class": 0
+    },
+    "824000000005": {
+        "image_path": "8_change_background_80/2_natural/4_outdoor/824000000005.jpg",
+        "source_prompt": "the tv tower in berlin under sky",
+        "genre_class": 8,
+        "artist_class": 20,
+        "style_class": 21
+    },
+    "824000000006": {
+        "image_path": "8_change_background_80/2_natural/4_outdoor/824000000006.jpg",
+        "source_prompt": "a beach with waves and clouds at a sunny day",
+        "genre_class": 8,
+        "artist_class": 15,
+        "style_class": 2
+    },
+    "824000000007": {
+        "image_path": "8_change_background_80/2_natural/4_outdoor/824000000007.jpg",
+        "source_prompt": "a man is walking through a rice field",
+        "genre_class": 17,
+        "artist_class": 0,
+        "style_class": 4
+    },
+    "824000000008": {
+        "image_path": "8_change_background_80/2_natural/4_outdoor/824000000008.jpg",
+        "source_prompt": "a field with mountains in the background",
+        "genre_class": 0,
+        "artist_class": 11,
+        "style_class": 25
+    },
+    "824000000009": {
+        "image_path": "8_change_background_80/2_natural/4_outdoor/824000000009.jpg",
+        "source_prompt": "a small mushroom is sitting on top of moss",
+        "genre_class": 6,
+        "artist_class": 0,
+        "style_class": 25
+    },
+    "911000000000": {
+        "image_path": "9_change_style_80/1_artificial/1_animal/911000000000.jpg",
+        "source_prompt": "a cat and a bunny",
+        "genre_class": 3,
+        "artist_class": 20,
+        "style_class": 22
+    },
+    "911000000001": {
+        "image_path": "9_change_style_80/1_artificial/1_animal/911000000001.jpg",
+        "source_prompt": "a bird standing on tree branch",
+        "genre_class": 20,
+        "artist_class": 4,
+        "style_class": 22
+    },
+    "911000000002": {
+        "image_path": "9_change_style_80/1_artificial/1_animal/911000000002.jpg",
+        "source_prompt": "a colorful cat with bubbles and stars on it",
+        "genre_class": 11,
+        "artist_class": 20,
+        "style_class": 13
+    },
+    "911000000003": {
+        "image_path": "9_change_style_80/1_artificial/1_animal/911000000003.jpg",
+        "source_prompt": "the wolf is wearing armor and has a crown on his head",
+        "genre_class": 12,
+        "artist_class": 14,
+        "style_class": 1
+    },
+    "911000000004": {
+        "image_path": "9_change_style_80/1_artificial/1_animal/911000000004.jpg",
+        "source_prompt": "an arctic fox in the night sky",
+        "genre_class": 6,
+        "artist_class": 13,
+        "style_class": 10
+    },
+    "911000000005": {
+        "image_path": "9_change_style_80/1_artificial/1_animal/911000000005.jpg",
+        "source_prompt": "a watercolor painting of a tiger",
+        "genre_class": 1,
+        "artist_class": 10,
+        "style_class": 12
+    },
+    "911000000006": {
+        "image_path": "9_change_style_80/1_artificial/1_animal/911000000006.jpg",
+        "source_prompt": "a watercolor illustration of a chicken on a white background",
+        "genre_class": 0,
+        "artist_class": 10,
+        "style_class": 6
+    },
+    "911000000007": {
+        "image_path": "9_change_style_80/1_artificial/1_animal/911000000007.jpg",
+        "source_prompt": "a cartoon giraffe sitting down on a white background",
+        "genre_class": 11,
+        "artist_class": 3,
+        "style_class": 11
+    },
+    "911000000008": {
+        "image_path": "9_change_style_80/1_artificial/1_animal/911000000008.jpg",
+        "source_prompt": "a teddy bear wearing glasses and a shirt with flowers",
+        "genre_class": 7,
+        "artist_class": 22,
+        "style_class": 10
+    },
+    "911000000009": {
+        "image_path": "9_change_style_80/1_artificial/1_animal/911000000009.jpg",
+        "source_prompt": "a cute little bunny wearing a coat and hat",
+        "genre_class": 20,
+        "artist_class": 8,
+        "style_class": 16
+    },
+    "912000000000": {
+        "image_path": "9_change_style_80/1_artificial/2_human/912000000000.jpg",
+        "source_prompt": "a woman with red paint splatters on her face",
+        "genre_class": 20,
+        "artist_class": 8,
+        "style_class": 14
+    },
+    "912000000001": {
+        "image_path": "9_change_style_80/1_artificial/2_human/912000000001.jpg",
+        "source_prompt": "a clown with colorful hair",
+        "genre_class": 12,
+        "artist_class": 5,
+        "style_class": 9
+    },
+    "912000000002": {
+        "image_path": "9_change_style_80/1_artificial/2_human/912000000002.jpg",
+        "source_prompt": "a woman in a hood holding a fire",
+        "genre_class": 16,
+        "artist_class": 11,
+        "style_class": 22
+    },
+    "912000000003": {
+        "image_path": "9_change_style_80/1_artificial/2_human/912000000003.jpg",
+        "source_prompt": "a man with a long beard and a long sword in the forest",
+        "genre_class": 14,
+        "artist_class": 11,
+        "style_class": 16
+    },
+    "912000000004": {
+        "image_path": "9_change_style_80/1_artificial/2_human/912000000004.jpg",
+        "source_prompt": "a woman in a green dress walking through an archway",
+        "genre_class": 3,
+        "artist_class": 9,
+        "style_class": 25
+    },
+    "912000000005": {
+        "image_path": "9_change_style_80/1_artificial/2_human/912000000005.jpg",
+        "source_prompt": "a man in a hooded robe stands in the desert",
+        "genre_class": 11,
+        "artist_class": 15,
+        "style_class": 0
+    },
+    "912000000006": {
+        "image_path": "9_change_style_80/1_artificial/2_human/912000000006.jpg",
+        "source_prompt": "a girl with pink hair and bubbles floating around her",
+        "genre_class": 16,
+        "artist_class": 9,
+        "style_class": 8
+    },
+    "912000000007": {
+        "image_path": "9_change_style_80/1_artificial/2_human/912000000007.jpg",
+        "source_prompt": "a woman sitting in the cave with light coming from the light",
+        "genre_class": 5,
+        "artist_class": 8,
+        "style_class": 3
+    },
+    "912000000008": {
+        "image_path": "9_change_style_80/1_artificial/2_human/912000000008.jpg",
+        "source_prompt": "a woman with flowers in her hair",
+        "genre_class": 9,
+        "artist_class": 18,
+        "style_class": 24
+    },
+    "912000000009": {
+        "image_path": "9_change_style_80/1_artificial/2_human/912000000009.jpg",
+        "source_prompt": "a woman with red hair and a red dress",
+        "genre_class": 9,
+        "artist_class": 0,
+        "style_class": 10
+    },
+    "913000000000": {
+        "image_path": "9_change_style_80/1_artificial/3_indoor/913000000000.jpg",
+        "source_prompt": "a bird is perched on a branch with blue flowers",
+        "genre_class": 20,
+        "artist_class": 9,
+        "style_class": 9
+    },
+    "913000000001": {
+        "image_path": "9_change_style_80/1_artificial/3_indoor/913000000001.jpg",
+        "source_prompt": "retro living room with chair, lamp, bookshelf and table",
+        "genre_class": 2,
+        "artist_class": 20,
+        "style_class": 21
+    },
+    "913000000002": {
+        "image_path": "9_change_style_80/1_artificial/3_indoor/913000000002.jpg",
+        "source_prompt": "christmas living room with fireplace, chair, wreath and tree",
+        "genre_class": 12,
+        "artist_class": 10,
+        "style_class": 1
+    },
+    "913000000003": {
+        "image_path": "9_change_style_80/1_artificial/3_indoor/913000000003.jpg",
+        "source_prompt": "a living room with a couch and a table",
+        "genre_class": 14,
+        "artist_class": 12,
+        "style_class": 11
+    },
+    "913000000004": {
+        "image_path": "9_change_style_80/1_artificial/3_indoor/913000000004.jpg",
+        "source_prompt": "an empty room with wooden floors and a window",
+        "genre_class": 9,
+        "artist_class": 9,
+        "style_class": 4
+    },
+    "913000000005": {
+        "image_path": "9_change_style_80/1_artificial/3_indoor/913000000005.jpg",
+        "source_prompt": "an empty room with a view of the beach",
+        "genre_class": 14,
+        "artist_class": 14,
+        "style_class": 15
+    },
+    "913000000006": {
+        "image_path": "9_change_style_80/1_artificial/3_indoor/913000000006.jpg",
+        "source_prompt": "a desk with a laptop, a plant, and a mouse",
+        "genre_class": 8,
+        "artist_class": 18,
+        "style_class": 0
+    },
+    "913000000007": {
+        "image_path": "9_change_style_80/1_artificial/3_indoor/913000000007.jpg",
+        "source_prompt": "a room with a couch and a window looking out to the mountains",
+        "genre_class": 4,
+        "artist_class": 20,
+        "style_class": 24
+    },
+    "913000000008": {
+        "image_path": "9_change_style_80/1_artificial/3_indoor/913000000008.jpg",
+        "source_prompt": "a room with windows and potted plants",
+        "genre_class": 10,
+        "artist_class": 10,
+        "style_class": 3
+    },
+    "913000000009": {
+        "image_path": "9_change_style_80/1_artificial/3_indoor/913000000009.jpg",
+        "source_prompt": "a living room with blue walls and a fireplace",
+        "genre_class": 19,
+        "artist_class": 20,
+        "style_class": 12
+    },
+    "914000000000": {
+        "image_path": "9_change_style_80/1_artificial/4_outdoor/914000000000.jpg",
+        "source_prompt": "a house floating in the sky over a lake",
+        "genre_class": 0,
+        "artist_class": 18,
+        "style_class": 20
+    },
+    "914000000001": {
+        "image_path": "9_change_style_80/1_artificial/4_outdoor/914000000001.jpg",
+        "source_prompt": "the village in the game, the witcher 3",
+        "genre_class": 8,
+        "artist_class": 9,
+        "style_class": 4
+    },
+    "914000000002": {
+        "image_path": "9_change_style_80/1_artificial/4_outdoor/914000000002.jpg",
+        "source_prompt": "halloween night in the city",
+        "genre_class": 9,
+        "artist_class": 11,
+        "style_class": 9
+    },
+    "914000000003": {
+        "image_path": "9_change_style_80/1_artificial/4_outdoor/914000000003.jpg",
+        "source_prompt": "the castle is in the middle of a river at sunset",
+        "genre_class": 18,
+        "artist_class": 18,
+        "style_class": 17
+    },
+    "914000000004": {
+        "image_path": "9_change_style_80/1_artificial/4_outdoor/914000000004.jpg",
+        "source_prompt": "a house by the water with flowers and trees",
+        "genre_class": 17,
+        "artist_class": 4,
+        "style_class": 10
+    },
+    "914000000005": {
+        "image_path": "9_change_style_80/1_artificial/4_outdoor/914000000005.jpg",
+        "source_prompt": "sunset at the rock by james mccormick",
+        "genre_class": 5,
+        "artist_class": 14,
+        "style_class": 14
+    },
+    "914000000006": {
+        "image_path": "9_change_style_80/1_artificial/4_outdoor/914000000006.jpg",
+        "source_prompt": "an anime painting of a house on a hill",
+        "genre_class": 5,
+        "artist_class": 6,
+        "style_class": 5
+    },
+    "914000000007": {
+        "image_path": "9_change_style_80/1_artificial/4_outdoor/914000000007.jpg",
+        "source_prompt": "a man is walking down a street in the rain",
+        "genre_class": 10,
+        "artist_class": 5,
+        "style_class": 20
+    },
+    "914000000008": {
+        "image_path": "9_change_style_80/1_artificial/4_outdoor/914000000008.jpg",
+        "source_prompt": "the planet earth is seen in the distance with mountains and desert",
+        "genre_class": 12,
+        "artist_class": 7,
+        "style_class": 21
+    },
+    "914000000009": {
+        "image_path": "9_change_style_80/1_artificial/4_outdoor/914000000009.jpg",
+        "source_prompt": "halloween witch flying over a witch house in the night",
+        "genre_class": 4,
+        "artist_class": 9,
+        "style_class": 3
+    },
+    "921000000000": {
+        "image_path": "9_change_style_80/2_natural/1_animal/921000000000.jpg",
+        "source_prompt": "a cat is sitting on a table with a green eyes",
+        "genre_class": 10,
+        "artist_class": 14,
+        "style_class": 17
+    },
+    "921000000001": {
+        "image_path": "9_change_style_80/2_natural/1_animal/921000000001.jpg",
+        "source_prompt": "a rat is peeking out from behind a pink wall",
+        "genre_class": 15,
+        "artist_class": 5,
+        "style_class": 19
+    },
+    "921000000002": {
+        "image_path": "9_change_style_80/2_natural/1_animal/921000000002.jpg",
+        "source_prompt": "a kitten wearing armor sits on the ground",
+        "genre_class": 19,
+        "artist_class": 4,
+        "style_class": 12
+    },
+    "921000000003": {
+        "image_path": "9_change_style_80/2_natural/1_animal/921000000003.jpg",
+        "source_prompt": "a bernese mountain dog is sitting in the grass",
+        "genre_class": 6,
+        "artist_class": 5,
+        "style_class": 2
+    },
+    "921000000004": {
+        "image_path": "9_change_style_80/2_natural/1_animal/921000000004.jpg",
+        "source_prompt": "a white wolf with black eyes and a black nose",
+        "genre_class": 1,
+        "artist_class": 2,
+        "style_class": 5
+    },
+    "921000000005": {
+        "image_path": "9_change_style_80/2_natural/1_animal/921000000005.jpg",
+        "source_prompt": "a cat with green eyes looking to the side",
+        "genre_class": 12,
+        "artist_class": 16,
+        "style_class": 14
+    },
+    "921000000006": {
+        "image_path": "9_change_style_80/2_natural/1_animal/921000000006.jpg",
+        "source_prompt": "a small bird is standing on the ground",
+        "genre_class": 2,
+        "artist_class": 0,
+        "style_class": 4
+    },
+    "921000000007": {
+        "image_path": "9_change_style_80/2_natural/1_animal/921000000007.jpg",
+        "source_prompt": "a gray cat is sitting on a black basket",
+        "genre_class": 12,
+        "artist_class": 7,
+        "style_class": 19
+    },
+    "921000000008": {
+        "image_path": "9_change_style_80/2_natural/1_animal/921000000008.jpg",
+        "source_prompt": "a white horse running in the field",
+        "genre_class": 0,
+        "artist_class": 1,
+        "style_class": 1
+    },
+    "921000000009": {
+        "image_path": "9_change_style_80/2_natural/1_animal/921000000009.jpg",
+        "source_prompt": "a cat is sitting in the grass with flowers",
+        "genre_class": 20,
+        "artist_class": 6,
+        "style_class": 21
+    },
+    "922000000000": {
+        "image_path": "9_change_style_80/2_natural/2_human/922000000000.jpg",
+        "source_prompt": "a woman in a blue dress leaning against a wall",
+        "genre_class": 11,
+        "artist_class": 8,
+        "style_class": 10
+    },
+    "922000000001": {
+        "image_path": "9_change_style_80/2_natural/2_human/922000000001.jpg",
+        "source_prompt": "two young children holding hands and standing in front of a wooden door",
+        "genre_class": 9,
+        "artist_class": 11,
+        "style_class": 1
+    },
+    "922000000002": {
+        "image_path": "9_change_style_80/2_natural/2_human/922000000002.jpg",
+        "source_prompt": "a little girl playing a musical instrument",
+        "genre_class": 13,
+        "artist_class": 11,
+        "style_class": 10
+    },
+    "922000000003": {
+        "image_path": "9_change_style_80/2_natural/2_human/922000000003.jpg",
+        "source_prompt": "a young boy with curly hair and blue shirt",
+        "genre_class": 18,
+        "artist_class": 16,
+        "style_class": 0
+    },
+    "922000000004": {
+        "image_path": "9_change_style_80/2_natural/2_human/922000000004.jpg",
+        "source_prompt": "a woman in white shorts and a white shirt is jumping in front of a pool",
+        "genre_class": 14,
+        "artist_class": 22,
+        "style_class": 20
+    },
+    "922000000005": {
+        "image_path": "9_change_style_80/2_natural/2_human/922000000005.jpg",
+        "source_prompt": "a woman dressed in a golden dress and holding an apple",
+        "genre_class": 16,
+        "artist_class": 8,
+        "style_class": 26
+    },
+    "922000000006": {
+        "image_path": "9_change_style_80/2_natural/2_human/922000000006.jpg",
+        "source_prompt": "a woman in white sitting on a bench with a hat",
+        "genre_class": 11,
+        "artist_class": 3,
+        "style_class": 4
+    },
+    "922000000007": {
+        "image_path": "9_change_style_80/2_natural/2_human/922000000007.jpg",
+        "source_prompt": "a little girl sleeping in bed with a stuffed animal",
+        "genre_class": 9,
+        "artist_class": 1,
+        "style_class": 5
+    },
+    "922000000008": {
+        "image_path": "9_change_style_80/2_natural/2_human/922000000008.jpg",
+        "source_prompt": "a woman in sunglasses and leather pants sitting on a bench",
+        "genre_class": 10,
+        "artist_class": 1,
+        "style_class": 13
+    },
+    "922000000009": {
+        "image_path": "9_change_style_80/2_natural/2_human/922000000009.jpg",
+        "source_prompt": "a young girl with painted hands and face",
+        "genre_class": 0,
+        "artist_class": 21,
+        "style_class": 20
+    },
+    "923000000000": {
+        "image_path": "9_change_style_80/2_natural/3_indoor/923000000000.jpg",
+        "source_prompt": "a white shelf with books and a wooden bookcase",
+        "genre_class": 11,
+        "artist_class": 3,
+        "style_class": 18
+    },
+    "923000000001": {
+        "image_path": "9_change_style_80/2_natural/3_indoor/923000000001.jpg",
+        "source_prompt": "a bed with a quilt on it and a chair",
+        "genre_class": 17,
+        "artist_class": 10,
+        "style_class": 2
+    },
+    "923000000002": {
+        "image_path": "9_change_style_80/2_natural/3_indoor/923000000002.jpg",
+        "source_prompt": "a dining room with red walls and hardwood floors",
+        "genre_class": 11,
+        "artist_class": 6,
+        "style_class": 24
+    },
+    "923000000003": {
+        "image_path": "9_change_style_80/2_natural/3_indoor/923000000003.jpg",
+        "source_prompt": "a modern chair and table in a lobby area",
+        "genre_class": 3,
+        "artist_class": 0,
+        "style_class": 7
+    },
+    "923000000004": {
+        "image_path": "9_change_style_80/2_natural/3_indoor/923000000004.jpg",
+        "source_prompt": "a chair and table in front of a window overlooking a castle",
+        "genre_class": 19,
+        "artist_class": 17,
+        "style_class": 25
+    },
+    "923000000005": {
+        "image_path": "9_change_style_80/2_natural/3_indoor/923000000005.jpg",
+        "source_prompt": "a modern bedroom with a bed and a painting on the wall",
+        "genre_class": 16,
+        "artist_class": 14,
+        "style_class": 12
+    },
+    "923000000006": {
+        "image_path": "9_change_style_80/2_natural/3_indoor/923000000006.jpg",
+        "source_prompt": "a table with two chairs and a bonsai tree",
+        "genre_class": 16,
+        "artist_class": 3,
+        "style_class": 13
+    },
+    "923000000007": {
+        "image_path": "9_change_style_80/2_natural/3_indoor/923000000007.jpg",
+        "source_prompt": "a white desk with a laptop and chair",
+        "genre_class": 11,
+        "artist_class": 21,
+        "style_class": 12
+    },
+    "923000000008": {
+        "image_path": "9_change_style_80/2_natural/3_indoor/923000000008.jpg",
+        "source_prompt": "a gray couch and a lamp sitting on a wooden floor",
+        "genre_class": 5,
+        "artist_class": 1,
+        "style_class": 23
+    },
+    "923000000009": {
+        "image_path": "9_change_style_80/2_natural/3_indoor/923000000009.jpg",
+        "source_prompt": "a chair and a clock on a white wall",
+        "genre_class": 15,
+        "artist_class": 5,
+        "style_class": 25
+    },
+    "924000000000": {
+        "image_path": "9_change_style_80/2_natural/4_outdoor/924000000000.jpg",
+        "source_prompt": "a large wave crashing on the beach with a cloudy sky",
+        "genre_class": 2,
+        "artist_class": 19,
+        "style_class": 14
+    },
+    "924000000001": {
+        "image_path": "9_change_style_80/2_natural/4_outdoor/924000000001.jpg",
+        "source_prompt": "a lake with mountains in the background",
+        "genre_class": 15,
+        "artist_class": 15,
+        "style_class": 23
+    },
+    "924000000002": {
+        "image_path": "9_change_style_80/2_natural/4_outdoor/924000000002.jpg",
+        "source_prompt": "a lake with mountains in the background",
+        "genre_class": 10,
+        "artist_class": 3,
+        "style_class": 25
+    },
+    "924000000003": {
+        "image_path": "9_change_style_80/2_natural/4_outdoor/924000000003.jpg",
+        "source_prompt": "wind turbine in the sunset",
+        "genre_class": 10,
+        "artist_class": 22,
+        "style_class": 6
+    },
+    "924000000004": {
+        "image_path": "9_change_style_80/2_natural/4_outdoor/924000000004.jpg",
+        "source_prompt": "a white church sits on a hill in a field",
+        "genre_class": 15,
+        "artist_class": 19,
+        "style_class": 13
+    },
+    "924000000005": {
+        "image_path": "9_change_style_80/2_natural/4_outdoor/924000000005.jpg",
+        "source_prompt": "dolomites",
+        "genre_class": 16,
+        "artist_class": 15,
+        "style_class": 14
+    },
+    "924000000006": {
+        "image_path": "9_change_style_80/2_natural/4_outdoor/924000000006.jpg",
+        "source_prompt": "a picnic table with a bottle of wine and fruit on it",
+        "genre_class": 16,
+        "artist_class": 2,
+        "style_class": 19
+    },
+    "924000000007": {
+        "image_path": "9_change_style_80/2_natural/4_outdoor/924000000007.jpg",
+        "source_prompt": "winter in lofoten by johan hansen",
+        "genre_class": 6,
+        "artist_class": 11,
+        "style_class": 9
+    },
+    "924000000008": {
+        "image_path": "9_change_style_80/2_natural/4_outdoor/924000000008.jpg",
+        "source_prompt": "boats in the water on a sunny day",
+        "genre_class": 19,
+        "artist_class": 22,
+        "style_class": 25
+    },
+    "924000000009": {
+        "image_path": "9_change_style_80/2_natural/4_outdoor/924000000009.jpg",
+        "source_prompt": "a sports car driving down the street",
+        "genre_class": 15,
+        "artist_class": 18,
+        "style_class": 0
+    }
+}
