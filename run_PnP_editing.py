@@ -10,6 +10,7 @@ import argparse
 import torch.nn as nn
 from transformers import CLIPTextModel, CLIPTokenizer
 import torchvision.transforms as T
+import imageio
 
 from utils.utils import txt_draw, load_512, latent2image
 from prompt_maker import prompt_make
@@ -351,14 +352,14 @@ class PNP(nn.Module):
         return image
 
     @torch.no_grad()
-    def denoise_step(self, x, t, guidance_scale, noisy_latent):
+    def denoise_step(self, x, t, guidance_scale, noisy_latent,frame_num):
         # register the time step and features in pnp injection modules
         latent_model_input = torch.cat(([noisy_latent] + [x] * 2))
 
         register_time(self, t.item())
 
         # compute text embeddings
-        text_embed_input = torch.cat([self.pnp_guidance_embeds, self.text_embeds], dim=0)
+        text_embed_input = torch.cat([self.pnp_guidance_embeds.repeat(frame_num,1,1), self.text_embeds.repeat(frame_num,1,1)], dim=0)
 
         # apply the denoising network
         noise_pred = self.unet(latent_model_input, t, encoder_hidden_states=text_embed_input)['sample']
@@ -377,7 +378,7 @@ class PNP(nn.Module):
         register_attention_control_efficient(self, self.qk_injection_timesteps)
         register_conv_control_efficient(self, self.conv_injection_timesteps)
 
-    def run_pnp(self, image_path, noisy_latent, target_prompt, guidance_scale=7.5, pnp_f_t=0.8, pnp_attn_t=0.5):
+    def run_pnp(self, image_path, noisy_latent, target_prompt, guidance_scale=7.5, pnp_f_t=0.8, pnp_attn_t=0.5,frame_num=None):
         # load image
         self.image = self.get_data(image_path)
         self.eps = noisy_latent[-1]
@@ -388,14 +389,34 @@ class PNP(nn.Module):
         pnp_f_t = int(self.n_timesteps * pnp_f_t)
         pnp_attn_t = int(self.n_timesteps * pnp_attn_t)
         self.init_pnp(conv_injection_t=pnp_f_t, qk_injection_t=pnp_attn_t)
-        edited_img = self.sample_loop(self.eps, guidance_scale, noisy_latent)
+        edited_img = self.sample_loop(self.eps, guidance_scale, noisy_latent,frame_num=frame_num)
 
         return edited_img
 
-    def sample_loop(self, x, guidance_scale, noisy_latent):
+    def sample_loop(self, x, guidance_scale, noisy_latent,frame_num):
+        interpolation_timestep=40
+        total_frame_num=frame_num
+        current_frame_num=1
         with torch.autocast(device_type='cuda', dtype=torch.float32):
             for i, t in tqdm.tqdm(enumerate(self.scheduler.timesteps), desc="Sampling"):
-                x = self.denoise_step(x, t, guidance_scale, noisy_latent[-1 - i])
+
+                source_latents = noisy_latent[-i - 1]
+                if i == interpolation_timestep:
+
+                    target_latents_list = torch.split(x.repeat(total_frame_num,1,1,1), 1, dim=0)
+                    new_latents = []
+                    for index, frame in enumerate(range(total_frame_num)):
+                        source_rate = 1.0 * (total_frame_num - frame - 1) / (total_frame_num - 1.)
+                        target_latents = target_latents_list[index]
+                        edited_latents = source_rate * source_latents + (1.0 - source_rate) * target_latents
+                        new_latents.append(edited_latents)
+
+                    current_frame_num=total_frame_num
+
+                    x = torch.cat(new_latents, dim=0)
+
+                source_latents=source_latents.repeat(current_frame_num,1,1,1)
+                x = self.denoise_step(x, t, guidance_scale, source_latents,frame_num=current_frame_num)
 
             decoded_latent = self.decode_latent(x)
 
@@ -443,7 +464,8 @@ def edit_image_directinversion_PnP(
         prompt_src,
         prompt_tar,
         guidance_scale=7.5,
-        image_shape=[512, 512]
+        image_shape=[512, 512],
+        frame_num=None
 ):
     torch.cuda.empty_cache()
     image_gt = load_512(image_path)
@@ -451,17 +473,43 @@ def edit_image_directinversion_PnP(
                                                               num_steps=NUM_DDIM_STEPS,
                                                               inversion_prompt=prompt_src)
 
-    edited_image = pnp.run_pnp(image_path, inverted_x, prompt_tar, guidance_scale)
+    edited_image = pnp.run_pnp(image_path, inverted_x, prompt_tar, guidance_scale,frame_num=frame_num)
 
     image_instruct = txt_draw(f"source prompt: {prompt_src}\ntarget prompt: {prompt_tar}")
-
-    return Image.fromarray(np.concatenate((
+    current_frame_num=4
+    image_list=[]
+    for i in range(current_frame_num):
+        image_list.append(Image.fromarray(np.concatenate((
         image_instruct,
         image_gt,
         np.uint8(np.array(latent2image(model=pnp.vae, latents=inverted_x[1].to(pnp.vae.dtype))[0])),
-        np.uint8(255 * np.array(edited_image[0].permute(1, 2, 0).cpu().detach())),
-    ), 1))
+        np.uint8(255 * np.array(edited_image[i].permute(1, 2, 0).cpu().detach())),
+    ), 1)))
 
+
+
+    return image_list
+
+def visualize(image_list,save_path):
+    frame_num=len(image_list)
+
+    for i in range(frame_num):
+        image_save_path = os.path.join(present_image_save_path, f'compared_{i}.png')
+        if not os.path.exists(os.path.dirname(image_save_path)):
+            os.makedirs(os.path.dirname(image_save_path))
+        edited_image[i].save(image_save_path)
+
+    for i in range(frame_num):
+        image_save_path = os.path.join(present_image_save_path, f'edit_{i}.png')
+        if not os.path.exists(os.path.dirname(image_save_path)):
+            os.makedirs(os.path.dirname(image_save_path))
+        edited_image[i] = edited_image[i].crop(
+            (
+            edited_image[i].size[0] - 512, edited_image[i].size[1] - 512, edited_image[i].size[0], edited_image[i].size[1]))
+        edited_image[i].save(image_save_path)
+
+    gif_path = os.path.join(present_image_save_path, f'{key}.gif')
+    imageio.mimsave(gif_path, edited_image, duration=0.5)
 
 def mask_decode(encoded_mask, image_shape=[512, 512]):
     length = image_shape[0] * image_shape[1]
@@ -495,6 +543,8 @@ if __name__ == "__main__":
                         default="output")  # the editing category that needed to run
     parser.add_argument('--edit_style_list', type=str,
                         default=['genre', 'artist', 'style'])  # the editing category that needed to run
+    parser.add_argument('--frame_num', type=int,
+                        default=4)  # the editing category that needed to run
     parser.add_argument('--edit_method_list', nargs='+', type=str,
                         default=["directinversion+pnp"])  # the editing methods that needed to run
     args = parser.parse_args()
@@ -505,6 +555,7 @@ if __name__ == "__main__":
     edit_style_list = args.edit_style_list
     edit_method_list = args.edit_method_list
     edit_method = edit_method_list[0]
+    frame_num=args.frame_num
 
     with open(f"{data_path}/image700_source2edit_prompt.json", "r") as f:
         editing_instruction = json.load(f)
@@ -519,7 +570,7 @@ if __name__ == "__main__":
 
             image_path = os.path.join(f"{data_path}/annotation_images", item["image_path"])
 
-            present_image_save_path = os.path.join(output_path, edit_method, edit_style_list[style_type], f'{key}.jpg')
+            present_image_save_path = os.path.join(output_path, edit_method, edit_style_list[style_type], f'{key}')
             if ((not os.path.exists(present_image_save_path)) or rerun_exist_images):
                 print(f"start editing image [{image_path}] with [{edit_method}] in {edit_style_list[style_type]} type")
                 setup_seed()
@@ -530,11 +581,9 @@ if __name__ == "__main__":
                     prompt_src=original_prompt,
                     prompt_tar=editing_prompt,
                     guidance_scale=7.5,
+                    frame_num=frame_num
                 )
 
-                if not os.path.exists(os.path.dirname(present_image_save_path)):
-                    os.makedirs(os.path.dirname(present_image_save_path))
-                edited_image.save(present_image_save_path)
 
                 print(f"finish")
 
