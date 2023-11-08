@@ -476,7 +476,7 @@ def edit_image_directinversion_PnP(
     edited_image = pnp.run_pnp(image_path, inverted_x, prompt_tar, guidance_scale,frame_num=frame_num)
 
     image_instruct = txt_draw(f"source prompt: {prompt_src}\ntarget prompt: {prompt_tar}")
-    current_frame_num=4
+    current_frame_num=frame_num
     image_list=[]
     for i in range(current_frame_num):
         image_list.append(Image.fromarray(np.concatenate((
@@ -492,6 +492,13 @@ def edit_image_directinversion_PnP(
 
 def visualize(image_list,save_path):
     frame_num=len(image_list)
+    present_image_save_path=save_path
+    edited_image=image_list
+
+    gif_path = os.path.join(present_image_save_path, f'{key}_compared.gif')
+    if not os.path.exists(os.path.dirname(gif_path)):
+        os.makedirs(os.path.dirname(gif_path))
+    imageio.mimsave(gif_path, image_list, duration=500,loop=0)
 
     for i in range(frame_num):
         image_save_path = os.path.join(present_image_save_path, f'compared_{i}.png')
@@ -503,13 +510,30 @@ def visualize(image_list,save_path):
         image_save_path = os.path.join(present_image_save_path, f'edit_{i}.png')
         if not os.path.exists(os.path.dirname(image_save_path)):
             os.makedirs(os.path.dirname(image_save_path))
-        edited_image[i] = edited_image[i].crop(
-            (
-            edited_image[i].size[0] - 512, edited_image[i].size[1] - 512, edited_image[i].size[0], edited_image[i].size[1]))
+        edited_image[i]=edited_image[i].crop(
+            (edited_image[i].size[0] - 512, edited_image[i].size[1] - 512, edited_image[i].size[0], edited_image[i].size[1]))
         edited_image[i].save(image_save_path)
 
     gif_path = os.path.join(present_image_save_path, f'{key}.gif')
-    imageio.mimsave(gif_path, edited_image, duration=0.5)
+    if not os.path.exists(os.path.dirname(gif_path)):
+        os.makedirs(os.path.dirname(gif_path))
+    imageio.mimsave(gif_path, edited_image, duration=500,loop=0)
+
+    # 创建一张新的大图
+    result_width = 512 * frame_num  # 总宽度为四张图片的宽度之和
+    result_height = 512  # 图片高度
+    result_image = Image.new("RGB", (result_width, result_height))
+
+    # 将每个小图粘贴到大图中
+    x_offset = 0
+    for img in edited_image:
+        result_image.paste(img, (x_offset, 0))
+        x_offset += 512  # 每张图片的宽度
+
+    frame_path = os.path.join(present_image_save_path, f'{key}_frames.png')
+    if not os.path.exists(os.path.dirname(frame_path)):
+        os.makedirs(os.path.dirname(frame_path))
+    result_image.save(frame_path)
 
 def mask_decode(encoded_mask, image_shape=[512, 512]):
     length = image_shape[0] * image_shape[1]
@@ -544,7 +568,7 @@ if __name__ == "__main__":
     parser.add_argument('--edit_style_list', type=str,
                         default=['genre', 'artist', 'style'])  # the editing category that needed to run
     parser.add_argument('--frame_num', type=int,
-                        default=4)  # the editing category that needed to run
+                        default=5)  # the editing category that needed to run
     parser.add_argument('--edit_method_list', nargs='+', type=str,
                         default=["directinversion+pnp"])  # the editing methods that needed to run
     args = parser.parse_args()
@@ -584,6 +608,7 @@ if __name__ == "__main__":
                     frame_num=frame_num
                 )
 
+                visualize(edited_image,present_image_save_path)
 
                 print(f"finish")
 
