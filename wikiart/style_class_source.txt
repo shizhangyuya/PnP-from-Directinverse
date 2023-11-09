@@ -1,0 +1,27 @@
+0 Abstract_Expressionism 221
+1 Action_painting 22
+2 Analytical_Cubism 111
+3 Art_Nouveau 121
+4 Baroque 221
+5 Color_Field_Painting
+6 Contemporary_Realism 121
+7 Cubism 2
+8 Early_Renaissance 111
+9 Expressionism 2
+10 Fauvism 1
+11 High_Renaissance 222222
+12 Impressionism 22
+13 Mannerism_Late_Renaissance 12
+14 Minimalism 222222
+15 Naive_Art_Primitivism 12
+16 New_Realism 22
+17 Northern_Renaissance 2
+18 Pointillism
+19 Pop_Art 1
+20 Post_Impressionism 222
+21 Realism 22222
+22 Rococo 2212
+23 Romanticism 2222
+24 Symbolism 22
+25 Synthetic_Cubism 2222
+26 Ukiyo_e 1

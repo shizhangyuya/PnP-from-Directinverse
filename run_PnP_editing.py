@@ -185,7 +185,16 @@ def register_attention_control_efficient(model, injection_schedule):
 
         def forward(x, encoder_hidden_states=None, attention_mask=None):
             batch_size, sequence_length, dim = x.shape
+            clip_length=int(batch_size/3)
             h = self.heads
+
+            #for spatio_temp
+            with_self=False
+            list_self=list(range(batch_size))
+            first=0
+            last=clip_length-1
+            middle=int(clip_length/2)
+            Spatio_temp_list=[middle]
 
             is_cross = encoder_hidden_states is not None
             encoder_hidden_states = encoder_hidden_states if is_cross else x
@@ -207,10 +216,48 @@ def register_attention_control_efficient(model, injection_schedule):
             else:
                 q = self.to_q(x)
                 k = self.to_k(encoder_hidden_states)
+                if batch_size > 3:
+                    # k = k[[2]*4+[6]*4+[10]*4, :]
+
+                    k_list=[]
+                    for frame in Spatio_temp_list:
+                        index_list = []
+                        for i in range(3):
+                            frame_index = []
+                            frame_index += [frame + i * clip_length] * clip_length
+                            index_list.append(frame_index)
+
+                        if with_self:
+                            k_list.append(k[list_self,:])
+
+                        k_list.append(torch.cat([k[frame_index, :] for frame_index in index_list],dim=0))
+
+                    k=(torch.cat(k_list, dim=1))
+
                 q = self.head_to_batch_dim(q)
                 k = self.head_to_batch_dim(k)
 
+
+
             v = self.to_v(encoder_hidden_states)
+            if batch_size>3:
+                # v = v[[2]*4+[6]*4+[10]*4, :]
+
+                v_list = []
+                for frame in Spatio_temp_list:
+                    index_list = []
+                    for i in range(3):
+                        frame_index = []
+                        frame_index += [frame + i * clip_length] * clip_length
+                        index_list.append(frame_index)
+
+                    if with_self:
+                        v_list.append(v[list_self, :])
+
+                    v_list.append(torch.cat([v[frame_index, :] for frame_index in index_list], dim=0))
+
+                v = (torch.cat(v_list, dim=1))
+
             v = self.head_to_batch_dim(v)
 
             sim = torch.einsum("b i d, b j d -> b i j", q, k) * self.scale
@@ -568,7 +615,7 @@ if __name__ == "__main__":
     parser.add_argument('--edit_style_list', type=str,
                         default=['genre', 'artist', 'style'])  # the editing category that needed to run
     parser.add_argument('--frame_num', type=int,
-                        default=5)  # the editing category that needed to run
+                        default=4)  # the editing category that needed to run
     parser.add_argument('--edit_method_list', nargs='+', type=str,
                         default=["directinversion+pnp"])  # the editing methods that needed to run
     args = parser.parse_args()

@@ -1,0 +1,21 @@
+0 abstract_painting 22
+1 cityscape 222222
+2 genre_painting
+3 illustration 222
+4 landscape
+5 nude_painting 2
+6 portrait 22
+7 religious_painting 21222
+8 sketch_and_study 22222
+9 still_life 22
+10 wall_mural 2222
+11 oil_painting
+12 Chinese_watercolor
+13 anime
+14 watercolor_painting
+15 sketch 22
+16 pop_art
+17 pixel_art 2
+18 digital_art
+19 black_and_white_sketch
+20 pen_and_ink_sketch 222122

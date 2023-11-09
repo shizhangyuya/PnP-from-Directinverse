@@ -22,21 +22,21 @@ def prompt_make(source_prompt,genre_class,artist_class,style_class,instruct=Fals
     artist_list=[]
     style_list=[]
 
-    with open('wikiart/genre_class.txt', 'r') as file:
+    with open('wikiart/genre_class_source.txt', 'r') as file:
         lines = file.readlines()
         for line in lines:
             parts = line.strip().split(' ')
             genre_dict[parts[1]] = 0
             genre_list.append(parts[1])
 
-    with open('wikiart/artist_class.txt', 'r') as file:
+    with open('wikiart/artist_class_source.txt', 'r') as file:
         lines = file.readlines()
         for line in lines:
             parts = line.strip().split(' ')
             artist_dict[parts[1]] = 0
             artist_list.append(parts[1])
 
-    with open('wikiart/style_class.txt', 'r') as file:
+    with open('wikiart/style_class_source.txt', 'r') as file:
         lines = file.readlines()
         for line in lines:
             parts = line.strip().split(' ')

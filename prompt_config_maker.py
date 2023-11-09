@@ -61,9 +61,9 @@ for key, item in editing_instruction.items():
     editing_instruction = item["editing_instruction"]
     blended_word = item["blended_word"].split(" ") if item["blended_word"] != "" else []
 
-    genre=random.randint(0,20)
-    artist=random.randint(0,22)
-    style=random.randint(0,26)
+    genre=random.randint(0,9)
+    artist=random.randint(0,14)
+    style=random.randint(0,18)
 
     genre_dict[genre_list[genre]] += 1
     artist_dict[artist_list[artist]] += 1
