@@ -188,36 +188,17 @@ def register_attention_control_efficient(model, injection_schedule):
             clip_length=int(batch_size/3)
             h = self.heads
 
-            #for spatio_temp_self_attention
-
-            with_self=True
-            with_prev=False
-            with_next=False
-            Spatio_temp_list=[]
-
-            first=0
-            last=clip_length-1
-            middle=int(clip_length/2)
-
-            for i in spatio_temp_list:
-                if i == 'first':
-                    Spatio_temp_list.append(first)
-                elif i == 'middle':
-                    Spatio_temp_list.append(middle)
-                elif i == 'last':
-                    Spatio_temp_list.append(last)
-                elif i == 'prev':
-                    with_prev=True
-                elif i == 'next':
-                    with_next==True
-                else:
-                    with_self=True
-
+            #for spatio_temp
+            with_self=False
+            with_prev=True
+            with_next=True
             self_list=list(range(batch_size))
             prev_list=[0]+self_list[:clip_length-1]+[clip_length]+self_list[clip_length:clip_length*2-1]+[clip_length*2]+self_list[clip_length*2:clip_length*3-1]
             next_list=self_list[1:clip_length]+[clip_length-1]+self_list[clip_length+1:clip_length*2]+[clip_length*2-1]+self_list[clip_length*2+1:clip_length*3]+[clip_length*3-1]
-            
-            
+            first=0
+            last=clip_length-1
+            middle=int(clip_length/2)
+            Spatio_temp_list=[]
 
             is_cross = encoder_hidden_states is not None
             encoder_hidden_states = encoder_hidden_states if is_cross else x
@@ -263,6 +244,8 @@ def register_attention_control_efficient(model, injection_schedule):
 
                 q = self.head_to_batch_dim(q)
                 k = self.head_to_batch_dim(k)
+
+
 
             v = self.to_v(encoder_hidden_states)
             if batch_size>3:
@@ -491,7 +474,7 @@ class PNP(nn.Module):
                     current_frame_num=total_frame_num
                     x = torch.cat(new_latents, dim=0)
 
-                if gradually and i > interpolation_timestep:
+                if i > interpolation_timestep:
                     target_latents_list = torch.split(x, 1, dim=0)
                     new_latents = []
                     for index, frame in enumerate(range(total_frame_num)):
@@ -552,9 +535,9 @@ def edit_image_directinversion_PnP(
         prompt_tar,
         guidance_scale=7.5,
         image_shape=[512, 512],
-        frame_num=None
+        frame_num=None,
+        Spatio_temparel_list=['self']
 ):
-    
     torch.cuda.empty_cache()
     image_gt = load_512(image_path)
     inverted_x, rgb_reconstruction, _ = model.extract_latents(data_path=image_path,
@@ -582,12 +565,11 @@ def visualize(image_list,save_path):
     frame_num=len(image_list)
     present_image_save_path=save_path
     edited_image=image_list
-    duration=int(1500/frame_num)
 
     gif_path = os.path.join(present_image_save_path, f'{key}_compared.gif')
     if not os.path.exists(os.path.dirname(gif_path)):
         os.makedirs(os.path.dirname(gif_path))
-    imageio.mimsave(gif_path, image_list, duration=duration,loop=0)
+    imageio.mimsave(gif_path, image_list, duration=500,loop=0)
 
     for i in range(frame_num):
         image_save_path = os.path.join(present_image_save_path, f'compared_{i}.png')
@@ -606,7 +588,7 @@ def visualize(image_list,save_path):
     gif_path = os.path.join(present_image_save_path, f'{key}.gif')
     if not os.path.exists(os.path.dirname(gif_path)):
         os.makedirs(os.path.dirname(gif_path))
-    imageio.mimsave(gif_path, edited_image, duration=duration,loop=0)
+    imageio.mimsave(gif_path, edited_image, duration=500,loop=0)
 
     # 创建一张新的大图
     result_width = 512 * frame_num  # 总宽度为四张图片的宽度之和
@@ -660,8 +642,7 @@ if __name__ == "__main__":
                         default=4)  # the editing category that needed to run
     parser.add_argument('--edit_method_list', nargs='+', type=str,
                         default=["directinversion+pnp"])  # the editing methods that needed to run
-    parser.add_argument('--spatio_temp_frame',nargs='+',type=str,default=['prev','next'])
-    parser.add_argument('--gradually',action="store_true")
+    parser.add_argument('--spatio_temp_frame',type=str,default=['prev','next'])
     args = parser.parse_args()
 
     rerun_exist_images = args.rerun_exist_images
@@ -671,9 +652,9 @@ if __name__ == "__main__":
     edit_method_list = args.edit_method_list
     edit_method = edit_method_list[0]
     frame_num=args.frame_num
-    gradually=args.gradually
 
     spatio_temp_list=args.spatio_temp_frame
+
 
     with open(f"{data_path}/image700_source2edit_prompt.json", "r") as f:
         editing_instruction = json.load(f)
@@ -699,7 +680,8 @@ if __name__ == "__main__":
                     prompt_src=original_prompt,
                     prompt_tar=editing_prompt,
                     guidance_scale=7.5,
-                    frame_num=frame_num
+                    frame_num=frame_num,
+                    spatio_temp_list=spatio_temp_list
                 )
 
                 visualize(edited_image,present_image_save_path)

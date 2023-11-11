@@ -85,6 +85,8 @@ print("style_dict:",style_dict)
 
 image700_source2edit_prompt=json.dumps(img_prompt_dict,indent=4)
 output_path1=os.path.join(output_path,"image700_source2edit_prompt.json")
+if not os.path.exists(os.path.dirname(output_path1)):
+        os.makedirs(os.path.dirname(output_path1))
 with open(output_path1,'w') as file:
     file.write(image700_source2edit_prompt)
 

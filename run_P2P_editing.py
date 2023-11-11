@@ -49,6 +49,8 @@ if __name__ == "__main__":
                         default=["0", "1", "2", "3", "4", "5", "6", "7", "8","9"])  # the editing category that needed to run
     parser.add_argument('--edit_method_list', nargs='+', type=str,
                         default=["directinversion+p2p"])  # the editing methods that needed to run
+    
+    parser.add_argument('--total_frame_num', type=int,default=4) 
     args = parser.parse_args()
 
     rerun_exist_images = args.rerun_exist_images
@@ -58,6 +60,8 @@ if __name__ == "__main__":
     edit_category_list = args.edit_category_list
     edit_method_list = args.edit_method_list
     edit_method=edit_method_list[0]
+
+    total_frame_num=args.total_frame_num
 
     p2p_editor = P2PEditor(edit_method_list, torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu'),
                            num_ddim_steps=50)
@@ -94,6 +98,7 @@ if __name__ == "__main__":
                                           use_inversion_guidance=True,
                                           recon_lr=1,
                                           recon_t=400,
+                                          total_frame_num=total_frame_num
                                           )
                 if not os.path.exists(os.path.dirname(present_image_save_path)):
                     os.makedirs(os.path.dirname(present_image_save_path))
